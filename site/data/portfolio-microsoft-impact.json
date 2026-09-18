@@ -1,0 +1,1283 @@
+{
+  "company": "Microsoft",
+  "ticker": "MSFT",
+  "fiscal_period": {
+    "label": "FY2025",
+    "start": "2024-07-01",
+    "end": "2025-06-30",
+    "alignment": "confirmed"
+  },
+  "as_of": "2026-09-18",
+  "scope": "Reconciliação de evidências públicas; não auditoria do portfólio completo.",
+  "external_gpt_review": "absent_not_claimed",
+  "assurance": {
+    "provider": "Deloitte & Touche LLP",
+    "date": "2026-07-09",
+    "type": "limited_assurance_review",
+    "standards": [
+      "AICPA AT-C105",
+      "AICPA AT-C210"
+    ],
+    "scope": "Asserção da administração sobre informação especificada da seção1 do Data Fact Sheet2026, em/para FY25, e percentual de plásticos de uso único da tabela11 nota3 em31/12/2025; critérios seção1.10.",
+    "exclusions": [
+      "Seção2",
+      "Períodos anteriores ao FY25",
+      "Projeções",
+      "Metas e progresso contra metas",
+      "Outras narrativas fora da informação especificada",
+      "Doações, impacto social e programas de emprego"
+    ],
+    "conclusion": "Nada chegou ao conhecimento que exija modificações materiais para apresentação segundo critérios; não é opinião de exame com asseguração razoável.",
+    "url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+    "page": 23,
+    "visual_check": "Parecer p.23 renderizado e inspecionado; texto e data confirmados."
+  },
+  "claims": [
+    {
+      "id": "ghg_scope1",
+      "category": "ambiente",
+      "claim": "Emissões diretas Escopo 1",
+      "value": 170887,
+      "unit": "tCO2e",
+      "period": {
+        "label": "FY2025",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+      "page_section": "p.3 tabela 1A",
+      "verifier": "Deloitte & Touche LLP",
+      "verification_scope": "Revisão limitada AICPA AT-C 105/210 sobre asserção da administração e informação especificada da seção 1 FY25; critérios seção 1.10. Parecer de 09/07/2026. Não é exame com asseguração razoável.",
+      "gaps": [],
+      "overlap_group": "ghg_alternative_scopes_and_totals",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "ghg_scope2_location",
+      "category": "ambiente",
+      "claim": "Escopo 2 location-based",
+      "value": 12030556,
+      "unit": "tCO2e",
+      "period": {
+        "label": "FY2025",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+      "page_section": "p.3 tabela 1A",
+      "verifier": "Deloitte & Touche LLP",
+      "verification_scope": "Revisão limitada AICPA AT-C 105/210 sobre asserção da administração e informação especificada da seção 1 FY25; critérios seção 1.10. Parecer de 09/07/2026. Não é exame com asseguração razoável.",
+      "gaps": [],
+      "overlap_group": "ghg_alternative_scopes_and_totals",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "ghg_scope2_market",
+      "category": "ambiente",
+      "claim": "Escopo 2 market-based",
+      "value": 2707428,
+      "unit": "tCO2e",
+      "period": {
+        "label": "FY2025",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+      "page_section": "p.3 tabela 1A",
+      "verifier": "Deloitte & Touche LLP",
+      "verification_scope": "Revisão limitada AICPA AT-C 105/210 sobre asserção da administração e informação especificada da seção 1 FY25; critérios seção 1.10. Parecer de 09/07/2026. Não é exame com asseguração razoável.",
+      "gaps": [],
+      "overlap_group": "ghg_alternative_scopes_and_totals",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "ghg_scope3_ghgp",
+      "category": "ambiente",
+      "claim": "Escopo 3 conforme tabela GHG Protocol",
+      "value": 18243000,
+      "unit": "tCO2e",
+      "period": {
+        "label": "FY2025",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+      "page_section": "p.3 tabela 1A",
+      "verifier": "Deloitte & Touche LLP",
+      "verification_scope": "Revisão limitada AICPA AT-C 105/210 sobre asserção da administração e informação especificada da seção 1 FY25; critérios seção 1.10. Parecer de 09/07/2026. Não é exame com asseguração razoável.",
+      "gaps": [],
+      "overlap_group": "ghg_alternative_scopes_and_totals",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "ghg_total_ghgp",
+      "category": "ambiente",
+      "claim": "Emissões totais tabela 1A: S1+S2 market-based+S3",
+      "value": 21121000,
+      "unit": "tCO2e",
+      "period": {
+        "label": "FY2025",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+      "page_section": "p.3 tabela 1A",
+      "verifier": "Deloitte & Touche LLP",
+      "verification_scope": "Revisão limitada AICPA AT-C 105/210 sobre asserção da administração e informação especificada da seção 1 FY25; critérios seção 1.10. Parecer de 09/07/2026. Não é exame com asseguração razoável.",
+      "gaps": [],
+      "overlap_group": "ghg_alternative_scopes_and_totals",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "ghg_total_management",
+      "category": "ambiente",
+      "claim": "Emissões totais segundo critérios da administração",
+      "value": 20290000,
+      "unit": "tCO2e",
+      "period": {
+        "label": "FY2025",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+      "page_section": "p.4 tabela 1B",
+      "verifier": "Deloitte & Touche LLP",
+      "verification_scope": "Revisão limitada AICPA AT-C 105/210 sobre asserção da administração e informação especificada da seção 1 FY25; critérios seção 1.10. Parecer de 09/07/2026. Não é exame com asseguração razoável.",
+      "gaps": [],
+      "overlap_group": "ghg_alternative_scopes_and_totals",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "energy_total",
+      "category": "ambiente",
+      "claim": "Consumo total de energia",
+      "value": 37461476,
+      "unit": "MWh",
+      "period": {
+        "label": "FY2025",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+      "page_section": "p.6 tabela 5",
+      "verifier": "Deloitte & Touche LLP",
+      "verification_scope": "Revisão limitada AICPA AT-C 105/210 sobre asserção da administração e informação especificada da seção 1 FY25; critérios seção 1.10. Parecer de 09/07/2026. Não é exame com asseguração razoável.",
+      "gaps": [],
+      "overlap_group": "environment_energy_total",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "electricity",
+      "category": "ambiente",
+      "claim": "Eletricidade consumida",
+      "value": 37026353,
+      "unit": "MWh",
+      "period": {
+        "label": "FY2025",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+      "page_section": "p.6 tabela 5",
+      "verifier": "Deloitte & Touche LLP",
+      "verification_scope": "Revisão limitada AICPA AT-C 105/210 sobre asserção da administração e informação especificada da seção 1 FY25; critérios seção 1.10. Parecer de 09/07/2026. Não é exame com asseguração razoável.",
+      "gaps": [],
+      "overlap_group": "environment_electricity",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "renewable_matched_mwh",
+      "category": "ambiente",
+      "claim": "Eletricidade renovável casada para contabilidade operacional",
+      "value": 34534392,
+      "unit": "MWh",
+      "period": {
+        "label": "FY2025",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+      "page_section": "p.6 tabela 5",
+      "verifier": "Deloitte & Touche LLP",
+      "verification_scope": "Revisão limitada AICPA AT-C 105/210 sobre asserção da administração e informação especificada da seção 1 FY25; critérios seção 1.10. Parecer de 09/07/2026. Não é exame com asseguração razoável.",
+      "gaps": [
+        "Tabela 6 inclui fração renovável da rede; tabela 5 exclui essa fração e volumes de Scope 3. Critérios diferentes. Casamento anual não demonstra fornecimento livre de carbono 24/7 por instalação."
+      ],
+      "overlap_group": "environment_renewable_matched_mwh",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "direct_renewable_pct",
+      "category": "ambiente",
+      "claim": "Eletricidade renovável direta segundo critério da tabela 6",
+      "value": 100,
+      "unit": "percent",
+      "period": {
+        "label": "FY2025",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+      "page_section": "p.6 tabela 6",
+      "verifier": "Deloitte & Touche LLP",
+      "verification_scope": "Revisão limitada AICPA AT-C 105/210 sobre asserção da administração e informação especificada da seção 1 FY25; critérios seção 1.10. Parecer de 09/07/2026. Não é exame com asseguração razoável.",
+      "gaps": [
+        "Tabela 6 inclui fração renovável da rede; tabela 5 exclui essa fração e volumes de Scope 3. Critérios diferentes. Casamento anual não demonstra fornecimento livre de carbono 24/7 por instalação."
+      ],
+      "overlap_group": "environment_direct_renewable_pct",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "water_withdrawal",
+      "category": "ambiente",
+      "claim": "Retirada total de água",
+      "value": 13266,
+      "unit": "ML",
+      "period": {
+        "label": "FY2025",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+      "page_section": "p.7 tabela 8",
+      "verifier": "Deloitte & Touche LLP",
+      "verification_scope": "Revisão limitada AICPA AT-C 105/210 sobre asserção da administração e informação especificada da seção 1 FY25; critérios seção 1.10. Parecer de 09/07/2026. Não é exame com asseguração razoável.",
+      "gaps": [],
+      "overlap_group": "water_inventory",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "water_consumption",
+      "category": "ambiente",
+      "claim": "Consumo total de água",
+      "value": 8170,
+      "unit": "ML",
+      "period": {
+        "label": "FY2025",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+      "page_section": "p.7 tabela 8",
+      "verifier": "Deloitte & Touche LLP",
+      "verification_scope": "Revisão limitada AICPA AT-C 105/210 sobre asserção da administração e informação especificada da seção 1 FY25; critérios seção 1.10. Parecer de 09/07/2026. Não é exame com asseguração razoável.",
+      "gaps": [],
+      "overlap_group": "water_inventory",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "water_discharge",
+      "category": "ambiente",
+      "claim": "Descarga de água",
+      "value": 5096,
+      "unit": "ML",
+      "period": {
+        "label": "FY2025",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+      "page_section": "p.7 tabela 8",
+      "verifier": "Deloitte & Touche LLP",
+      "verification_scope": "Revisão limitada AICPA AT-C 105/210 sobre asserção da administração e informação especificada da seção 1 FY25; critérios seção 1.10. Parecer de 09/07/2026. Não é exame com asseguração razoável.",
+      "gaps": [],
+      "overlap_group": "water_inventory",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "water_stress_withdrawal",
+      "category": "ambiente",
+      "claim": "Retirada em áreas de estresse hídrico",
+      "value": 6659,
+      "unit": "ML",
+      "period": {
+        "label": "FY2025",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+      "page_section": "p.7 tabela 8 nota 2",
+      "verifier": "Deloitte & Touche LLP",
+      "verification_scope": "Revisão limitada AICPA AT-C 105/210 sobre asserção da administração e informação especificada da seção 1 FY25; critérios seção 1.10. Parecer de 09/07/2026. Não é exame com asseguração razoável.",
+      "gaps": [],
+      "overlap_group": "water_inventory",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "water_stress_consumption",
+      "category": "ambiente",
+      "claim": "Consumo em áreas de estresse hídrico",
+      "value": 3926,
+      "unit": "ML",
+      "period": {
+        "label": "FY2025",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+      "page_section": "p.7 tabela 8 nota 2",
+      "verifier": "Deloitte & Touche LLP",
+      "verification_scope": "Revisão limitada AICPA AT-C 105/210 sobre asserção da administração e informação especificada da seção 1 FY25; critérios seção 1.10. Parecer de 09/07/2026. Não é exame com asseguração razoável.",
+      "gaps": [],
+      "overlap_group": "water_inventory",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "waste_generated",
+      "category": "ambiente",
+      "claim": "Resíduos operacionais gerados",
+      "value": 58868,
+      "unit": "metric_tonnes",
+      "period": {
+        "label": "FY2025",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+      "page_section": "p.7 tabela 9",
+      "verifier": "Deloitte & Touche LLP",
+      "verification_scope": "Revisão limitada AICPA AT-C 105/210 sobre asserção da administração e informação especificada da seção 1 FY25; critérios seção 1.10. Parecer de 09/07/2026. Não é exame com asseguração razoável.",
+      "gaps": [
+        "FY25 adiciona embalagens de hardware de nuvem; anos anteriores não foram ajustados por falta de dados. Prevenção não deve ser somada como gasto/doação."
+      ],
+      "overlap_group": "waste_inventory",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "waste_diverted",
+      "category": "ambiente",
+      "claim": "Resíduos operacionais desviados de disposição",
+      "value": 36149,
+      "unit": "metric_tonnes",
+      "period": {
+        "label": "FY2025",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+      "page_section": "p.7 tabela 9",
+      "verifier": "Deloitte & Touche LLP",
+      "verification_scope": "Revisão limitada AICPA AT-C 105/210 sobre asserção da administração e informação especificada da seção 1 FY25; critérios seção 1.10. Parecer de 09/07/2026. Não é exame com asseguração razoável.",
+      "gaps": [
+        "FY25 adiciona embalagens de hardware de nuvem; anos anteriores não foram ajustados por falta de dados. Prevenção não deve ser somada como gasto/doação."
+      ],
+      "overlap_group": "waste_inventory",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "waste_disposed",
+      "category": "ambiente",
+      "claim": "Resíduos operacionais destinados a disposição",
+      "value": 22719,
+      "unit": "metric_tonnes",
+      "period": {
+        "label": "FY2025",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+      "page_section": "p.7 tabela 9",
+      "verifier": "Deloitte & Touche LLP",
+      "verification_scope": "Revisão limitada AICPA AT-C 105/210 sobre asserção da administração e informação especificada da seção 1 FY25; critérios seção 1.10. Parecer de 09/07/2026. Não é exame com asseguração razoável.",
+      "gaps": [
+        "FY25 adiciona embalagens de hardware de nuvem; anos anteriores não foram ajustados por falta de dados. Prevenção não deve ser somada como gasto/doação."
+      ],
+      "overlap_group": "waste_inventory",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "waste_prevented",
+      "category": "ambiente",
+      "claim": "Prevenção estimada de resíduos por reúso/redução nos locais reportados",
+      "value": 7646,
+      "unit": "metric_tonnes",
+      "period": {
+        "label": "FY2025",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+      "page_section": "p.8 tabela 10",
+      "verifier": "Deloitte & Touche LLP",
+      "verification_scope": "Revisão limitada AICPA AT-C 105/210 sobre asserção da administração e informação especificada da seção 1 FY25; critérios seção 1.10. Parecer de 09/07/2026. Não é exame com asseguração razoável.",
+      "gaps": [
+        "FY25 adiciona embalagens de hardware de nuvem; anos anteriores não foram ajustados por falta de dados. Prevenção não deve ser somada como gasto/doação."
+      ],
+      "overlap_group": "waste_inventory",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "packaging_recyclable",
+      "category": "ambiente",
+      "claim": "Reciclabilidade das embalagens de produtos",
+      "value": 95.8,
+      "unit": "percent",
+      "period": {
+        "label": "FY2025",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+      "page_section": "p.8 tabela 11",
+      "verifier": "Deloitte & Touche LLP",
+      "verification_scope": "Revisão limitada AICPA AT-C 105/210 sobre asserção da administração e informação especificada da seção 1 FY25; critérios seção 1.10. Parecer de 09/07/2026. Não é exame com asseguração razoável.",
+      "gaps": [],
+      "overlap_group": "environment_packaging_recyclable",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "packaging_singleuse_fy",
+      "category": "ambiente",
+      "claim": "Plásticos de uso único nas embalagens primárias, FY25",
+      "value": 4.2,
+      "unit": "percent",
+      "period": {
+        "label": "FY2025",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+      "page_section": "p.8 tabela 11",
+      "verifier": "Deloitte & Touche LLP",
+      "verification_scope": "Revisão limitada AICPA AT-C 105/210 sobre asserção da administração e informação especificada da seção 1 FY25; critérios seção 1.10. Parecer de 09/07/2026. Não é exame com asseguração razoável.",
+      "gaps": [],
+      "overlap_group": "environment_packaging_singleuse_fy",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "land_protected",
+      "category": "ambiente",
+      "claim": "Área protegida atribuída a contribuições da Microsoft, posição final",
+      "value": 16266,
+      "unit": "acres",
+      "period": {
+        "label": "FY2025",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+      "page_section": "p.8 tabela 12 e p.22 critérios",
+      "verifier": "Deloitte & Touche LLP",
+      "verification_scope": "Revisão limitada AICPA AT-C 105/210 sobre asserção da administração e informação especificada da seção 1 FY25; critérios seção 1.10. Parecer de 09/07/2026. Não é exame com asseguração razoável.",
+      "gaps": [
+        "Estoque cumulativo, não novas aquisições FY25. Área atribuída por contribuição dividida pelo custo por acre do parceiro, líquida de overhead; não implica propriedade Microsoft. Financiado e protegido se sobrepõem, não somar."
+      ],
+      "overlap_group": "environment_land_protected",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "packaging_singleuse_cy",
+      "category": "ambiente",
+      "claim": "Plásticos de uso único nas embalagens primárias no fim de CY2025",
+      "value": 0.07,
+      "unit": "percent",
+      "period": {
+        "label": "fim do ano-calendário 2025",
+        "end": "2025-12-31",
+        "alignment": "outside_FY25"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+      "page_section": "p.8 tabela 11 nota 3",
+      "verifier": "Deloitte & Touche LLP",
+      "verification_scope": "Revisão limitada Deloitte também inclui especificamente a informação da tabela11 nota3 para31/12/2025; exceção temporal expressa no parecer09/07/2026.",
+      "gaps": [],
+      "overlap_group": "packaging_singleuse",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "water_replenished",
+      "category": "ambiente",
+      "claim": "Reposição hídrica anual reportada, superior a 14,2 milhões de m³",
+      "value": 14200000,
+      "unit": "m3",
+      "period": {
+        "label": "FY2025",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Sustainability-Report-PDF.pdf",
+      "page_section": "p.24 Water",
+      "verifier": "Microsoft — autorrelato",
+      "verification_scope": "Sem asseguração independente identificada para este indicador.",
+      "gaps": [
+        "Fora do escopo da revisão limitada citada.",
+        "Resultado global não prova compensação em cada bacia/local ou ausência de dano hídrico.",
+        "Não equivale a desembolso financeiro."
+      ],
+      "overlap_group": "water_replenishment",
+      "eligible_for_social_cash_total": false,
+      "value_qualifier": "greater_than"
+    },
+    {
+      "id": "water_new_projects",
+      "category": "ambiente",
+      "claim": "Novos projetos de reposição financiados em FY25",
+      "value": 24,
+      "unit": "projects",
+      "period": {
+        "label": "FY2025",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "financiamento_valor_nao_divulgado",
+      "fiscal_treatment": "Benefício fiscal específico e custo líquido após tributos não divulgados/não verificados; não imputar valor.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Sustainability-Report-PDF.pdf",
+      "page_section": "p.24 Water",
+      "verifier": "Microsoft — autorrelato",
+      "verification_scope": "Sem asseguração independente identificada para este indicador.",
+      "gaps": [
+        "Valor monetário e pagamento por projeto ausentes."
+      ],
+      "overlap_group": "water_replenishment",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "water_new_lifetime",
+      "category": "ambiente",
+      "claim": "Benefício hídrico estimado durante a vida dos 24 novos projetos",
+      "value": 29000000,
+      "unit": "m3",
+      "period": {
+        "label": "vida futura dos projetos financiados em FY25",
+        "alignment": "multiyear_future"
+      },
+      "status": "projetado",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Sustainability-Report-PDF.pdf",
+      "page_section": "p.24 Water",
+      "verifier": "Microsoft — autorrelato",
+      "verification_scope": "Sem asseguração independente identificada para este indicador.",
+      "gaps": [
+        "Não é volume executado no FY25; integra carteira acumulada."
+      ],
+      "overlap_group": "water_replenishment",
+      "eligible_for_social_cash_total": false,
+      "value_qualifier": "greater_than"
+    },
+    {
+      "id": "water_portfolio_lifetime",
+      "category": "ambiente",
+      "claim": "Reposição contratada acumulada estimada durante vida dos projetos",
+      "value": 133000000,
+      "unit": "m3",
+      "period": {
+        "label": "carteira acumulada até FY25; vida dos contratos",
+        "alignment": "cumulative_multiyear"
+      },
+      "status": "contratado_projecao",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Sustainability-Report-PDF.pdf",
+      "page_section": "p.24 Water",
+      "verifier": "Microsoft — autorrelato",
+      "verification_scope": "Sem asseguração independente identificada para este indicador.",
+      "gaps": [],
+      "overlap_group": "water_replenishment",
+      "eligible_for_social_cash_total": false,
+      "value_qualifier": "greater_than"
+    },
+    {
+      "id": "carbon_removal_contracted",
+      "category": "ambiente",
+      "claim": "Remoção de carbono contratada em FY25",
+      "value": 45000000,
+      "unit": "tCO2e",
+      "period": {
+        "label": "contratos celebrados FY25; entregas futuras por até três décadas",
+        "alignment": "FY25_contracts_not_deliveries"
+      },
+      "status": "contratado",
+      "contributor": "Microsoft",
+      "financial_form": "compra_futura_valor_nao_divulgado",
+      "fiscal_treatment": "Benefício fiscal específico e custo líquido após tributos não divulgados/não verificados; não imputar valor.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Sustainability-Report-PDF.pdf",
+      "page_section": "p.33; p.9 horizonte de três décadas",
+      "verifier": "Microsoft — autorrelato",
+      "verification_scope": "Sem asseguração independente identificada para este indicador.",
+      "gaps": [
+        "Não subtrair 45 Mt das emissões anuais: contrato não comprova remoção entregue/verificada.",
+        "Desembolso e valor de contratos não divulgados."
+      ],
+      "overlap_group": null,
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "hardware_reuse_recycle",
+      "category": "ambiente",
+      "claim": "Reúso ou reciclagem de servidores e componentes desativados",
+      "value": 92,
+      "unit": "percent",
+      "period": {
+        "label": "FY2025",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Sustainability-Report-PDF.pdf",
+      "page_section": "p.7",
+      "verifier": "Microsoft — autorrelato",
+      "verification_scope": "Sem asseguração independente identificada para este indicador.",
+      "gaps": [
+        "Autorrelato narrativo; não extrapolar para todos os resíduos nem confundir reúso com reciclagem."
+      ],
+      "overlap_group": null,
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "employee_giving_ar",
+      "category": "social",
+      "claim": "Doações de empregados incluindo contrapartida empresarial no Annual Report/Impact Summary",
+      "value": 263000000,
+      "unit": "USD",
+      "period": {
+        "label": "this year no relatório anual2025; atribuição FY25 contextual, datas não explicitadas junto ao indicador",
+        "start": null,
+        "end": null,
+        "alignment": "requires_period_confirmation"
+      },
+      "status": "executado_reportado",
+      "contributor": "Empregados + Microsoft (company match não desagregado)",
+      "financial_form": "doacoes_monetarias_agregadas",
+      "fiscal_treatment": "Benefício fiscal específico e custo líquido após tributos não divulgados/não verificados; não imputar valor.",
+      "primary_url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+      "page_section": "Carta do CEO, OUR PEOPLE; Impact Summary2025 p.5",
+      "verifier": "Microsoft — autorrelato",
+      "verification_scope": "Sem asseguração independente identificada para este indicador.",
+      "gaps": [
+        "Não é todo recurso próprio da empresa; parcela match desconhecida.",
+        "Diverge de página de employee giving: US$255,6M em 2025; possível período/perímetro distinto não confirmado.",
+        "Auditoria financeira não abrange automaticamente carta do CEO."
+      ],
+      "overlap_group": "employee_giving_2025",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "employee_giving_page",
+      "category": "social",
+      "claim": "Doações na página de employee engagement, incluindo company match",
+      "value": 255600000,
+      "unit": "USD",
+      "period": {
+        "label": "2025 conforme página; calendário/fiscal não explicitado",
+        "start": null,
+        "end": null,
+        "alignment": "requires_period_confirmation"
+      },
+      "status": "executado_reportado",
+      "contributor": "Empregados + Microsoft",
+      "financial_form": "doacoes_monetarias_agregadas",
+      "fiscal_treatment": "Benefício fiscal específico e custo líquido após tributos não divulgados/não verificados; não imputar valor.",
+      "primary_url": "https://www.microsoft.com/en-us/corporate-responsibility/philanthropies/employee-engagement",
+      "page_section": "In 2025 / Employee giving by the numbers",
+      "verifier": "Microsoft — autorrelato",
+      "verification_scope": "Sem asseguração independente identificada para este indicador.",
+      "gaps": [
+        "36.500 organizações e 110 países; valor não conciliado com US$263M/37.000 organizações.",
+        "Não somar versões nem interpretar a diferença como desvio."
+      ],
+      "overlap_group": "employee_giving_2025",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "employee_volunteer_hours",
+      "category": "social",
+      "claim": "Horas de voluntariado reportadas, mais de 1,2 milhão",
+      "value": 1200000,
+      "unit": "hours",
+      "period": {
+        "label": "this year no Annual Report2025; janela exata não explicitada",
+        "alignment": "requires_period_confirmation"
+      },
+      "status": "executado_reportado",
+      "contributor": "Empregados",
+      "financial_form": "tempo_nao_monetizado",
+      "fiscal_treatment": "Benefício fiscal específico e custo líquido após tributos não divulgados/não verificados; não imputar valor.",
+      "primary_url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+      "page_section": "Carta CEO, OUR PEOPLE",
+      "verifier": "Microsoft — autorrelato",
+      "verification_scope": "Sem asseguração independente identificada para este indicador.",
+      "gaps": [
+        "Não somar às doações monetárias; não multiplicar por salário sem metodologia de valoração."
+      ],
+      "overlap_group": "employee_giving_2025",
+      "eligible_for_social_cash_total": false,
+      "value_qualifier": "greater_than"
+    },
+    {
+      "id": "elevate_pledge",
+      "category": "social",
+      "claim": "Compromisso global Elevate de mais de US$4 bilhões em dinheiro e tecnologia AI/cloud",
+      "value": 4000000000,
+      "unit": "USD",
+      "period": {
+        "label": "cinco anos após anúncio09/07/2025",
+        "start": "2025-07-09",
+        "alignment": "outside_FY25_future"
+      },
+      "status": "anunciado",
+      "contributor": "Microsoft",
+      "financial_form": "cash_e_in_kind_nao_desagregados",
+      "fiscal_treatment": "Benefício fiscal específico e custo líquido após tributos não divulgados/não verificados; não imputar valor.",
+      "primary_url": "https://blogs.microsoft.com/on-the-issues/2025/07/09/elevate/",
+      "page_section": "Anúncio de 09/07/2025",
+      "verifier": "Microsoft — autorrelato",
+      "verification_scope": "Sem asseguração independente identificada para este indicador.",
+      "gaps": [
+        "Anunciado após fechamento FY25, mesmo citado na carta anual.",
+        "Não é desembolso FY25; valor de tecnologia não equivale a custo marginal ou caixa.",
+        "Sem divisão dinheiro/tecnologia nem tratamento fiscal por programa."
+      ],
+      "overlap_group": "elevate_pledge",
+      "eligible_for_social_cash_total": false,
+      "value_qualifier": "greater_than"
+    },
+    {
+      "id": "elevate_credentials_target",
+      "category": "formacao_externa",
+      "claim": "Meta de pessoas com credencial em AI",
+      "value": 20000000,
+      "unit": "people",
+      "period": {
+        "label": "dois anos após anúncio09/07/2025",
+        "start": "2025-07-09",
+        "alignment": "outside_FY25_future"
+      },
+      "status": "meta_anunciada",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://blogs.microsoft.com/on-the-issues/2025/07/09/elevate/",
+      "page_section": "09/07/2025, Elevate Academy",
+      "verifier": "Microsoft — autorrelato",
+      "verification_scope": "Sem asseguração independente identificada para este indicador.",
+      "gaps": [
+        "Credencial não comprova emprego/renda adicional; não registrar meta como conclusão."
+      ],
+      "overlap_group": "elevate_pledge",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "ai_accessibility_participants",
+      "category": "formacao_externa",
+      "claim": "Participantes acumulados de AI Skilling focado em acessibilidade, mais de5 milhões",
+      "value": 5000000,
+      "unit": "people",
+      "period": {
+        "label": "acumulado informado no Impact Summary2025; início/fim não definidos",
+        "alignment": "cumulative_unspecified"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/Impact-Summary-Report-2025.pdf",
+      "page_section": "p.5",
+      "verifier": "Microsoft — autorrelato",
+      "verification_scope": "Sem asseguração independente identificada para este indicador.",
+      "gaps": [
+        "Participação não é certificação/conclusão/emprego.",
+        "Possível sobreposição com outras iniciativas; sem desagregação."
+      ],
+      "overlap_group": null,
+      "eligible_for_social_cash_total": false,
+      "value_qualifier": "greater_than"
+    },
+    {
+      "id": "corp_cash_giving_fy25",
+      "category": "social",
+      "claim": "Total de doações corporativas em dinheiro FY25 isolado",
+      "value": null,
+      "unit": "USD",
+      "period": {
+        "label": "FY2025",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "nao_identificado",
+      "contributor": "Microsoft",
+      "financial_form": "cash",
+      "fiscal_treatment": "Benefício fiscal específico e custo líquido após tributos não divulgados/não verificados; não imputar valor.",
+      "primary_url": "https://www.microsoft.com/en-us/corporate-responsibility/reports-hub",
+      "page_section": "Hub / fontes examinadas",
+      "verifier": "Microsoft — autorrelato",
+      "verification_scope": "Sem asseguração independente identificada para este indicador.",
+      "gaps": [
+        "Não encontrado total FY25 separado da contribuição dos empregados e sem sobreposição. Não é zero."
+      ],
+      "overlap_group": null,
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "tech_giving_fy25",
+      "category": "social",
+      "claim": "Total FY25 separado de tecnologia doada e descontos concedidos",
+      "value": null,
+      "unit": "USD",
+      "period": {
+        "label": "FY2025",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "nao_identificado",
+      "contributor": "Microsoft",
+      "financial_form": "in_kind_e_descontos",
+      "fiscal_treatment": "Benefício fiscal específico e custo líquido após tributos não divulgados/não verificados; não imputar valor.",
+      "primary_url": "https://www.microsoft.com/en-us/corporate-responsibility/reports-hub",
+      "page_section": "Hub / Impact Summary2025",
+      "verifier": "Microsoft — autorrelato",
+      "verification_scope": "Sem asseguração independente identificada para este indicador.",
+      "gaps": [
+        "Não transportar US$4,7B FY24 para FY25.",
+        "Link atual Donations and volunteerism resolve para ficha2021.",
+        "Desconto, preço de lista, custo da licença e desembolso são medidas diferentes."
+      ],
+      "overlap_group": null,
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "employee_count",
+      "category": "trabalhadores",
+      "claim": "Empregados em tempo integral",
+      "value": 228000,
+      "unit": "people",
+      "period": {
+        "label": "posição em30/06/2025",
+        "end": "2025-06-30",
+        "alignment": "confirmed_point_in_time"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+      "page_section": "HUMAN CAPITAL RESOURCES",
+      "verifier": "Microsoft — autorrelato",
+      "verification_scope": "Sem asseguração independente identificada para este indicador.",
+      "gaps": [
+        "125mil EUA/103mil internacional; não é saldo líquido de vagas criadas; não mede terceirizados ou qualidade do trabalho."
+      ],
+      "overlap_group": null,
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "retirement_2025",
+      "category": "trabalhadores",
+      "claim": "Benefícios previdenciários financiados pelo empregador, reconhecidos como despesa quando contribuídos",
+      "value": 1800000000,
+      "unit": "USD",
+      "period": {
+        "label": "FY2025",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "beneficio_previdenciario_empresa",
+      "fiscal_treatment": "Benefício fiscal específico e custo líquido após tributos não divulgados/não verificados; não imputar valor.",
+      "primary_url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+      "page_section": "Nota17, Savings Plans",
+      "verifier": "Deloitte & Touche LLP",
+      "verification_scope": "Demonstrações financeiras e notas auditadas segundo PCAOB, parecer no Annual Report2025.",
+      "gaps": [
+        "Já integra despesas antes do lucro líquido; não subtrair novamente do lucro nem somar a outra rubrica de benefícios que o contenha.",
+        "Não representa gasto total com trabalhadores."
+      ],
+      "overlap_group": "worker_benefits_and_operating_expenses",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "retirement_2024",
+      "category": "trabalhadores",
+      "claim": "Benefícios previdenciários financiados pelo empregador, reconhecidos como despesa quando contribuídos",
+      "value": 1700000000,
+      "unit": "USD",
+      "period": {
+        "label": "FY2024",
+        "start": "2023-07-01",
+        "end": "2024-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "beneficio_previdenciario_empresa",
+      "fiscal_treatment": "Benefício fiscal específico e custo líquido após tributos não divulgados/não verificados; não imputar valor.",
+      "primary_url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+      "page_section": "Nota17, Savings Plans",
+      "verifier": "Deloitte & Touche LLP",
+      "verification_scope": "Demonstrações financeiras e notas auditadas segundo PCAOB, parecer no Annual Report2025.",
+      "gaps": [
+        "Já integra despesas antes do lucro líquido; não subtrair novamente do lucro nem somar a outra rubrica de benefícios que o contenha.",
+        "Não representa gasto total com trabalhadores."
+      ],
+      "overlap_group": "worker_benefits_and_operating_expenses",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "retirement_2023",
+      "category": "trabalhadores",
+      "claim": "Benefícios previdenciários financiados pelo empregador, reconhecidos como despesa quando contribuídos",
+      "value": 1600000000,
+      "unit": "USD",
+      "period": {
+        "label": "FY2023",
+        "start": "2022-07-01",
+        "end": "2023-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "beneficio_previdenciario_empresa",
+      "fiscal_treatment": "Benefício fiscal específico e custo líquido após tributos não divulgados/não verificados; não imputar valor.",
+      "primary_url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+      "page_section": "Nota17, Savings Plans",
+      "verifier": "Deloitte & Touche LLP",
+      "verification_scope": "Demonstrações financeiras e notas auditadas segundo PCAOB, parecer no Annual Report2025.",
+      "gaps": [
+        "Já integra despesas antes do lucro líquido; não subtrair novamente do lucro nem somar a outra rubrica de benefícios que o contenha.",
+        "Não representa gasto total com trabalhadores."
+      ],
+      "overlap_group": "worker_benefits_and_operating_expenses",
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "employee_training",
+      "category": "trabalhadores",
+      "claim": "Acesso a aprendizagem contínua interna e externa; total de horas/custo FY25 não identificado",
+      "value": null,
+      "unit": "hours_or_USD",
+      "period": {
+        "label": "FY2025",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "alignment": "confirmed"
+      },
+      "status": "qualitativo_sem_quantificacao",
+      "contributor": "Microsoft",
+      "financial_form": "indicador_fisico",
+      "fiscal_treatment": "Não é valor financeiro de aporte; não inferir abatimento fiscal ou custo.",
+      "primary_url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+      "page_section": "HUMAN CAPITAL RESOURCES",
+      "verifier": "Microsoft — autorrelato",
+      "verification_scope": "Sem asseguração independente identificada para este indicador.",
+      "gaps": [
+        "Sem taxa de promoção interna, remuneração mediana global comparável, satisfação FY25 ou custo específico de formação nas fontes examinadas.",
+        "Não converter gasto total de P&D em formação ou humanização."
+      ],
+      "overlap_group": null,
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "gateway_program",
+      "category": "programa_corrob",
+      "claim": "Gateway Technical College confirma oferta de certificado IT–Microsoft Data Center, apoio financeiro a estudantes e bootcamp de educadores em2024",
+      "value": null,
+      "unit": "USD_unknown",
+      "period": {
+        "label": "relatório acadêmico2024–2025; evento verão2024",
+        "alignment": "partly_overlaps_FY25_dates_unresolved"
+      },
+      "status": "executado_reportado",
+      "contributor": "Microsoft + Gateway Technical College",
+      "financial_form": "apoio_financeiro_e_curriculo_sem_valor_aberto",
+      "fiscal_treatment": "Benefício fiscal específico e custo líquido após tributos não divulgados/não verificados; não imputar valor.",
+      "primary_url": "https://www.gtc.edu/documents/gateway-annual-report-2024-2025",
+      "page_section": "p.9 impressa (página9 do PDF), Microsoft helps Gateway bring industry-driven training to college",
+      "verifier": "Gateway Technical College — instituição parceira/executora",
+      "verification_scope": "Corroboração pública da execução e oferta educacional; não auditoria independente nem avaliação causal.",
+      "gaps": [
+        "Certificado de dois semestres e quatro disciplinas.",
+        "Valor exato, participantes, concluintes, emprego e salários não quantificados no trecho.",
+        "Depoimento estudantil é evidência qualitativa, não resultado causal ou amostra representativa.",
+        "Parceiro recebe apoio e não é avaliador independente."
+      ],
+      "overlap_group": null,
+      "eligible_for_social_cash_total": false
+    },
+    {
+      "id": "climate_fund_allocated",
+      "category": "capital_ambiental",
+      "claim": "Climate Innovation Fund: capital alocado a67 investidas desde2020",
+      "value": 815000000,
+      "unit": "USD",
+      "period": {
+        "label": "acumulado desde2020 até relatório2026; data de corte específica não definida",
+        "alignment": "cumulative_not_FY25"
+      },
+      "status": "alocado_reportado",
+      "contributor": "Microsoft",
+      "financial_form": "investimento_financeiro_nao_doacao",
+      "fiscal_treatment": "Benefício fiscal específico e custo líquido após tributos não divulgados/não verificados; não imputar valor.",
+      "primary_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Sustainability-Report-PDF.pdf",
+      "page_section": "p.9 Building markets",
+      "verifier": "Microsoft — autorrelato",
+      "verification_scope": "Sem asseguração independente identificada para este indicador.",
+      "gaps": [
+        "Mandato de US$1B não é desembolso adicional.",
+        "Alocado não demonstra integralmente pago; pode gerar retorno financeiro.",
+        "Não lançar automaticamente como filantropia nem penalizar sem analisar finalidade ambiental."
+      ],
+      "overlap_group": null,
+      "eligible_for_social_cash_total": false
+    }
+  ],
+  "comparisons": [
+    {
+      "metric": "GHG tabela1A",
+      "FY24": 16693000,
+      "FY25": 21121000,
+      "unit": "tCO2e",
+      "change_pct": 26.52608877972802,
+      "source": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+      "page": 3,
+      "caveat": "FY24 reexpresso; ano anterior excluído da revisão2026."
+    },
+    {
+      "metric": "GHG critérios administração tabela1B",
+      "FY24": 16215000,
+      "FY25": 20290000,
+      "unit": "tCO2e",
+      "change_pct": 25.131051495528833,
+      "source": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+      "page": 4,
+      "caveat": "25% narrativo corresponde aproximadamente a esta série, não à tabela1A. Não somar séries."
+    },
+    {
+      "metric": "Eletricidade",
+      "FY24": 29829540,
+      "FY25": 37026353,
+      "unit": "MWh",
+      "change_pct": 24.126463230743745,
+      "source": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+      "page": 6
+    },
+    {
+      "metric": "Água retirada",
+      "FY24": 11590,
+      "FY25": 13266,
+      "unit": "ML",
+      "change_pct": 14.460742018981886,
+      "source": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+      "page": 7,
+      "caveat": "Série histórica recalculada, inclusive volumes antes não reportados e ABK."
+    },
+    {
+      "metric": "Água consumida",
+      "FY24": 6693,
+      "FY25": 8170,
+      "unit": "ML",
+      "change_pct": 22.06783206334977,
+      "source": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+      "page": 7
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+      "title": "Environmental Data Fact Sheet2026",
+      "accessed": "2026-09-18",
+      "type": "corporate_with_limited_assurance_scope",
+      "sha256": "0fd180837df00b3427c3eae484a492224b8f18c381e82a2aed98b04553a197f6"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Sustainability-Report-PDF.pdf",
+      "title": "Environmental Sustainability Report2026",
+      "accessed": "2026-09-18",
+      "type": "corporate_self_report",
+      "sha256": "20918e9fc4a02241f55d12f1f5b6228a832b706499f9963a1a3f91e3d3e693ba"
+    },
+    {
+      "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+      "title": "Annual Report2025",
+      "accessed": "2026-09-18",
+      "type": "financial_statements_audited_narrative_not_automatically_audited"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/Impact-Summary-Report-2025.pdf",
+      "title": "Impact Summary2025",
+      "accessed": "2026-09-18",
+      "type": "corporate_self_report",
+      "sha256": "d6c4a1fc0705accaef74dfba097223bfe03a5039f54eadb7fd41906233d98b61"
+    },
+    {
+      "url": "https://blogs.microsoft.com/on-the-issues/2025/07/09/elevate/",
+      "title": "Elevate launch09/07/2025",
+      "accessed": "2026-09-18",
+      "type": "corporate_announcement"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/corporate-responsibility/philanthropies/employee-engagement",
+      "title": "Employee giving current page",
+      "accessed": "2026-09-18",
+      "type": "corporate_self_report"
+    },
+    {
+      "url": "https://www.gtc.edu/documents/gateway-annual-report-2024-2025",
+      "title": "Gateway Annual Report2024–2025",
+      "accessed": "2026-09-18",
+      "type": "implementing_partner_primary"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/corporate-responsibility/reports-hub",
+      "title": "Reports Hub",
+      "accessed": "2026-09-18",
+      "type": "corporate_index"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/Data-Factsheet-Donations-and-Volunteerism-2021.pdf",
+      "title": "Donations and Volunteerism2021",
+      "accessed": "2026-09-18",
+      "type": "stale_redirect_excluded",
+      "sha256": "0519def7c3ac0a4ef549b32f1f36c224a6cdbaefac16aacee2dbe06ffeb752ac"
+    }
+  ],
+  "reconciliation_rules": [
+    "Não somar Escopo2location-based com market-based nem tabela1A com1B.",
+    "Não abater contratos futuros de remoção das emissões realizadas.",
+    "Não somar total e componentes de resíduos/água/energia.",
+    "Não somar US$263M e US$255,6M; separar período/perímetro e contribuição do empregado.",
+    "Não inserir promessa Elevate pós30/06/2025 como gastoFY25.",
+    "Não confundir tecnologia/descontos/preço de lista com caixa ou custo da empresa.",
+    "Benefícios previdenciários já afetam lucro; não reinserir como destinação adicional sem ponte contábil.",
+    "Ausência de dado=desconhecido, nunca zero.",
+    "Todos benefícios fiscais por projeto permanecem desconhecidos; não calcular contribuição líquida de incentivo inventado.",
+    "Relatório externo GPT não foi fornecido; esta pesquisa não é auditoria independente do portfólio."
+  ],
+  "gaps": [
+    "Portfólio integral por beneficiário e desembolso não publicado nas fontes examinadas.",
+    "Total corporativo cashFY25, tecnologiaFY25, match isolado e incentivo fiscal não reconciliados.",
+    "Horas/custo de treinamento internoFY25 e resultados de emprego causalmente atribuídos não identificados.",
+    "O relato2026 contém açõesposteriores aoFY25; registrar datas por claim."
+  ]
+}

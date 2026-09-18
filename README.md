@@ -1,10 +1,14 @@
 # ÍNDOLE 360°
 
-Catálogo documental empresarial de Aldenir Rocha. Versão 2.1.0, 18/09/2026. Base de pesquisa: 17/09/2026.
+Catálogo documental empresarial de Aldenir Rocha. Versão 2.2.0, 18/09/2026. Base original de pesquisa: 17/09/2026; portfólio Microsoft consultado em 18/09/2026.
 
 [Abrir site](https://aldenirfilho.github.io/INDOLE-360/) · [Metodologia](docs/METODOLOGIA.md) · [Piloto preservado](https://aldenirfilho.github.io/NEXUS-BRASIL/indole360/)
 
-## Novo na versão 2.1
+## Novo na versão 2.2
+
+[Portfólio Microsoft](https://aldenirfilho.github.io/INDOLE-360/portfolio-microsoft.html): série FY2023–FY2025, 12 conciliações aritméticas, 44 registros de impacto, Word de seis páginas e Excel com fórmulas. Aportes próprios e aderência ainda não determinados; o portfólio transacional integral depende de comprovantes externos. [Método e pendências](docs/PORTFOLIO_MICROSOFT.md) · [Agenda das cinco novas frentes](docs/EXPANSAO_INDOLES.md).
+
+## Versão 2.1 preservada
 
 [Abrir equalização](https://aldenirfilho.github.io/INDOLE-360/equalizacao.html): simulador histórico com prejuízos, portfólio de contribuições, fontes fiscais brasileiras e concepção do projeto Índole dos Impostos. O prompt autoral foi preservado; a revisão com o material externo do GPT permanece pendente. Não houve nova avaliação das dez empresas.
 
@@ -12,7 +16,7 @@ Catálogo documental empresarial de Aldenir Rocha. Versão 2.1.0, 18/09/2026. Ba
 
 - Dez fichas: NVIDIA, Apple, Alphabet, Microsoft, Amazon, TSMC, SpaceX, Meta, Broadcom e Saudi Aramco.
 - 63 URLs de fontes primárias registradas; seleção da amostra por capitalização no CompaniesMarketCap.
-- Busca, filtros setoriais, comparações financeiras, simulador 30/30/30/10, cartas e quatro documentos Word editáveis.
+- Busca, filtros setoriais, comparações financeiras, simulador 30/30/30/10, cartas, cinco documentos Word editáveis e uma planilha de conciliação.
 - Dois roteiros de revisão: contraditório financeiro/integridade e acreditação documental/impacto.
 
 **Não há nota geral de índole concluída nesta versão.** A série histórica, as onze dimensões e a conciliação dos recursos precisam ser completadas. Ausência não vale zero. Aderência ao modelo autoral não equivale à honestidade, e aplicação financeira não prova corrupção. Os agentes são roteiros sob comando; não existe monitoramento automático ativado.

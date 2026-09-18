@@ -1,0 +1,10 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import {reconcile,proposal} from '../site/portfolio.mjs';
+const f=JSON.parse(fs.readFileSync(new URL('../site/data/portfolio-microsoft-finance.json',import.meta.url)));
+const impact=JSON.parse(fs.readFileSync(new URL('../site/data/portfolio-microsoft-impact.json',import.meta.url)));
+test('três anos fecham operações investimentos financiamento e caixa',()=>{for(const p of f.periods){const r=reconcile(f,p);assert.equal(r.balanced,true);assert.equal(r.checks.length,4);r.checks.forEach(c=>assert.equal(c.residual,0));}assert.equal(reconcile(f,'FY2022'),null)});
+test('omissão e erro de sinal não recebem conciliação positiva',()=>{const broken=structuredClone(f);broken.cash_flow_bridges.investing[0].values.FY2025*=-1;assert.equal(reconcile(broken,'FY2025').balanced,false);broken.cash_flow_bridges.investing[0].values.FY2025=null;assert.equal(reconcile(broken,'FY2025').checks[1].residual,null);broken.metrics.find(m=>m.id==='cash_begin').values.FY2025=null;assert.equal(reconcile(broken,'FY2025'),null)});
+test('cenário preserva desconhecidos e não aceita janelas duplicadas',()=>{const p=proposal(f,f.periods);assert.equal(p.base,262329);assert.equal(p.credited,null);assert.equal(p.adherence,null);assert.equal(proposal(f,['FY2025','FY2025']),null);assert.equal(proposal(f,['FY2022']),null);assert.equal(proposal(f,['FY2025']).impact,30549.6)});
+test('evidências distintas não geram contribuição própria fabricada',()=>{const by=id=>impact.claims.find(c=>c.id===id);assert.equal(by('corp_cash_giving_fy25').value,null);assert.equal(by('tech_giving_fy25').value,null);assert.notEqual(by('ghg_total_ghgp').value,by('ghg_total_management').value);assert.equal(new Set(impact.claims.map(c=>c.id)).size,impact.claims.length);assert.ok(impact.claims.every(c=>c.primary_url.startsWith('https://')));assert.equal(impact.external_gpt_review,'absent_not_claimed');});

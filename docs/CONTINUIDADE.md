@@ -15,3 +15,9 @@ As fichas não receberam notas gerais por falta de indicadores comparáveis em t
 ## Complemento 2.1 — equalização
 
 Site: https://aldenirfilho.github.io/INDOLE-360/equalizacao.html. Metodologia em EQUALIZACAO_E_CONTRIBUICAO.md; concepção futura em INDOLE_DOS_IMPOSTOS.md. Próxima ação: conciliar um portfólio completo e confrontar o material externo do GPT quando recebido. Não reenviar as cartas já registradas. O lembrete de Índole dos Impostos foi criado para 19/09/2026 às 10h, horário de Sobral, uma execução. Não há monitoramento empresarial automático.
+
+## Complemento 2.2 — portfólio Microsoft e agenda
+
+A conciliação documental de Microsoft FY2023–FY2025 fecha 12 verificações aritméticas. A revisão de impacto tem 44 registros; aportes próprios líquidos, adesão e portfólio transacional completo permanecem pendentes de evidências. Ver PORTFOLIO_MICROSOFT.md. O catálogo FY2026 e todos os documentos anteriores foram preservados.
+
+A agenda foi ampliada na mesma automação para duas ocorrências: 19/09/2026, Índole dos Impostos; 21/09/2026, lembrete único para Saúde, Mídia, Educação, Política e Inversão dos Impostos e do Formato de Cobrança. Ambos às 10h de America/Fortaleza. A ampliação não repete o lembrete antigo nem ativa monitoramento empresarial.

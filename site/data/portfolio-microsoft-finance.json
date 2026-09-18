@@ -1,0 +1,965 @@
+{
+  "schema_version": "1.0",
+  "company": "Microsoft Corporation",
+  "ticker": "MSFT",
+  "accessed": "2026-09-18",
+  "base_period": "FY2025",
+  "periods": [
+    "FY2023",
+    "FY2024",
+    "FY2025"
+  ],
+  "period_details": {
+    "FY2023": {
+      "start": "2022-07-01",
+      "end": "2023-06-30"
+    },
+    "FY2024": {
+      "start": "2023-07-01",
+      "end": "2024-06-30"
+    },
+    "FY2025": {
+      "start": "2024-07-01",
+      "end": "2025-06-30"
+    }
+  },
+  "accounting_basis": "US GAAP, consolidated",
+  "currency": "USD",
+  "unit": "USD million",
+  "sign_convention": "Fluxos assinados: entradas positivas e saídas negativas. Magnitudes positivas explicitadas nos resumos.",
+  "source_vintage": "Annual Report 2025",
+  "metrics": [
+    {
+      "id": "revenue",
+      "label": "Receita",
+      "unit": "USD million",
+      "section": "Statements of Income",
+      "source_id": "AR2025",
+      "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+      "values": {
+        "FY2023": 211915,
+        "FY2024": 245122,
+        "FY2025": 281724
+      },
+      "notes": null
+    },
+    {
+      "id": "net_income",
+      "label": "Lucro líquido",
+      "unit": "USD million",
+      "section": "Statements of Income",
+      "source_id": "AR2025",
+      "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+      "values": {
+        "FY2023": 72361,
+        "FY2024": 88136,
+        "FY2025": 101832
+      },
+      "notes": null
+    },
+    {
+      "id": "research_development",
+      "label": "Pesquisa e desenvolvimento (despesa)",
+      "unit": "USD million",
+      "section": "Statements of Income",
+      "source_id": "AR2025",
+      "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+      "values": {
+        "FY2023": 27195,
+        "FY2024": 29510,
+        "FY2025": 32488
+      },
+      "notes": "Despesa reconhecida antes do lucro; não destinação do lucro líquido."
+    },
+    {
+      "id": "operating_income",
+      "label": "Lucro operacional",
+      "unit": "USD million",
+      "section": "Statements of Income",
+      "source_id": "AR2025",
+      "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+      "values": {
+        "FY2023": 88523,
+        "FY2024": 109433,
+        "FY2025": 128528
+      },
+      "notes": null
+    },
+    {
+      "id": "income_before_tax",
+      "label": "Lucro antes de impostos",
+      "unit": "USD million",
+      "section": "Statements of Income",
+      "source_id": "AR2025",
+      "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+      "values": {
+        "FY2023": 89311,
+        "FY2024": 107787,
+        "FY2025": 123627
+      },
+      "notes": null
+    },
+    {
+      "id": "income_tax_provision",
+      "label": "Provisão de imposto sobre a renda",
+      "unit": "USD million",
+      "section": "Statements of Income",
+      "source_id": "AR2025",
+      "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+      "values": {
+        "FY2023": 16950,
+        "FY2024": 19651,
+        "FY2025": 21795
+      },
+      "notes": null
+    },
+    {
+      "id": "cfo",
+      "label": "Fluxo de caixa operacional (CFO)",
+      "unit": "USD million",
+      "section": "Statements of Cash Flows",
+      "source_id": "AR2025",
+      "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+      "values": {
+        "FY2023": 87582,
+        "FY2024": 118548,
+        "FY2025": 136162
+      },
+      "notes": null
+    },
+    {
+      "id": "cash_capex",
+      "label": "Capex de caixa: adições ao imobilizado, magnitude positiva",
+      "unit": "USD million",
+      "section": "Statements of Cash Flows",
+      "source_id": "AR2025",
+      "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+      "values": {
+        "FY2023": 28107,
+        "FY2024": 44477,
+        "FY2025": 64551
+      },
+      "notes": "Na demonstração de fluxo aparece com sinal negativo. Exclui adições não monetárias de leasing financeiro."
+    },
+    {
+      "id": "cfi",
+      "label": "Fluxo de caixa de investimentos (CFI)",
+      "unit": "USD million",
+      "section": "Statements of Cash Flows",
+      "source_id": "AR2025",
+      "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+      "values": {
+        "FY2023": -22680,
+        "FY2024": -96970,
+        "FY2025": -72599
+      },
+      "notes": null
+    },
+    {
+      "id": "cff",
+      "label": "Fluxo de caixa de financiamento (CFF)",
+      "unit": "USD million",
+      "section": "Statements of Cash Flows",
+      "source_id": "AR2025",
+      "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+      "values": {
+        "FY2023": -43935,
+        "FY2024": -37757,
+        "FY2025": -51699
+      },
+      "notes": null
+    },
+    {
+      "id": "fx_effect",
+      "label": "Efeito cambial no caixa e equivalentes",
+      "unit": "USD million",
+      "section": "Statements of Cash Flows",
+      "source_id": "AR2025",
+      "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+      "values": {
+        "FY2023": -194,
+        "FY2024": -210,
+        "FY2025": 63
+      },
+      "notes": null
+    },
+    {
+      "id": "cash_change",
+      "label": "Variação líquida do caixa",
+      "unit": "USD million",
+      "section": "Statements of Cash Flows",
+      "source_id": "AR2025",
+      "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+      "values": {
+        "FY2023": 20773,
+        "FY2024": -16389,
+        "FY2025": 11927
+      },
+      "notes": null
+    },
+    {
+      "id": "cash_begin",
+      "label": "Caixa e equivalentes no início",
+      "unit": "USD million",
+      "section": "Statements of Cash Flows",
+      "source_id": "AR2025",
+      "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+      "values": {
+        "FY2023": 13931,
+        "FY2024": 34704,
+        "FY2025": 18315
+      },
+      "notes": null
+    },
+    {
+      "id": "cash_end",
+      "label": "Caixa e equivalentes no fim",
+      "unit": "USD million",
+      "section": "Statements of Cash Flows",
+      "source_id": "AR2025",
+      "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+      "values": {
+        "FY2023": 34704,
+        "FY2024": 18315,
+        "FY2025": 30242
+      },
+      "notes": null
+    },
+    {
+      "id": "cash_dividends_paid",
+      "label": "Dividendos pagos: magnitude positiva",
+      "unit": "USD million",
+      "section": "Statements of Cash Flows",
+      "source_id": "AR2025",
+      "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+      "values": {
+        "FY2023": 19800,
+        "FY2024": 21771,
+        "FY2025": 24082
+      },
+      "notes": null
+    },
+    {
+      "id": "cash_buybacks",
+      "label": "Recompras pagas: magnitude positiva",
+      "unit": "USD million",
+      "section": "Statements of Cash Flows",
+      "source_id": "AR2025",
+      "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+      "values": {
+        "FY2023": 22245,
+        "FY2024": 17254,
+        "FY2025": 18420
+      },
+      "notes": "Abrange mais que a tabela dos programas autorizados."
+    },
+    {
+      "id": "program_buybacks",
+      "label": "Recompras sob programas autorizados",
+      "unit": "USD million",
+      "section": "Note 15 — Stockholders Equity / Share Repurchases",
+      "source_id": "AR2025",
+      "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+      "values": {
+        "FY2023": 18400,
+        "FY2024": 11960,
+        "FY2025": 13000
+      },
+      "notes": "Exclui ações retidas para impostos de empregados. Não substituir por esta medida o fluxo total de recompras."
+    },
+    {
+      "id": "employee_withholding_buybacks_rounded",
+      "label": "Ações retidas para impostos de empregados (valor arredondado)",
+      "unit": "USD million",
+      "section": "Note 15 — Stockholders Equity / Share Repurchases",
+      "source_id": "AR2025",
+      "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+      "values": {
+        "FY2023": 3800,
+        "FY2024": 5300,
+        "FY2025": 5400
+      },
+      "notes": "A nota informa 3,8; 5,3; 5,4 bilhões. Arredondamento impede atribuir a diferença exata entre tabelas só a esta rubrica."
+    },
+    {
+      "id": "finance_lease_noncash_additions",
+      "label": "Ativos de direito de uso obtidos em novos arrendamentos financeiros",
+      "unit": "USD million",
+      "section": "Note 13 — Leases",
+      "source_id": "AR2025",
+      "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+      "values": {
+        "FY2023": 3128,
+        "FY2024": 11633,
+        "FY2025": 20511
+      },
+      "notes": "Adições não monetárias; não somar à conciliação de caixa."
+    },
+    {
+      "id": "finance_lease_principal_cash",
+      "label": "Principal de arrendamentos financeiros pago",
+      "unit": "USD million",
+      "section": "Note 13 — Leases",
+      "source_id": "AR2025",
+      "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+      "values": {
+        "FY2023": 1056,
+        "FY2024": 1286,
+        "FY2025": 2283
+      },
+      "notes": "Já integra atividades de financiamento; não acrescentar novamente ao CFF."
+    },
+    {
+      "id": "retained_earnings_end",
+      "label": "Lucros retidos no encerramento",
+      "unit": "USD million",
+      "section": "Statements of Stockholders Equity",
+      "source_id": "AR2025",
+      "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+      "values": {
+        "FY2023": 118848,
+        "FY2024": 173144,
+        "FY2025": 237731
+      },
+      "notes": "Estoque patrimonial; não é soma de lucros anuais ou caixa segregado."
+    },
+    {
+      "id": "employees",
+      "label": "Empregados de tempo integral, aproximadamente",
+      "unit": "people",
+      "section": "Human Capital Resources",
+      "source_id": "AR2023|AR2024|AR2025",
+      "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+      "values": {
+        "FY2023": 221000,
+        "FY2024": 228000,
+        "FY2025": 228000
+      },
+      "notes": "Fotografia em 30 de junho de cada ano, não média anual nem satisfação. Fontes: AR2023, AR2024, AR2025 respectivamente.",
+      "sources_by_period": {
+        "FY2023": {
+          "source_id": "AR2023",
+          "url": "https://www.microsoft.com/investor/reports/ar23/",
+          "section": "Human Capital Resources"
+        },
+        "FY2024": {
+          "source_id": "AR2024",
+          "url": "https://www.microsoft.com/investor/reports/ar24/",
+          "section": "Human Capital Resources"
+        },
+        "FY2025": {
+          "source_id": "AR2025",
+          "url": "https://www.microsoft.com/investor/reports/ar25/",
+          "section": "Human Capital Resources"
+        }
+      }
+    }
+  ],
+  "cash_flow_bridges": {
+    "operating": [
+      {
+        "id": "net_income",
+        "label": "Lucro líquido",
+        "unit": "USD million",
+        "section": "Statements of Cash Flows",
+        "source_id": "AR2025",
+        "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+        "values": {
+          "FY2023": 72361,
+          "FY2024": 88136,
+          "FY2025": 101832
+        },
+        "notes": null
+      },
+      {
+        "id": "depreciation_amortization_other",
+        "label": "Depreciação, amortização e outros",
+        "unit": "USD million",
+        "section": "Statements of Cash Flows",
+        "source_id": "AR2025",
+        "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+        "values": {
+          "FY2023": 13861,
+          "FY2024": 22287,
+          "FY2025": 34153
+        },
+        "notes": "Apresentação do AR2025; comparativo FY2025 reapresentado no release FY2026: 29.433."
+      },
+      {
+        "id": "stock_compensation",
+        "label": "Remuneração baseada em ações",
+        "unit": "USD million",
+        "section": "Statements of Cash Flows",
+        "source_id": "AR2025",
+        "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+        "values": {
+          "FY2023": 9611,
+          "FY2024": 10734,
+          "FY2025": 11974
+        },
+        "notes": null
+      },
+      {
+        "id": "net_recognized_investment_derivative_losses",
+        "label": "Perdas líquidas reconhecidas em investimentos e derivativos",
+        "unit": "USD million",
+        "section": "Statements of Cash Flows",
+        "source_id": "AR2025",
+        "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+        "values": {
+          "FY2023": 196,
+          "FY2024": 305,
+          "FY2025": 609
+        },
+        "notes": "Apresentação do AR2025; comparativo FY2025 reapresentado no release FY2026: 5.329."
+      },
+      {
+        "id": "deferred_income_taxes",
+        "label": "Impostos diferidos",
+        "unit": "USD million",
+        "section": "Statements of Cash Flows",
+        "source_id": "AR2025",
+        "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+        "values": {
+          "FY2023": -6059,
+          "FY2024": -4738,
+          "FY2025": -7056
+        },
+        "notes": null
+      },
+      {
+        "id": "change_accounts_receivable",
+        "label": "Variação de contas a receber",
+        "unit": "USD million",
+        "section": "Statements of Cash Flows",
+        "source_id": "AR2025",
+        "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+        "values": {
+          "FY2023": -4087,
+          "FY2024": -7191,
+          "FY2025": -10581
+        },
+        "notes": null
+      },
+      {
+        "id": "change_inventories",
+        "label": "Variação de estoques",
+        "unit": "USD million",
+        "section": "Statements of Cash Flows",
+        "source_id": "AR2025",
+        "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+        "values": {
+          "FY2023": 1242,
+          "FY2024": 1284,
+          "FY2025": 309
+        },
+        "notes": null
+      },
+      {
+        "id": "change_other_current_assets",
+        "label": "Variação de outros ativos circulantes",
+        "unit": "USD million",
+        "section": "Statements of Cash Flows",
+        "source_id": "AR2025",
+        "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+        "values": {
+          "FY2023": -1991,
+          "FY2024": -1648,
+          "FY2025": -3044
+        },
+        "notes": null
+      },
+      {
+        "id": "change_other_longterm_assets",
+        "label": "Variação de outros ativos de longo prazo",
+        "unit": "USD million",
+        "section": "Statements of Cash Flows",
+        "source_id": "AR2025",
+        "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+        "values": {
+          "FY2023": -2833,
+          "FY2024": -6817,
+          "FY2025": -2950
+        },
+        "notes": null
+      },
+      {
+        "id": "change_accounts_payable",
+        "label": "Variação de contas a pagar",
+        "unit": "USD million",
+        "section": "Statements of Cash Flows",
+        "source_id": "AR2025",
+        "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+        "values": {
+          "FY2023": -2721,
+          "FY2024": 3545,
+          "FY2025": 569
+        },
+        "notes": null
+      },
+      {
+        "id": "change_unearned_revenue",
+        "label": "Variação de receita diferida",
+        "unit": "USD million",
+        "section": "Statements of Cash Flows",
+        "source_id": "AR2025",
+        "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+        "values": {
+          "FY2023": 5535,
+          "FY2024": 5348,
+          "FY2025": 5438
+        },
+        "notes": null
+      },
+      {
+        "id": "change_income_taxes",
+        "label": "Variação de impostos sobre a renda",
+        "unit": "USD million",
+        "section": "Statements of Cash Flows",
+        "source_id": "AR2025",
+        "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+        "values": {
+          "FY2023": -358,
+          "FY2024": 1687,
+          "FY2025": -38
+        },
+        "notes": null
+      },
+      {
+        "id": "change_other_current_liabilities",
+        "label": "Variação de outros passivos circulantes",
+        "unit": "USD million",
+        "section": "Statements of Cash Flows",
+        "source_id": "AR2025",
+        "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+        "values": {
+          "FY2023": 2272,
+          "FY2024": 4867,
+          "FY2025": 5922
+        },
+        "notes": null
+      },
+      {
+        "id": "change_other_longterm_liabilities",
+        "label": "Variação de outros passivos de longo prazo",
+        "unit": "USD million",
+        "section": "Statements of Cash Flows",
+        "source_id": "AR2025",
+        "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+        "values": {
+          "FY2023": 553,
+          "FY2024": 749,
+          "FY2025": -975
+        },
+        "notes": null
+      }
+    ],
+    "investing": [
+      {
+        "id": "additions_property_equipment_cash",
+        "label": "Adições ao imobilizado: saída de caixa",
+        "unit": "USD million",
+        "section": "Statements of Cash Flows",
+        "source_id": "AR2025",
+        "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+        "values": {
+          "FY2023": -28107,
+          "FY2024": -44477,
+          "FY2025": -64551
+        },
+        "notes": null
+      },
+      {
+        "id": "acquisitions_net_and_other_assets",
+        "label": "Aquisições líquidas de caixa adquirido e alienações; intangíveis e outros ativos",
+        "unit": "USD million",
+        "section": "Statements of Cash Flows",
+        "source_id": "AR2025",
+        "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+        "values": {
+          "FY2023": -1670,
+          "FY2024": -69132,
+          "FY2025": -5978
+        },
+        "notes": "Linha agregada da demonstração; não equivale apenas a aquisição de empresas."
+      },
+      {
+        "id": "investment_purchases",
+        "label": "Compras de investimentos",
+        "unit": "USD million",
+        "section": "Statements of Cash Flows",
+        "source_id": "AR2025",
+        "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+        "values": {
+          "FY2023": -37651,
+          "FY2024": -17732,
+          "FY2025": -29775
+        },
+        "notes": null
+      },
+      {
+        "id": "investment_maturities",
+        "label": "Vencimentos de investimentos",
+        "unit": "USD million",
+        "section": "Statements of Cash Flows",
+        "source_id": "AR2025",
+        "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+        "values": {
+          "FY2023": 33510,
+          "FY2024": 24775,
+          "FY2025": 16079
+        },
+        "notes": null
+      },
+      {
+        "id": "investment_sales",
+        "label": "Vendas de investimentos",
+        "unit": "USD million",
+        "section": "Statements of Cash Flows",
+        "source_id": "AR2025",
+        "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+        "values": {
+          "FY2023": 14354,
+          "FY2024": 10894,
+          "FY2025": 9309
+        },
+        "notes": null
+      },
+      {
+        "id": "investing_other_net",
+        "label": "Outros investimentos, líquido",
+        "unit": "USD million",
+        "section": "Statements of Cash Flows",
+        "source_id": "AR2025",
+        "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+        "values": {
+          "FY2023": -3116,
+          "FY2024": -1298,
+          "FY2025": 2317
+        },
+        "notes": null
+      }
+    ],
+    "financing": [
+      {
+        "id": "net_debt_90days_or_less",
+        "label": "Emissões/reembolsos líquidos de dívida com vencimento original até 90 dias",
+        "unit": "USD million",
+        "section": "Statements of Cash Flows",
+        "source_id": "AR2025",
+        "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+        "values": {
+          "FY2023": 0,
+          "FY2024": 5250,
+          "FY2025": -5746
+        },
+        "notes": null
+      },
+      {
+        "id": "debt_proceeds",
+        "label": "Captações de dívida com vencimento original acima de 90 dias",
+        "unit": "USD million",
+        "section": "Statements of Cash Flows",
+        "source_id": "AR2025",
+        "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+        "values": {
+          "FY2023": 0,
+          "FY2024": 24395,
+          "FY2025": 0
+        },
+        "notes": null
+      },
+      {
+        "id": "debt_repayments",
+        "label": "Amortizações de dívida com vencimento original acima de 90 dias",
+        "unit": "USD million",
+        "section": "Statements of Cash Flows",
+        "source_id": "AR2025",
+        "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+        "values": {
+          "FY2023": -2750,
+          "FY2024": -29070,
+          "FY2025": -3216
+        },
+        "notes": null
+      },
+      {
+        "id": "stock_issuance",
+        "label": "Emissão de ações",
+        "unit": "USD million",
+        "section": "Statements of Cash Flows",
+        "source_id": "AR2025",
+        "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+        "values": {
+          "FY2023": 1866,
+          "FY2024": 2002,
+          "FY2025": 2056
+        },
+        "notes": null
+      },
+      {
+        "id": "stock_repurchases_cash",
+        "label": "Recompras: saída efetiva de caixa",
+        "unit": "USD million",
+        "section": "Statements of Cash Flows",
+        "source_id": "AR2025",
+        "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+        "values": {
+          "FY2023": -22245,
+          "FY2024": -17254,
+          "FY2025": -18420
+        },
+        "notes": null
+      },
+      {
+        "id": "cash_dividends_paid",
+        "label": "Dividendos efetivamente pagos",
+        "unit": "USD million",
+        "section": "Statements of Cash Flows",
+        "source_id": "AR2025",
+        "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+        "values": {
+          "FY2023": -19800,
+          "FY2024": -21771,
+          "FY2025": -24082
+        },
+        "notes": null
+      },
+      {
+        "id": "financing_other_net",
+        "label": "Outros financiamentos, líquido",
+        "unit": "USD million",
+        "section": "Statements of Cash Flows",
+        "source_id": "AR2025",
+        "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+        "values": {
+          "FY2023": -1006,
+          "FY2024": -1309,
+          "FY2025": -2291
+        },
+        "notes": null
+      }
+    ]
+  },
+  "reconciliations": [
+    {
+      "period": "FY2023",
+      "net_income_to_cfo": {
+        "calculated": 87582,
+        "reported": 87582,
+        "residual": 0,
+        "formula": "sum(cash_flow_bridges.operating[].values[period])",
+        "unit": "USD million"
+      },
+      "cfi_subtotal": {
+        "calculated": -22680,
+        "reported": -22680,
+        "residual": 0,
+        "formula": "sum(cash_flow_bridges.investing[].values[period])",
+        "unit": "USD million"
+      },
+      "cff_subtotal": {
+        "calculated": -43935,
+        "reported": -43935,
+        "residual": 0,
+        "formula": "sum(cash_flow_bridges.financing[].values[period])",
+        "unit": "USD million"
+      },
+      "cash_rollforward": {
+        "calculated": 34704,
+        "reported": 34704,
+        "residual": 0,
+        "formula": "cash_begin + cfo + cfi + cff + fx_effect",
+        "unit": "USD million"
+      },
+      "net_investment_cashflow": 10213,
+      "cash_buybacks_less_program": 3845,
+      "cfo_minus_cash_capex": 59475
+    },
+    {
+      "period": "FY2024",
+      "net_income_to_cfo": {
+        "calculated": 118548,
+        "reported": 118548,
+        "residual": 0,
+        "formula": "sum(cash_flow_bridges.operating[].values[period])",
+        "unit": "USD million"
+      },
+      "cfi_subtotal": {
+        "calculated": -96970,
+        "reported": -96970,
+        "residual": 0,
+        "formula": "sum(cash_flow_bridges.investing[].values[period])",
+        "unit": "USD million"
+      },
+      "cff_subtotal": {
+        "calculated": -37757,
+        "reported": -37757,
+        "residual": 0,
+        "formula": "sum(cash_flow_bridges.financing[].values[period])",
+        "unit": "USD million"
+      },
+      "cash_rollforward": {
+        "calculated": 18315,
+        "reported": 18315,
+        "residual": 0,
+        "formula": "cash_begin + cfo + cfi + cff + fx_effect",
+        "unit": "USD million"
+      },
+      "net_investment_cashflow": 17937,
+      "cash_buybacks_less_program": 5294,
+      "cfo_minus_cash_capex": 74071
+    },
+    {
+      "period": "FY2025",
+      "net_income_to_cfo": {
+        "calculated": 136162,
+        "reported": 136162,
+        "residual": 0,
+        "formula": "sum(cash_flow_bridges.operating[].values[period])",
+        "unit": "USD million"
+      },
+      "cfi_subtotal": {
+        "calculated": -72599,
+        "reported": -72599,
+        "residual": 0,
+        "formula": "sum(cash_flow_bridges.investing[].values[period])",
+        "unit": "USD million"
+      },
+      "cff_subtotal": {
+        "calculated": -51699,
+        "reported": -51699,
+        "residual": 0,
+        "formula": "sum(cash_flow_bridges.financing[].values[period])",
+        "unit": "USD million"
+      },
+      "cash_rollforward": {
+        "calculated": 30242,
+        "reported": 30242,
+        "residual": 0,
+        "formula": "cash_begin + cfo + cfi + cff + fx_effect",
+        "unit": "USD million"
+      },
+      "net_investment_cashflow": -4387,
+      "cash_buybacks_less_program": 5420,
+      "cfo_minus_cash_capex": 71611
+    }
+  ],
+  "audit": {
+    "firm": "Deloitte & Touche LLP",
+    "location": "Seattle, Washington",
+    "opinion_date": "2025-07-30",
+    "opinion": "Sem ressalva: apresentação adequada, em todos os aspectos materiais, conforme US GAAP.",
+    "financial_statement_scope": "Balanços em 2025-06-30 e 2024-06-30; resultados, resultado abrangente, fluxos de caixa e patrimônio para os três exercícios encerrados em 2025-06-30.",
+    "internal_control_opinion": "Controles internos sobre relatórios financeiros eficazes em todos os aspectos materiais em 2025-06-30, segundo COSO 2013.",
+    "critical_audit_matters": [
+      "Revenue recognition",
+      "Income taxes — uncertain tax positions"
+    ],
+    "source_url": "https://www.microsoft.com/investor/reports/ar25/",
+    "section": "Auditor’s Report — Reports of Independent Registered Public Accounting Firm",
+    "project_status": "O projeto reproduz o estado da opinião emitida pela firma. Não emite opinião própria de auditoria."
+  },
+  "comparison_fy2026": {
+    "existing_fy2026_preserved": true,
+    "status": "Não identificada divergência nos indicadores conferidos; uma métrica do programa de recompra permanece sem reconferência nesta revisão.",
+    "confirmed": {
+      "revenue": 331839,
+      "net_income": 133749,
+      "research_development": 35562,
+      "cash_capex": 115948,
+      "cash_dividends_paid": 26445,
+      "cash_buybacks": 22271,
+      "employees_approx": 223000
+    },
+    "sources": {
+      "financial_metrics": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast",
+      "employees": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm"
+    },
+    "unit": "USD million, exceto empregados em people",
+    "unconfirmed_in_this_review": {
+      "program_buybacks": 16719,
+      "note": "Valor da ficha anterior não reconfirmado aqui; não tratar como erro ou como verificado nesta revisão."
+    },
+    "presentation_change_fy2025": {
+      "depreciation_amortization_other": {
+        "AR2025": 34153,
+        "RELEASE2026": 29433
+      },
+      "net_recognized_investment_derivative_losses": {
+        "AR2025": 609,
+        "RELEASE2026": 5329
+      },
+      "offsetting_reclassification": 4720,
+      "cfo_unchanged": 136162,
+      "source_url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast",
+      "note": "Release informa reapresentação de períodos anteriores para a apresentação atual. Não misturar as duas versões da ponte."
+    }
+  },
+  "limitations": [
+    "Extração documental e conferência aritmética. Não constitui auditoria profissional, certificação de impacto ou nova opinião contábil.",
+    "Fonte-base única para as demonstrações FY2023–FY2025: apresentação do AR2025. Comparativos de FY2025 em publicações posteriores podem ter classificações diferentes.",
+    "Despesas de P&D, salários e despesas socioambientais já podem reduzir o lucro. Não contabilizá-las novamente como destinação do mesmo lucro líquido sem regra e conciliação próprias.",
+    "CFO inclui itens não monetários e capital de giro; lucro não equivale a caixa disponível, caixa não é saldo livre sem obrigações, e capex não comprova impacto social.",
+    "Valores financeiros consolidados, nominais e em USD million; não constituem série de perímetro constante ou ajustada pela inflação.",
+    "Não há detalhamento público suficiente aqui para atribuir todos os dólares do lucro a produto, funcionários, sociedade e reserva. Alocações 30/30/30/10 permanecem cenário normativo separado.",
+    "Investimentos financeiros incluem gestão de liquidez. Compra bruta pode ser reinvestimento de vencimentos e vendas, não aplicação exclusiva de lucro do exercício.",
+    "Empregados são contagem aproximada de tempo integral em fim de exercício; não medir satisfação, qualidade do emprego ou postos criados líquidos apenas com esse número.",
+    "Fiscal FY2025 termina em 2025-06-30. Relatórios ambientais publicados em 2026 precisam confirmar suas fronteiras organizacionais, geográficas e temporais por indicador antes de cruzar denominadores.",
+    "Opinião da Deloitte sobre as demonstrações e controles não valida o ranking, modelo moral, todos os dados narrativos ou resultados socioambientais.",
+    "Nota 1 informa alteração de segmentos e reapresentação dos comparativos sem efeito sobre os totais consolidados. A aquisição de Activision e evolução do negócio limitam inferência causal na comparação de crescimento."
+  ],
+  "sources": [
+    {
+      "id": "AR2025",
+      "url": "https://www.microsoft.com/investor/reports/ar25/",
+      "title": "Microsoft Annual Report 2025",
+      "accessed": "2026-09-18",
+      "locator": "Statements of Income; Statements of Cash Flows; Statements of Stockholders Equity; Notes 1, 13, 15; Human Capital Resources; Auditor’s Report",
+      "page": null,
+      "page_note": "HTML sem paginação estável; usar título de seção e rótulo da linha."
+    },
+    {
+      "id": "SEC2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/msft-20250630.htm",
+      "title": "Microsoft Form 10-K, fiscal year ended June 30, 2025",
+      "accessed": "2026-09-18",
+      "locator": "Item 8 — Financial Statements and Supplementary Data; Item 1 — Human Capital Resources",
+      "page": null
+    },
+    {
+      "id": "AR2024",
+      "url": "https://www.microsoft.com/investor/reports/ar24/",
+      "title": "Microsoft Annual Report 2024",
+      "accessed": "2026-09-18",
+      "locator": "Human Capital Resources",
+      "page": null
+    },
+    {
+      "id": "AR2023",
+      "url": "https://www.microsoft.com/investor/reports/ar23/",
+      "title": "Microsoft Annual Report 2023",
+      "accessed": "2026-09-18",
+      "locator": "Human Capital Resources",
+      "page": null
+    },
+    {
+      "id": "RELEASE2026",
+      "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast",
+      "title": "Microsoft FY2026 Q4 earnings release",
+      "accessed": "2026-09-18",
+      "locator": "Annual income and cash-flow columns; prior-period presentation footnote",
+      "page": null,
+      "status": "Divulgação de resultados, tabelas marcadas unaudited."
+    },
+    {
+      "id": "SEC2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "title": "Microsoft Form 10-K, fiscal year ended June 30, 2026",
+      "accessed": "2026-09-18",
+      "locator": "Human Capital Resources",
+      "page": null,
+      "status": "Trecho indexado primário confirmou 223.000 empregados; abertura integral falhou nesta revisão."
+    }
+  ]
+}

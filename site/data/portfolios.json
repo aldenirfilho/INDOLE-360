@@ -1,8 +1,8 @@
 {
-  "version": "2.1.0",
+  "version": "2.2.0",
   "as_of": "2026-09-18",
-  "status": "not_reconciled",
-  "note": "Não disponível não significa zero. Nenhuma nova contribuição foi validada nesta atualização.",
+  "status": "documentary_review_partial",
+  "note": "Microsoft tem conciliação aritmética das demonstrações FY2023–FY2025 e revisão delimitada de impacto. Aportes próprios e aderência permanecem não determinados.",
   "companies": [
     {
       "id": "nvidia",
@@ -34,11 +34,20 @@
     {
       "id": "microsoft",
       "name": "Microsoft Corporation",
-      "status": "not_reconciled",
-      "history": null,
+      "status": "financial_statements_reconciled_impact_partial",
+      "history": {
+        "periods": [
+          "FY2023",
+          "FY2024",
+          "FY2025"
+        ],
+        "source_vintage": "AR2025",
+        "data": "portfolio-microsoft-finance.json"
+      },
       "own_contributions": null,
       "adherence": null,
-      "gap": "Série histórica completa, perímetro, conciliação de aportes e revisão independente pendentes."
+      "gap": "Aportes por transação, origem dos recursos, benefício fiscal e resultados finais ainda não conciliados.",
+      "dossier": "portfolio-microsoft.html"
     },
     {
       "id": "amazon",

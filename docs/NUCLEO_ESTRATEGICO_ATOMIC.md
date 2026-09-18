@@ -112,3 +112,7 @@ A revisão adversarial atribui as seguintes notas editoriais internas à formula
 A credibilidade permanece abaixo do mínimo Atomic de 8 porque faltam testes de utilidade e revisão externa. **Veredicto: revisar antes da aprovação comercial; estrutura disponível como hipótese para piloto.** A sustentabilidade operacional também precisa ser demonstrada.
 
 Próximos passos: verificar uma comparação funcional completa; observar consumidores tomando uma decisão e registrar erros, compreensão e esforço; revisar metodologia e capacidade antes de expandir. Publicar também resultados desfavoráveis. A referência editorial é [METODOLOGIA.md](METODOLOGIA.md).
+
+## Atualização 2.1 — equalização como hipótese de adoção
+
+A proposta de contribuição permanece uma camada normativa separada da decisão de compra. Não é um mecanismo de aquisição comercial validado. O primeiro experimento continua delimitado: um portfólio conciliado, leitura por consumidores e teste de compreensão. Registrar taxa de interpretação correta, custo por ficha, tempo de revisão e dúvidas recorrentes; definir metas após medir linha de base. Benefício fiscal ou certificação não integram a oferta atual. Não houve nova pontuação Atomic nem pesquisa de demanda nesta atualização.

@@ -1,14 +1,18 @@
 # ÍNDOLE 360°
 
-Catálogo documental empresarial de Aldenir Rocha. Versão 2.0.0, 18/09/2026. Base de pesquisa: 17/09/2026.
+Catálogo documental empresarial de Aldenir Rocha. Versão 2.1.0, 18/09/2026. Base de pesquisa: 17/09/2026.
 
 [Abrir site](https://aldenirfilho.github.io/INDOLE-360/) · [Metodologia](docs/METODOLOGIA.md) · [Piloto preservado](https://aldenirfilho.github.io/NEXUS-BRASIL/indole360/)
+
+## Novo na versão 2.1
+
+[Abrir equalização](https://aldenirfilho.github.io/INDOLE-360/equalizacao.html): simulador histórico com prejuízos, portfólio de contribuições, fontes fiscais brasileiras e concepção do projeto Índole dos Impostos. O prompt autoral foi preservado; a revisão com o material externo do GPT permanece pendente. Não houve nova avaliação das dez empresas.
 
 ## O que funciona
 
 - Dez fichas: NVIDIA, Apple, Alphabet, Microsoft, Amazon, TSMC, SpaceX, Meta, Broadcom e Saudi Aramco.
 - 63 URLs de fontes primárias registradas; seleção da amostra por capitalização no CompaniesMarketCap.
-- Busca, filtros setoriais, comparações financeiras, simulador 30/30/30/10, cartas e três documentos Word editáveis.
+- Busca, filtros setoriais, comparações financeiras, simulador 30/30/30/10, cartas e quatro documentos Word editáveis.
 - Dois roteiros de revisão: contraditório financeiro/integridade e acreditação documental/impacto.
 
 **Não há nota geral de índole concluída nesta versão.** A série histórica, as onze dimensões e a conciliação dos recursos precisam ser completadas. Ausência não vale zero. Aderência ao modelo autoral não equivale à honestidade, e aplicação financeira não prova corrupção. Os agentes são roteiros sob comando; não existe monitoramento automático ativado.

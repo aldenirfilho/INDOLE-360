@@ -1,0 +1,14 @@
+{
+  "id": "indole360",
+  "version": "2.1.0",
+  "parent": "NEXUS",
+  "purpose": "Consumo informado, contribuição proporcional e impacto verificável.",
+  "site": "https://aldenirfilho.github.io/INDOLE-360/",
+  "equalization": "https://aldenirfilho.github.io/INDOLE-360/equalizacao.html",
+  "pilot": "https://aldenirfilho.github.io/NEXUS-BRASIL/indole360/",
+  "repository": "https://github.com/aldenirfilho/INDOLE-360",
+  "notion": "https://app.notion.com/p/3df4e3810a82818e89cac90190243df1",
+  "connections": "Links e catálogo documental; sem sincronização automática ou migração do núcleo privado.",
+  "upcoming_project": "Índole dos Impostos",
+  "next_action": "Conciliar um portfólio e receber material externo do GPT para revisão."
+}

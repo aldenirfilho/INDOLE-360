@@ -1,0 +1,265 @@
+{
+  "project": "ÍNDOLE 360",
+  "version": "2.1",
+  "jurisdiction": "Brasil",
+  "as_of": "2026-09-18",
+  "scope": "Pesquisa geral de desenho de política pública; sem orientação fiscal individual.",
+  "sources": [
+    {
+      "id": "rfb_tabela_2026",
+      "title": "Receita Federal — Tributação de 2026",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/tabelas/2026",
+      "published": "2025-09-12",
+      "updated": "2026-04-27",
+      "accessed": "2026-09-18",
+      "primary": true
+    },
+    {
+      "id": "lei_15270",
+      "title": "Lei 15.270/2025 — redução do IRPF e tributação de altas rendas",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15270.htm",
+      "published": "2025-11-26",
+      "updated": null,
+      "accessed": "2026-09-18",
+      "primary": true
+    },
+    {
+      "id": "rfb_destinacao",
+      "title": "Receita Federal — Destinação na Declaração",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/preenchimento/manual-mir/destinacao-na-declaracao",
+      "published": "2026-03-17",
+      "updated": "2026-05-26",
+      "accessed": "2026-09-18",
+      "primary": true
+    },
+    {
+      "id": "rfb_deducoes",
+      "title": "Receita Federal — Deduções incentivadas",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/preenchimento/manual-mir/pagamentos-ou-doacoes/deducoes-incentivadas",
+      "published": "2026-03-17",
+      "updated": null,
+      "accessed": "2026-09-18",
+      "primary": true
+    },
+    {
+      "id": "constituicao",
+      "title": "Constituição Federal — texto consolidado",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "published": "1988-10-05",
+      "updated": null,
+      "accessed": "2026-09-18",
+      "primary": true
+    },
+    {
+      "id": "lrf",
+      "title": "LC 101/2000 — Lei de Responsabilidade Fiscal, texto consolidado",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm",
+      "published": "2000-05-04",
+      "updated": null,
+      "accessed": "2026-09-18",
+      "primary": true
+    },
+    {
+      "id": "lc224",
+      "title": "LC 224/2025 — critérios e redução de benefícios, texto consolidado",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp224.htm",
+      "published": "2025-12-26",
+      "updated": null,
+      "accessed": "2026-09-18",
+      "primary": true
+    },
+    {
+      "id": "lsa",
+      "title": "Lei 6.404/1976 — Sociedades por Ações, texto consolidado",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6404compilada.htm",
+      "published": "1976-12-15",
+      "updated": null,
+      "accessed": "2026-09-18",
+      "primary": true
+    },
+    {
+      "id": "b3_marketcap",
+      "title": "B3 — Valor de mercado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/indexStatisticsPage/market-value/IBOVESPA?language=pt-",
+      "published": null,
+      "updated": null,
+      "accessed": "2026-09-18",
+      "primary": true
+    }
+  ],
+  "legal_findings": [
+    {
+      "id": "irpf_marginal",
+      "status": "regra_vigente",
+      "claim": "27,5% é a alíquota da faixa máxima da tabela progressiva mensal, não a alíquota efetiva sobre toda a renda. Base de cálculo, parcelas a deduzir e reduções devem ser consideradas.",
+      "sources": [
+        "rfb_tabela_2026"
+      ],
+      "parameters": {
+        "top_bracket_rate_pct": 27.5,
+        "monthly_top_bracket_base_above_brl": 4664.68,
+        "monthly_top_bracket_deduction_brl": 908.73
+      }
+    },
+    {
+      "id": "reducao_2026",
+      "status": "regra_vigente",
+      "claim": "Desde janeiro de 2026, a redução mensal zera o imposto para rendimentos tributáveis até R$ 5.000 e é decrescente até R$ 7.350; a tabela progressiva não foi substituída.",
+      "sources": [
+        "rfb_tabela_2026",
+        "lei_15270"
+      ],
+      "parameters": {
+        "monthly_zero_threshold_taxable_income_brl": 5000,
+        "monthly_partial_reduction_upper_taxable_income_brl": 7350,
+        "annual_income_year": 2026,
+        "annual_filing_year": 2027,
+        "annual_zero_threshold_taxable_income_brl": 60000,
+        "annual_partial_reduction_upper_taxable_income_brl": 88200
+      },
+      "caveat": "O rendimento usado no redutor não é automaticamente igual à base após deduções. Declaração de 2026 refere-se ordinariamente ao ano-calendário 2025."
+    },
+    {
+      "id": "empresario_nao_isento_universal",
+      "status": "regra_vigente",
+      "claim": "A Lei 15.270/2025 criou retenção em certas distribuições elevadas de lucros/dividendos e tributação mínima de altas rendas; não cabe afirmar isenção universal de empresários ou dividendos.",
+      "legal_basis": "Lei 9.250/1995, arts. 6º-A e 16-A, incluídos pela Lei 15.270/2025",
+      "sources": [
+        "lei_15270"
+      ],
+      "caveat": "Há requisitos, transição, exclusões, créditos e ajustes; não é cálculo individual."
+    },
+    {
+      "id": "destinacao_declaracao_pf",
+      "status": "regra_vigente",
+      "claim": "Pessoa física sob deduções legais pode destinar na declaração até 3% do imposto devido aos fundos da criança/adolescente e até 3% aos fundos da pessoa idosa, observados limites globais, demais incentivos, fundo elegível e prazo de pagamento do DARF específico.",
+      "sources": [
+        "rfb_destinacao"
+      ],
+      "parameters": {
+        "child_funds_max_pct_tax_due": 3,
+        "elder_funds_max_pct_tax_due": 3,
+        "requires_legal_deductions": true
+      },
+      "caveat": "Não são percentuais do salário nem somente do saldo a pagar. Doações anuais afetam limites; não somar mecanicamente 6% anual e 6% na declaração."
+    },
+    {
+      "id": "doacoes_anuais_pf",
+      "status": "regra_vigente",
+      "claim": "No manual de 2026, os grupos I a V compartilham teto global de 6% do imposto devido; o conjunto I a VI pode chegar a 7% com esporte. Não se trata de um teto de 7% exclusivo para fundos da criança/idoso. Doação direta a qualquer ONG não cria esse benefício.",
+      "sources": [
+        "rfb_deducoes"
+      ]
+    },
+    {
+      "id": "limites_pj",
+      "status": "validacao_especifica_pendente",
+      "claim": "Regras e percentuais do IRPF não se transferem ao IRPJ. A LC 224/2025 alterou benefícios federais desde 2026; o limite de cada incentivo empresarial exige validação por regime e exceções.",
+      "sources": [
+        "lc224"
+      ],
+      "parameters": {
+        "universal_pj_fund_limit_pct": null
+      },
+      "caveat": "Não publicar o antigo 1% por fundo como regra universal atual. Este levantamento não fecha os limites operacionais de cada incentivo empresarial."
+    },
+    {
+      "id": "capacidade_contributiva",
+      "status": "regra_vigente",
+      "claim": "O art. 145, §1º, orienta, sempre que possível, a graduação dos impostos segundo capacidade econômica. Não confere ao contribuinte poder de criar sua própria substituição tributária.",
+      "legal_basis": "CF, art. 145, §1º",
+      "sources": [
+        "constituicao"
+      ]
+    },
+    {
+      "id": "isencao_lei",
+      "status": "regra_vigente",
+      "claim": "Os benefícios previstos no art. 150, §6º, dependem de lei específica do ente competente; auditoria não substitui a lei. Proposição que implique renúncia deve trazer estimativa de impacto conforme ADCT, art. 113.",
+      "legal_basis": "CF, art. 150, §6º; ADCT, art. 113",
+      "sources": [
+        "constituicao"
+      ]
+    },
+    {
+      "id": "renuncia_fiscal",
+      "status": "regra_vigente",
+      "claim": "Concessão, ampliação ou prorrogação de benefício que gere renúncia exige impacto no ano inicial e nos dois seguintes, compatibilidade com LDO e pelo menos uma condição: consideração na receita orçamentária sem afetar metas fiscais OU compensação por aumento de receita tributária.",
+      "legal_basis": "LRF, art. 14, caput e incisos I–II, redação atual",
+      "sources": [
+        "lrf"
+      ],
+      "caveat": "Não afirmar que toda isenção exige novo tributo. Valor social da doação não equivale automaticamente à compensação legal por receita."
+    },
+    {
+      "id": "metas_beneficios_pj",
+      "status": "regra_vigente",
+      "claim": "Proposta de benefício tributário para pessoa jurídica deve prever número de beneficiários, prazo geralmente até cinco anos, metas econômicas/sociais/ambientais quantificáveis, transparência e avaliação. Há exceções e condições para investimento de longo prazo. A avaliação legal cabe a órgão especializado do Executivo conforme regulamento.",
+      "legal_basis": "LRF, art. 14-A, incluído pela LC 224/2025, art. 2º; efeitos em 01/01/2026 por art. 14 da LC 224",
+      "sources": [
+        "lc224"
+      ],
+      "caveat": "Auditoria privada pode integrar evidências, mas não substitui automaticamente o avaliador público previsto na lei."
+    }
+  ],
+  "metric_definitions": [
+    {
+      "id": "lucros_acumulados_contabeis",
+      "status": "conceito_contabil",
+      "definition": "Saldo que reflete resultados, ajustes e destinações, inclusive reservas e dividendos; não é mera soma histórica dos lucros nem caixa disponível. Observar a destinação de resultados nas sociedades por ações.",
+      "sources": [
+        "lsa"
+      ],
+      "legal_basis": "Arts. 186 e 202"
+    },
+    {
+      "id": "resultado_acumulado_janela",
+      "status": "proposta_metodologica",
+      "definition": "Soma dos resultados líquidos de exercícios definidos, incluindo prejuízos, com moeda e perímetro consistentes. Não confundir com rubrica contábil lucros acumulados.",
+      "sources": [],
+      "guardrails": [
+        "Definir janela e tratamento de aquisições/desinvestimentos.",
+        "Não cobrar repetidamente o mesmo resultado em janelas sobrepostas.",
+        "Registrar contribuições já realizadas."
+      ]
+    },
+    {
+      "id": "receita_lucro_caixa",
+      "status": "conceitos_contabeis",
+      "definition": "Receita bruta, receita líquida, custos, despesas, lucro e fluxo de caixa são medidas distintas. Capacidade de desembolso exige examinar liquidez e compromissos.",
+      "sources": [
+        "lsa"
+      ],
+      "legal_basis": "Arts. 187–188"
+    },
+    {
+      "id": "valor_mercado",
+      "status": "definicao_com_inferencia",
+      "definition": "A B3 calcula valor de mercado por quantidades de ações e respectivas cotações. Inferência: não corresponde ao saldo bancário da empresa ou à sua capacidade anual de contribuição.",
+      "sources": [
+        "b3_marketcap"
+      ]
+    }
+  ],
+  "proposal": {
+    "status": "proposta_normativa_nao_vigente",
+    "suggested_text": "O ÍNDOLE 360 propõe estudar contribuição proporcional à capacidade econômica e aos impactos da atividade, com liberdade de escolha entre destinos elegíveis, resultados verificáveis e controle público. Eventual abatimento ou substituição tributária dependerá de legislação específica, limites fiscais e avaliação independente.",
+    "design_guardrails": [
+      "Definir período, base, faixas e tratamento de prejuízos e baixa liquidez.",
+      "Exibir receita, lucro, fluxo de caixa e contribuição separadamente.",
+      "Diferenciar obrigação legal existente, contribuição voluntária e proposta legislativa.",
+      "Escolha entre destinos elegíveis e rastreáveis; não crédito para qualquer transferência privada.",
+      "Separar verba própria, recurso público e incentivo fiscal; impedir dupla contagem e autobenefício.",
+      "Metas auditáveis, participação pública, teto de renúncia e proteção do financiamento de serviços essenciais.",
+      "Avaliar adicionalidade: recursos e resultados que não ocorreriam sem a política."
+    ],
+    "not_established": "Nas normas examinadas não há autorização geral para trocar livremente qualquer tributo por contribuição privada auditada."
+  },
+  "open_issues": [
+    {
+      "id": "irpj_por_incentivo",
+      "required_before": "Calculadora empresarial ou divulgação de percentual operacional do IRPJ",
+      "description": "Validar cada incentivo sob LC 224/2025, alterações de 2026 e regulamentação vigente. Não confundir benefício da entidade sem fins lucrativos com dedução do seu doador."
+    }
+  ]
+}

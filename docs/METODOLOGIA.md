@@ -94,3 +94,7 @@ Os desdobramentos governamental, esportivo, religioso, jurídico, ambiental e de
 [2] OECD. Guidelines for Multinational Enterprises on Responsible Business Conduct. 2023. https://www.oecd.org/en/publications/oecd-guidelines-for-multinational-enterprises-on-responsible-business-conduct_81f92357-en.html
 
 [3] ILO. Generative AI and Jobs A Refined Global Index of Occupational Exposure. 2025. https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure
+
+## Complemento v2.1
+
+A [proposta de equalização](EQUALIZACAO_E_CONTRIBUICAO.md) acrescenta cálculo acumulado, prevenção de dupla contagem e portfólio de contribuições. A [concepção Índole dos Impostos](INDOLE_DOS_IMPOSTOS.md) separa hipóteses de política pública das normas vigentes. Nenhuma nota empresarial é alterada por esta ampliação.

@@ -1,0 +1,35 @@
+﻿Campo,Definição e regra
+allocationId,Identificador único da parcela; não reutilizar em outro destino.
+projectId,Projeto institucional; manter histórico de versão.
+baseId,Base de lucro fixa; evita cobrança em janelas sobrepostas.
+entity,Entidade e perímetro consolidado.
+window,Exercícios completos e não sobrepostos.
+currency,Moeda ISO; não misturar moedas sem conciliação.
+unit,Unidade monetária explícita.
+destination,"product, people, impact ou reserve."
+transactionId,Comprovante e identificador único da transação.
+allocationShare,Fração exclusiva desta transação entre 0 e 1.
+recipient,Pessoa jurídica destinatária; sem dados sensíveis.
+relatedParty,Relação entre pagador e destinatário e conflitos.
+executed,Montante efetivamente executado desta parcela.
+committed,"Montante prometido ou contratado, separado de executado."
+thirdParty,Recursos de terceiros na parcela executada.
+taxBenefit,"Benefício fiscal efetivo desta parcela, não dedução nominal da base."
+returned,Devoluções não incluídas nas outras exclusões.
+stage,"announced, executed, verified ou outcome_evaluated; anúncio não conta como execução."
+fundingReconciled,Verdadeiro apenas depois da conciliação da origem e componentes disjuntos.
+evidenceReviewed,Verdadeiro apenas após revisão documental identificada.
+additionalToBaseline,Aporte adicional à operação já deduzida do lucro.
+preProfitExpense,Se verdadeiro não cabe nesta repartição adicional.
+mandatoryReparation,"Se verdadeiro registrar separado, sem crédito filantrópico."
+evidenceURL,"HTTPS válido, sem credenciais ou informação privada."
+evidencePage,Página ou seção exata.
+evidenceHash,SHA-256 do documento quando houver obtenção legítima.
+executionDate,Data de pagamento/entrega; distinguir ambas se necessário.
+reviewer,"Revisor real, organização e conflitos; não atribuir certificação sem escopo."
+reviewDate,Data da revisão efetiva.
+outcome,"Indicadores, linha de base, comparação, período e limitações."
+adverseEffects,Efeitos adversos e necessidades de reparação.
+responseAndAppeal,"Manifestação, contestação e estado de resolução."
+corrections,Histórico de versões e justificativas.
+transactionAmount,Montante total executado da transação antes das parcelas; executed deve corresponder a total vezes allocationShare.

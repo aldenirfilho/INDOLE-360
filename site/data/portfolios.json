@@ -1,0 +1,98 @@
+{
+  "version": "2.1.0",
+  "as_of": "2026-09-18",
+  "status": "not_reconciled",
+  "note": "Não disponível não significa zero. Nenhuma nova contribuição foi validada nesta atualização.",
+  "companies": [
+    {
+      "id": "nvidia",
+      "name": "NVIDIA Corporation",
+      "status": "not_reconciled",
+      "history": null,
+      "own_contributions": null,
+      "adherence": null,
+      "gap": "Série histórica completa, perímetro, conciliação de aportes e revisão independente pendentes."
+    },
+    {
+      "id": "apple",
+      "name": "Apple Inc.",
+      "status": "not_reconciled",
+      "history": null,
+      "own_contributions": null,
+      "adherence": null,
+      "gap": "Série histórica completa, perímetro, conciliação de aportes e revisão independente pendentes."
+    },
+    {
+      "id": "alphabet",
+      "name": "Alphabet Inc. (Google)",
+      "status": "not_reconciled",
+      "history": null,
+      "own_contributions": null,
+      "adherence": null,
+      "gap": "Série histórica completa, perímetro, conciliação de aportes e revisão independente pendentes."
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft Corporation",
+      "status": "not_reconciled",
+      "history": null,
+      "own_contributions": null,
+      "adherence": null,
+      "gap": "Série histórica completa, perímetro, conciliação de aportes e revisão independente pendentes."
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon.com, Inc.",
+      "status": "not_reconciled",
+      "history": null,
+      "own_contributions": null,
+      "adherence": null,
+      "gap": "Série histórica completa, perímetro, conciliação de aportes e revisão independente pendentes."
+    },
+    {
+      "id": "tsmc",
+      "name": "Taiwan Semiconductor Manufacturing Company Limited (TSMC)",
+      "status": "not_reconciled",
+      "history": null,
+      "own_contributions": null,
+      "adherence": null,
+      "gap": "Série histórica completa, perímetro, conciliação de aportes e revisão independente pendentes."
+    },
+    {
+      "id": "spacex",
+      "name": "Space Exploration Technologies Corp. (SpaceX)",
+      "status": "not_reconciled",
+      "history": null,
+      "own_contributions": null,
+      "adherence": null,
+      "gap": "Série histórica completa, perímetro, conciliação de aportes e revisão independente pendentes."
+    },
+    {
+      "id": "meta",
+      "name": "Meta Platforms, Inc.",
+      "status": "not_reconciled",
+      "history": null,
+      "own_contributions": null,
+      "adherence": null,
+      "gap": "Série histórica completa, perímetro, conciliação de aportes e revisão independente pendentes."
+    },
+    {
+      "id": "broadcom",
+      "name": "Broadcom Inc.",
+      "status": "not_reconciled",
+      "history": null,
+      "own_contributions": null,
+      "adherence": null,
+      "gap": "Série histórica completa, perímetro, conciliação de aportes e revisão independente pendentes."
+    },
+    {
+      "id": "saudi-aramco",
+      "name": "Saudi Arabian Oil Company (Saudi Aramco)",
+      "status": "not_reconciled",
+      "history": null,
+      "own_contributions": null,
+      "adherence": null,
+      "gap": "Série histórica completa, perímetro, conciliação de aportes e revisão independente pendentes."
+    }
+  ]
+}

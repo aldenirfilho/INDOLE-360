@@ -1,5 +1,5 @@
 /** ÍNDOLE 360° 1.1 — pure, independently testable calculations. */
-export const VERSION = '2.0.0';
+export const VERSION = '2.1.0';
 export const DIMENSIONS = [
  ['H1','H','Humanos e funcionários','honra'],['H2','O','Obras sociais verificadas','honra'],
  ['H3','N','Natureza e bem-estar animal','honra'],['H4','R','Retidão jurídica','honra'],

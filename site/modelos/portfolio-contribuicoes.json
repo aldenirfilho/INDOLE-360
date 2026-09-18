@@ -1,0 +1,43 @@
+{
+  "version": "2.1.0",
+  "status": "template_not_audited",
+  "instructions": "Preencha dados reais e mantenha null quando desconhecido. O preenchimento não certifica totais. Concilie origem e execução; a mesma transação pode ter parcelas exclusivas cuja soma não ultrapassa 100%. Mantenha a mesma base, moeda, unidade, entidade e janela.",
+  "records": [
+    {
+      "allocationId": "EXEMPLO-NAO-VERIFICADO-001",
+      "projectId": null,
+      "baseId": null,
+      "entity": null,
+      "window": null,
+      "currency": null,
+      "unit": null,
+      "destination": null,
+      "transactionId": null,
+      "allocationShare": null,
+      "recipient": null,
+      "relatedParty": null,
+      "executed": null,
+      "committed": null,
+      "thirdParty": null,
+      "taxBenefit": null,
+      "returned": null,
+      "stage": "announced",
+      "fundingReconciled": null,
+      "evidenceReviewed": null,
+      "additionalToBaseline": null,
+      "preProfitExpense": null,
+      "mandatoryReparation": null,
+      "evidenceURL": null,
+      "evidencePage": null,
+      "evidenceHash": null,
+      "executionDate": null,
+      "reviewer": null,
+      "reviewDate": null,
+      "outcome": null,
+      "adverseEffects": null,
+      "responseAndAppeal": null,
+      "corrections": null,
+      "transactionAmount": null
+    }
+  ]
+}

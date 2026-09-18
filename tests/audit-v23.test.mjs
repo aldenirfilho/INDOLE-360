@@ -1,0 +1,34 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {DIMENSIONS,blankDraft,sanitizeDraft,assessDraft,compatibleRatio,cashBridge,fundingOrigin,historicalProfit,temporalDelta,validDate} from '../site/audit-engine.mjs';
+const today='2026-09-18';
+function full(){const d=blankDraft('Organização fictícia para teste',today);d.period={start:'2024-09-18',end:today};d.criticalStatus='clear';for(const x of DIMENSIONS)d.ratings[x.id]={value:8,source:'https://example.org/documento',rationale:'Evidência fictícia usada apenas no teste.',sourceType:'official'};return d;}
+const metric=(value,extra={})=>({value,currency:'BRL',unit:'million',period:'2025-01-01/2025-12-31',...extra});
+const year=(y,p)=>({year:y,profit:p,currency:'BRL',unit:'million',scope:'grupo',start:y+'-01-01',end:y+'-12-31'});
+test('blank is missing, never zero or certified',()=>{const r=assessDraft(blankDraft(),today);assert.equal(r.calculation,null);assert.equal(r.publicScore,null);assert.equal(r.documented,0)});
+test('complete sourced draft yields arithmetic only',()=>{const r=assessDraft(full(),today);assert.equal(r.calculation.total,80);assert.equal(r.publication,'draft');assert.equal(r.publicScore,null)});
+test('zero supported by source is a valid score',()=>{const d=full();d.ratings.H1.value=0;assert.equal(assessDraft(d,today).calculation.total,72)});
+test('one missing dimension blocks total',()=>{const d=full();d.ratings.M6.value=null;assert.equal(assessDraft(d,today).calculation,null)});
+test('missing rationale blocks total',()=>{const d=full();d.ratings.H2.rationale=' ';assert.equal(assessDraft(d,today).calculation,null)});
+test('unclassified sources cannot pass',()=>{const d=full();d.ratings.H1.sourceType='not-classified';assert.equal(assessDraft(d,today).calculation,null)});
+test('dangerous and credential-bearing URLs do not pass',()=>{for(const u of ['javascript:alert(1)','data:text/html,test','https://user:pw@example.org']){const d=full();d.ratings.H1.source=u;assert.equal(assessDraft(d,today).calculation,null)}});
+test('future consultation cannot pass',()=>{const d=full();d.consultedAt='2027-01-01';assert.equal(assessDraft(d,today).calculation,null)});
+test('invalid calendar and reversed period rejected',()=>{assert.equal(validDate('2026-02-30'),false);assert.equal(validDate('2024-02-29'),true);const d=full();d.period.start='2026-10-01';assert.equal(assessDraft(d,today).calculation,null)});
+test('critical pending or unknown blocks numerical conclusion',()=>{for(const s of ['pending','not-reviewed']){const d=full();d.criticalStatus=s;assert.equal(assessDraft(d,today).calculation,null)}});
+test('import cannot impersonate editorial approval',()=>{const d=full();d.publication={status:'reviewed',publicScore:100};assert.deepEqual(sanitizeDraft(d).publication,{status:'draft',publicScore:null})});
+test('strings, NaN, infinity and scores out of range rejected',()=>{for(const n of ['8',NaN,Infinity,-1,11]){const d=full();d.ratings.H1.value=n;assert.throws(()=>sanitizeDraft(d))}});
+test('unknown schema rejected',()=>assert.throws(()=>sanitizeDraft({schemaVersion:'fake'})));
+test('compatible ratio and exact zero preserved',()=>{assert.equal(compatibleRatio(metric(30),metric(100)),30);assert.equal(compatibleRatio(metric(0),metric(100)),0)});
+test('nonpositive denominator or absent metadata stays null',()=>{assert.equal(compatibleRatio(metric(1),metric(-2)),null);assert.equal(compatibleRatio({value:1},{value:2}),null);assert.equal(compatibleRatio(metric(1),metric(0)),null)});
+test('mixed periods currencies units or scopes blocked',()=>{for(const x of [{currency:'USD'},{unit:'billion'},{period:'FY2024'},{scope:'subsidiaria'}])assert.equal(compatibleRatio(metric(10,x),metric(100)),null)});
+test('cash bridge balances signed flows',()=>assert.deepEqual(cashBridge({opening:10,operating:8,investing:-4,financing:-2,fx:1,closing:13}),{expected:13,residual:0,reconciled:true}));
+test('cash bridge cannot assume absent FX equals zero',()=>assert.equal(cashBridge({opening:10,operating:8,investing:-4,financing:-2,closing:12}).reconciled,false));
+test('own spending separated from third-party and tax benefit',()=>assert.deepEqual(fundingOrigin({spent:100,incentive:30,thirdParty:20}),{own:50,incentive:30,thirdParty:20}));
+test('unknown origin and double funding rejected',()=>{assert.equal(fundingOrigin({spent:100,incentive:30}),null);assert.equal(fundingOrigin({spent:100,incentive:60,thirdParty:60}),null)});
+test('profit sum includes losses',()=>assert.deepEqual(historicalProfit([year(2024,10),year(2025,-3)],[2024,2025]),{total:7,known:2,complete:true}));
+test('missing profit stays explicitly partial',()=>assert.deepEqual(historicalProfit([year(2024,10),year(2025,null)],[2024,2025]),{total:10,known:1,complete:false}));
+test('duplicate years and absent scope blocked',()=>{assert.equal(historicalProfit([year(2024,10),year(2024,10)],[2024,2025]).total,null);const r=year(2024,10);delete r.scope;assert.equal(historicalProfit([r],[2024]).total,null)});
+test('overlapping financial periods blocked',()=>{const r=year(2025,3);r.start='2024-12-01';assert.equal(historicalProfit([year(2024,10),r],[2024,2025]).total,null)});
+test('temporal comparison requires disjoint periods and same method',()=>{const b={score:50,start:'2016-09-18',end:'2024-09-17',scope:'grupo',methodology:'2.3'},c={...b,score:70,start:'2024-09-18',end:today};assert.equal(temporalDelta(c,b),20);assert.equal(temporalDelta(c,{...b,end:today}),null);assert.equal(temporalDelta({...c,methodology:'1.0'},b),null)});
+
+test('interim results cannot masquerade as annual profit',()=>{const r=year(2025,10);r.end='2025-03-31';assert.equal(historicalProfit([r],[2025]).total,null)});

@@ -1,0 +1,454 @@
+{
+  "normalized": {
+    "id": "apple",
+    "name": "Apple Inc.",
+    "sector": "Dispositivos e serviços",
+    "country": "Estados Unidos",
+    "tickers": [
+      {
+        "exchange": "NASDAQ",
+        "symbol": "AAPL",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm"
+      }
+    ],
+    "ceo": {
+      "name": "John Ternus",
+      "as_of": "2026-09-17",
+      "effective_date": "2026-09-01",
+      "source": "https://www.apple.com/leadership/john-ternus/",
+      "additional_source": "https://www.apple.com/au/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+      "note": "Tim Cook foi CEO durante o FY2025 e tornou-se executive chairman em 2026; a carta atual deve ir a John Ternus e à liderança."
+    },
+    "business_model": "Recebe por dispositivos, serviços digitais, assinaturas, distribuição de aplicativos, publicidade e pagamentos.",
+    "fiscal_year": "FY2025",
+    "period": "2024-09-29/2025-09-27",
+    "revenue": {
+      "value": 416161,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2024-09-29/2025-09-27",
+      "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "label": "Vendas líquidas",
+      "note": null
+    },
+    "net_income": {
+      "value": 112010,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2024-09-29/2025-09-27",
+      "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "label": "Lucro líquido GAAP",
+      "note": null
+    },
+    "capex": {
+      "value": 12715,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2024-09-29/2025-09-27",
+      "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "label": "Pagamentos por imobilizado e equipamentos",
+      "note": null
+    },
+    "research": {
+      "value": 34550,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2024-09-29/2025-09-27",
+      "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "label": "Despesa de pesquisa e desenvolvimento",
+      "note": null
+    },
+    "dividends": {
+      "value": 15421,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2024-09-29/2025-09-27",
+      "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "label": "Dividendos e equivalentes pagos",
+      "note": null
+    },
+    "buybacks": {
+      "value": 90711,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2024-09-29/2025-09-27",
+      "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "label": "Recompras de ações — fluxo de caixa",
+      "note": null
+    },
+    "employees": {
+      "value": 166000,
+      "unit": "persons",
+      "period": "2025-09-27",
+      "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "label": "Empregados equivalentes a tempo integral, aproximados"
+    },
+    "financial_investments": {
+      "text": "Compras de títulos negociáveis: US$24.407 milhões; vencimentos: US$40.907 milhões; vendas: US$12.890 milhões. O fluxo mostra resgate líquido de títulos, não apenas acumulação financeira. Carteira de títulos correntes e não correntes: US$96.486 milhões.",
+      "period": "2024-09-29/2025-09-27",
+      "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "marketable_purchases": {
+        "value": 24407,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2024-09-29/2025-09-27",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "label": "Compras brutas de títulos negociáveis",
+        "note": null
+      }
+    },
+    "social_environment": [
+      {
+        "claim": "Relatório 2026 informa redução superior a 60% das emissões brutas ante 2015 e meta de redução de 75% até 2030; declara eletricidade renovável nas instalações próprias.",
+        "text": null,
+        "period": "FY2025",
+        "source": "https://www.apple.com/environment/pdf/Apple_Environmental_Progress_Report_2026.pdf",
+        "verification": "declaração corporativa em relatório ambiental",
+        "limitation": "Meta futura não é resultado atingido; a extensão da asseguração 2026 não foi integralmente revisada nesta etapa."
+      }
+    ],
+    "worker": [
+      {
+        "claim": "Apple declara um fundo de US$50 milhões para desenvolvimento de trabalhadores de fornecedores, lançado em 2022; anunciou novo polo educacional na Índia em fevereiro de 2026.",
+        "text": null,
+        "period": "Compromisso plurianual desde 2022; anúncio 2026-02-04",
+        "source": "https://www.apple.com/in/newsroom/2026/02/apple-launches-new-education-hub-for-supplier-employees-in-india/",
+        "verification": "declaração corporativa",
+        "limitation": "Não tratar compromisso de US$50 milhões como gasto anual realizado nem como folha dos empregados diretos."
+      },
+      {
+        "claim": "Relata entrevistas e pesquisas anônimas com trabalhadores fornecedores e programas de direitos, saúde e formação técnica.",
+        "text": null,
+        "period": "Dados publicados em 2026",
+        "source": "https://www.apple.com/supply-chain/",
+        "verification": "declaração corporativa",
+        "limitation": "Existência de canais não demonstra ausência de violações; fornecedor não é empregado direto da Apple."
+      }
+    ],
+    "worker_metrics": {
+      "satisfaction": null,
+      "internal_promotion_rate": null,
+      "training_spend": null,
+      "total_compensation": null
+    },
+    "social_spend_comparable": null,
+    "legal_cases": [
+      {
+        "case": "Restrições a direcionamento para ofertas externas da App Store",
+        "authority": "Comissão Europeia",
+        "event_date": "2025-04-23",
+        "status": "Decisão administrativa de descumprimento do Digital Markets Act; multa de EUR500 milhões.",
+        "finding": "Violação da obrigação de permitir direcionamento dos consumidores a ofertas alternativas.",
+        "source": "https://digital-strategy.ec.europa.eu/en/news/commission-finds-apple-and-meta-breach-digital-markets-act",
+        "limitation": "Desfecho recursal atualizado não verificado; não afirmar trânsito em julgado nem corrupção."
+      }
+    ],
+    "improvements": [
+      "Publicar despesas efetivamente executadas do fundo de trabalhadores, resultados de progressão, satisfação anônima e conclusão das correções na cadeia.",
+      "Ampliar reparabilidade, longevidade, acessibilidade cognitiva e opções de menor custo, com metas verificáveis por produto.",
+      "Tornar regras de distribuição e cobranças mais simples e previsíveis, com canal público de correção; apresentar relação entre recompra, melhoria do produto e retorno social."
+    ],
+    "public_contact": {
+      "email": null,
+      "type": "Relações com investidores — contato postal e telefone",
+      "source": "https://investor.apple.com/contact/",
+      "phone": "+1 408 974 3123",
+      "postal_address": "One Apple Park Way, MS 927-4INV, Cupertino, CA 95014, USA",
+      "verified_context": "A página oficial consultada não publica e-mail. Não substituir por endereço presumido do CEO.",
+      "is_ceo_direct": false
+    },
+    "gaps": [
+      "Despesa anual consolidada incremental com capacitação, bem-estar e progressão não isolada.",
+      "Índice global de satisfação com amostragem e verificação independente não confirmado.",
+      "Não há reconciliação pública encontrada entre lucro líquido e os quatro destinos 30/30/30/10.",
+      "Casos jurídicos selecionados; pesquisa não equivale a certidão de ausência de outros processos.",
+      "E-mail institucional adequado para sugestões ao CEO não confirmado; canal postal/telefone documentado.",
+      "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+      "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+    ],
+    "sources": [
+      {
+        "id": "appleAnnual",
+        "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "accessed_at": "2026-09-18",
+        "title": "Relatório anual — Apple"
+      },
+      {
+        "id": "appleESG",
+        "url": "https://www.apple.com/environment/pdf/Apple_Environmental_Progress_Report_2026.pdf",
+        "accessed_at": "2026-09-18",
+        "title": "Relatório socioambiental — Apple"
+      },
+      {
+        "id": "appleWorkers",
+        "url": "https://www.apple.com/supply-chain/",
+        "accessed_at": "2026-09-18",
+        "title": "Cadeia de fornecedores e trabalhadores — Apple"
+      },
+      {
+        "id": "appleEducation",
+        "url": "https://www.apple.com/in/newsroom/2026/02/apple-launches-new-education-hub-for-supplier-employees-in-india/",
+        "accessed_at": "2026-09-18",
+        "title": "Programa educacional — Apple"
+      },
+      {
+        "id": "appleLegal",
+        "url": "https://digital-strategy.ec.europa.eu/en/news/commission-finds-apple-and-meta-breach-digital-markets-act",
+        "accessed_at": "2026-09-18",
+        "title": "Documento da autoridade competente — Apple"
+      },
+      {
+        "id": "appleContact",
+        "url": "https://investor.apple.com/contact/",
+        "accessed_at": "2026-09-18",
+        "title": "Contato institucional — Apple"
+      },
+      {
+        "id": "appleCeo",
+        "url": "https://www.apple.com/leadership/john-ternus/",
+        "accessed_at": "2026-09-18",
+        "title": "Liderança executiva — Apple"
+      },
+      {
+        "id": "appleCeoChange",
+        "url": "https://www.apple.com/au/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+        "accessed_at": "2026-09-18",
+        "title": "Transição da liderança — Apple"
+      }
+    ],
+    "short_name": "Apple",
+    "market_rank": 2,
+    "market_cap_trillion": 4.918,
+    "assessment_summary": "A documentação permite examinar inovação e distribuição expressiva aos acionistas. A avaliação de conduta depende também de reparabilidade, acesso, cadeia de fornecedores e evolução dos casos regulatórios; o volume distribuído isolado não decide o julgamento.",
+    "ratings": {},
+    "review": {
+      "status": "partial",
+      "criticalIssuesResolved": false,
+      "date": "2026-09-18"
+    },
+    "honor_score": null,
+    "adherence_score": null,
+    "business_model_source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+    "fiscal_label": "FY2025",
+    "investment_evidence": [
+      {
+        "claim": "Compras de títulos negociáveis: US$24.407 milhões; vencimentos: US$40.907 milhões; vendas: US$12.890 milhões. O fluxo mostra resgate líquido de títulos, não apenas acumulação financeira. Carteira de títulos correntes e não correntes: US$96.486 milhões.",
+        "text": null,
+        "period": "2024-09-29/2025-09-27",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "verification": "Documento da empresa; escopo de verificação consultar fonte",
+        "limitation": null
+      }
+    ],
+    "cases": [
+      {
+        "claim": "Restrições a direcionamento para ofertas externas da App Store",
+        "text": "Decisão administrativa de descumprimento do Digital Markets Act; multa de EUR500 milhões.",
+        "period": "2025-04-23",
+        "source": "https://digital-strategy.ec.europa.eu/en/news/commission-finds-apple-and-meta-breach-digital-markets-act",
+        "verification": "Comissão Europeia",
+        "limitation": "Desfecho recursal atualizado não verificado; não afirmar trânsito em julgado nem corrupção."
+      }
+    ]
+  },
+  "research_original": {
+    "id": "apple",
+    "name": "Apple Inc.",
+    "sector": "Eletrônicos de consumo e serviços digitais",
+    "country": "Estados Unidos",
+    "tickers": [
+      {
+        "exchange": "NASDAQ",
+        "symbol": "AAPL",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm"
+      }
+    ],
+    "ceo": {
+      "name": "John Ternus",
+      "as_of": "2026-09-17",
+      "effective_date": "2026-09-01",
+      "source": "https://www.apple.com/leadership/john-ternus/",
+      "additional_source": "https://www.apple.com/au/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+      "note": "Tim Cook foi CEO durante o FY2025 e tornou-se executive chairman em 2026; a carta atual deve ir a John Ternus e à liderança."
+    },
+    "business_model": {
+      "text": "Recebe por dispositivos, serviços digitais, assinaturas, distribuição de aplicativos, publicidade e pagamentos.",
+      "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm"
+    },
+    "fiscal_year": "FY2025",
+    "period": "2024-09-29/2025-09-27",
+    "revenue": {
+      "value": 416161,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2024-09-29/2025-09-27",
+      "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "label": "Vendas líquidas",
+      "note": null
+    },
+    "net_income": {
+      "value": 112010,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2024-09-29/2025-09-27",
+      "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "label": "Lucro líquido GAAP",
+      "note": null
+    },
+    "capex": {
+      "value": 12715,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2024-09-29/2025-09-27",
+      "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "label": "Pagamentos por imobilizado e equipamentos",
+      "note": null
+    },
+    "research": {
+      "value": 34550,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2024-09-29/2025-09-27",
+      "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "label": "Despesa de pesquisa e desenvolvimento",
+      "note": null
+    },
+    "dividends": {
+      "value": 15421,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2024-09-29/2025-09-27",
+      "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "label": "Dividendos e equivalentes pagos",
+      "note": null
+    },
+    "buybacks": {
+      "value": 90711,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2024-09-29/2025-09-27",
+      "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "label": "Recompras de ações — fluxo de caixa",
+      "note": null
+    },
+    "employees": {
+      "value": 166000,
+      "unit": "persons",
+      "period": "2025-09-27",
+      "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "label": "Empregados equivalentes a tempo integral, aproximados"
+    },
+    "financial_investments": {
+      "text": "Compras de títulos negociáveis: US$24.407 milhões; vencimentos: US$40.907 milhões; vendas: US$12.890 milhões. O fluxo mostra resgate líquido de títulos, não apenas acumulação financeira. Carteira de títulos correntes e não correntes: US$96.486 milhões.",
+      "period": "2024-09-29/2025-09-27",
+      "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "marketable_purchases": {
+        "value": 24407,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2024-09-29/2025-09-27",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "label": "Compras brutas de títulos negociáveis",
+        "note": null
+      }
+    },
+    "social_environment": [
+      {
+        "claim": "Relatório 2026 informa redução superior a 60% das emissões brutas ante 2015 e meta de redução de 75% até 2030; declara eletricidade renovável nas instalações próprias.",
+        "source": "https://www.apple.com/environment/pdf/Apple_Environmental_Progress_Report_2026.pdf",
+        "period": "FY2025",
+        "verification": "declaração corporativa em relatório ambiental",
+        "limitation": "Meta futura não é resultado atingido; a extensão da asseguração 2026 não foi integralmente revisada nesta etapa."
+      }
+    ],
+    "worker": [
+      {
+        "claim": "Apple declara um fundo de US$50 milhões para desenvolvimento de trabalhadores de fornecedores, lançado em 2022; anunciou novo polo educacional na Índia em fevereiro de 2026.",
+        "source": "https://www.apple.com/in/newsroom/2026/02/apple-launches-new-education-hub-for-supplier-employees-in-india/",
+        "period": "Compromisso plurianual desde 2022; anúncio 2026-02-04",
+        "verification": "declaração corporativa",
+        "limitation": "Não tratar compromisso de US$50 milhões como gasto anual realizado nem como folha dos empregados diretos."
+      },
+      {
+        "claim": "Relata entrevistas e pesquisas anônimas com trabalhadores fornecedores e programas de direitos, saúde e formação técnica.",
+        "source": "https://www.apple.com/supply-chain/",
+        "period": "Dados publicados em 2026",
+        "verification": "declaração corporativa",
+        "limitation": "Existência de canais não demonstra ausência de violações; fornecedor não é empregado direto da Apple."
+      }
+    ],
+    "worker_metrics": {
+      "satisfaction": null,
+      "internal_promotion_rate": null,
+      "training_spend": null,
+      "total_compensation": null
+    },
+    "social_spend_comparable": null,
+    "legal_cases": [
+      {
+        "case": "Restrições a direcionamento para ofertas externas da App Store",
+        "authority": "Comissão Europeia",
+        "event_date": "2025-04-23",
+        "status": "Decisão administrativa de descumprimento do Digital Markets Act; multa de EUR500 milhões.",
+        "finding": "Violação da obrigação de permitir direcionamento dos consumidores a ofertas alternativas.",
+        "source": "https://digital-strategy.ec.europa.eu/en/news/commission-finds-apple-and-meta-breach-digital-markets-act",
+        "limitation": "Desfecho recursal atualizado não verificado; não afirmar trânsito em julgado nem corrupção."
+      }
+    ],
+    "improvements": [
+      "Publicar despesas efetivamente executadas do fundo de trabalhadores, resultados de progressão, satisfação anônima e conclusão das correções na cadeia.",
+      "Ampliar reparabilidade, longevidade, acessibilidade cognitiva e opções de menor custo, com metas verificáveis por produto.",
+      "Tornar regras de distribuição e cobranças mais simples e previsíveis, com canal público de correção; apresentar relação entre recompra, melhoria do produto e retorno social."
+    ],
+    "public_contact": {
+      "email": null,
+      "type": "Relações com investidores — contato postal e telefone",
+      "source": "https://investor.apple.com/contact/",
+      "phone": "+1 408 974 3123",
+      "postal_address": "One Apple Park Way, MS 927-4INV, Cupertino, CA 95014, USA",
+      "verified_context": "A página oficial consultada não publica e-mail. Não substituir por endereço presumido do CEO.",
+      "is_ceo_direct": false
+    },
+    "gaps": [
+      "Despesa anual consolidada incremental com capacitação, bem-estar e progressão não isolada.",
+      "Índice global de satisfação com amostragem e verificação independente não confirmado.",
+      "Não há reconciliação pública encontrada entre lucro líquido e os quatro destinos 30/30/30/10.",
+      "Casos jurídicos selecionados; pesquisa não equivale a certidão de ausência de outros processos.",
+      "E-mail institucional adequado para sugestões ao CEO não confirmado; canal postal/telefone documentado."
+    ],
+    "sources": [
+      {
+        "id": "appleAnnual",
+        "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm"
+      },
+      {
+        "id": "appleESG",
+        "url": "https://www.apple.com/environment/pdf/Apple_Environmental_Progress_Report_2026.pdf"
+      },
+      {
+        "id": "appleWorkers",
+        "url": "https://www.apple.com/supply-chain/"
+      },
+      {
+        "id": "appleEducation",
+        "url": "https://www.apple.com/in/newsroom/2026/02/apple-launches-new-education-hub-for-supplier-employees-in-india/"
+      },
+      {
+        "id": "appleLegal",
+        "url": "https://digital-strategy.ec.europa.eu/en/news/commission-finds-apple-and-meta-breach-digital-markets-act"
+      },
+      {
+        "id": "appleContact",
+        "url": "https://investor.apple.com/contact/"
+      },
+      {
+        "id": "appleCeo",
+        "url": "https://www.apple.com/leadership/john-ternus/"
+      },
+      {
+        "id": "appleCeoChange",
+        "url": "https://www.apple.com/au/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/"
+      }
+    ]
+  }
+}

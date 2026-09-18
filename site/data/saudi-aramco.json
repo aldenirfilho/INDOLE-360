@@ -1,0 +1,498 @@
+{
+  "normalized": {
+    "id": "saudi-aramco",
+    "name": "Saudi Arabian Oil Company (Saudi Aramco)",
+    "sector": "Energia",
+    "country": "Arábia Saudita",
+    "tickers": [
+      {
+        "exchange": "Saudi Exchange / Tadawul",
+        "symbol": "2222",
+        "url": "https://www.saudiexchange.sa/wps/portal/saudiexchange/newsandreports/issuer-news/issuer-announcements/issuer-announcements-details/?anCat=1&anId=93575&cs=2222&csrt=15247565148337270244&locale=ar",
+        "source": "https://www.saudiexchange.sa/wps/portal/saudiexchange/newsandreports/issuer-news/issuer-announcements/issuer-announcements-details/?anCat=1&anId=93575&cs=2222&csrt=15247565148337270244&locale=ar"
+      }
+    ],
+    "ceo": {
+      "name": "Amin H. Nasser",
+      "role": "President e CEO",
+      "url": "https://www.aramco.com/en/news-media/news/2026/fourth-quarter-and-full-year-press-release",
+      "source": "https://www.aramco.com/en/news-media/news/2026/fourth-quarter-and-full-year-press-release",
+      "as_of": "2026-09-17"
+    },
+    "business_model": "Exploração e produção de petróleo e gás, refino, comercialização e petroquímica. Receitas dependem de volumes e preços de hidrocarbonetos e derivados.",
+    "revenue": {
+      "value": 415824,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+      "note": "Receita IFRS. Não confundir com receita mais outros rendimentos ligados a vendas: USD 445.654 milhões. Tradução suplementar a 3,75 SAR/USD.",
+      "source": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf"
+    },
+    "net_income": {
+      "value": 93389,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+      "note": "Lucro IFRS consolidado; atribuível aos acionistas USD 92.811 milhões. NÃO usar lucro ajustado de USD 104,7 bilhões como se fosse IFRS.",
+      "source": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf"
+    },
+    "capex": {
+      "value": 50785,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+      "note": "Capex em caixa; não confundir com capital investment ampliado de USD 52,2 bilhões.",
+      "source": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf"
+    },
+    "research": {
+      "value": 1451,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+      "note": "Despesa consolidada de P&D; distinta dos USD 974 milhões de pesquisa no perímetro Company in-Kingdom do relatório de sustentabilidade.",
+      "source": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf"
+    },
+    "dividends": {
+      "value": 85453,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+      "note": "Pagos a acionistas da companhia; exclui USD 3.255 milhões pagos a participações não controladoras.",
+      "source": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf"
+    },
+    "buybacks": {
+      "value": 0,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+      "note": "Aquisição de ações em tesouraria: zero no fluxo de 2025. Programa de até USD 3 bilhões anunciado em março/2026 não é desembolso de 2025.",
+      "source": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf"
+    },
+    "employees": {
+      "value": 76664,
+      "currency": null,
+      "unit": "people",
+      "period": "2025-12-31",
+      "url": "https://www.aramco.com/-/media/publications/corporate-reports/sustainability-reports/report-2025/english/2025-saudi-aramco-sustainability-report-full-en.pdf",
+      "note": "PERÍMETRO Company in-Kingdom: não é todo o grupo global consolidado.",
+      "source": "https://www.aramco.com/-/media/publications/corporate-reports/sustainability-reports/report-2025/english/2025-saudi-aramco-sustainability-report-full-en.pdf"
+    },
+    "financial_investments": {
+      "evidence": [
+        {
+          "value": 6575,
+          "currency": "USD",
+          "unit": "million",
+          "period": "2025-01-01/2025-12-31",
+          "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+          "note": "Compras líquidas de investimentos em títulos."
+        },
+        {
+          "value": 389,
+          "currency": "USD",
+          "unit": "million",
+          "period": "2025-01-01/2025-12-31",
+          "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+          "note": "Compras líquidas de investimentos de curto prazo."
+        },
+        {
+          "value": 18513,
+          "currency": "USD",
+          "unit": "million",
+          "period": "2025-12-31",
+          "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+          "note": "Estoque de investimentos em títulos correntes e não correntes."
+        }
+      ],
+      "interpretation": "Há títulos, depósitos e participações estratégicas. Separar liquidez de tesouraria, gestão de risco e investimentos industriais/inovação; o agregado não comprova finalidade especulativa. Fluxo líquido não equivale a percentual exclusivamente financiado com lucro.",
+      "profit_allocation_percentage": null
+    },
+    "worker": [
+      {
+        "claim": "Média de treinamento divulgada no perímetro do relatório; não é orçamento nem prova de satisfação. Valor:  167 horas por empregado.",
+        "text": null,
+        "period": "2025-01-01/2025-12-31",
+        "source": "https://www.aramco.com/-/media/publications/corporate-reports/sustainability-reports/report-2025/english/2025-saudi-aramco-sustainability-report-full-en.pdf",
+        "verification": "Documento da empresa; escopo de verificação consultar fonte",
+        "limitation": null
+      },
+      {
+        "claim": "Fatalidades de contratados relatadas pela companhia em 2025. Valor:  4 deaths.",
+        "text": null,
+        "period": "2025-01-01/2025-12-31",
+        "source": "https://www.aramco.com/-/media/publications/corporate-reports/sustainability-reports/report-2025/english/2025-saudi-aramco-sustainability-report-full-en.pdf",
+        "verification": "Documento da empresa; escopo de verificação consultar fonte",
+        "limitation": null
+      }
+    ],
+    "social_environment": [
+      {
+        "claim": "Relata projetos de educação, biodiversidade, saúde e energia para comunidades.",
+        "text": null,
+        "period": null,
+        "source": "https://www.aramco.com/en/sustainability/sustainability-report/growing-societal-value",
+        "verification": "autorrelato",
+        "limitation": null
+      },
+      {
+        "claim": "Emissões operacionais divulgadas de escopo 1: 58,0 MtCO2e; escopo 2: 14,0 MtCO2e. Esses escopos não cobrem todo o uso dos produtos vendidos.",
+        "text": null,
+        "period": null,
+        "source": "https://www.aramco.com/en/about-us/at-a-glance",
+        "verification": "indicadores corporativos selecionados com asseguração limitada",
+        "limitation": null
+      }
+    ],
+    "legal_cases": [],
+    "legal_review": "Busca inicial não exaustiva: nenhum caso específico da entidade com fonte regulatória e desfecho atual suficiente foi selecionado. Campo vazio não significa inexistência de processos ou irregularidades.",
+    "improvements": [
+      "Vincular desembolsos a remediação e transição ambiental verificáveis, com emissões da cadeia de valor e resultados locais além dos escopos operacionais.",
+      "Divulgar quadro e indicadores do grupo global e de contratados, orçamento de desenvolvimento, satisfação, progressão e prevenção de fatalidades.",
+      "Conciliar destinação anual de capital, dividendos, tesouraria, P&D e contribuições voluntárias, distinguindo remediação obrigatória de impacto adicional."
+    ],
+    "public_contact": {
+      "email": "investor.relations@aramco.com",
+      "channel": "Relações com investidores; solicitar encaminhamento à liderança de sustentabilidade/pessoas. E-mail publicado no relatório oficial de novembro/2025; canal atual também disponibiliza formulário.",
+      "url": "https://www.saudiexchange.sa/Resources/fsPdf/11974_1541_2025-11-04_07-44-51_en.pdf",
+      "form_url": "https://www.aramco.com/en/investors/investor-contact-form",
+      "ceo_direct_email": null,
+      "source": "https://www.saudiexchange.sa/Resources/fsPdf/11974_1541_2025-11-04_07-44-51_en.pdf",
+      "type": "Relações com investidores; solicitar encaminhamento à liderança de sustentabilidade/pessoas. E-mail publicado no relatório oficial de novembro/2025; canal atual também disponibiliza formulário."
+    },
+    "critical_limits": [
+      "USD é tradução suplementar dos valores-base em SAR; não usar câmbio de mercado para reconverter esses números.",
+      "Lucro ajustado e lucro IFRS são diferentes.",
+      "Quadro de 76.664 é Company in-Kingdom, diferente do perímetro financeiro consolidado.",
+      "Contribuição social publicada não basta para certificar a adesão a 30% do lucro.",
+      "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+      "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+    ],
+    "sources": [
+      {
+        "id": "A1",
+        "title": "Demonstrações financeiras consolidadas 2025",
+        "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+        "type": "demonstração auditada",
+        "accessed": "2026-09-17",
+        "accessed_at": "2026-09-18"
+      },
+      {
+        "id": "A2",
+        "title": "Relatório de sustentabilidade 2025",
+        "url": "https://www.aramco.com/-/media/publications/corporate-reports/sustainability-reports/report-2025/english/2025-saudi-aramco-sustainability-report-full-en.pdf",
+        "type": "autorrelato e asseguração limitada de métricas selecionadas",
+        "accessed": "2026-09-17",
+        "accessed_at": "2026-09-18"
+      },
+      {
+        "id": "A3",
+        "title": "Resultados anuais publicados em 10/03/2026",
+        "url": "https://www.aramco.com/en/news-media/news/2026/fourth-quarter-and-full-year-press-release",
+        "type": "comunicado oficial",
+        "accessed": "2026-09-17",
+        "accessed_at": "2026-09-18"
+      },
+      {
+        "id": "A4",
+        "title": "Sociedade: contribuições sociais 2025",
+        "url": "https://www.aramco.com/en/sustainability/society",
+        "type": "autorrelato",
+        "accessed": "2026-09-17",
+        "accessed_at": "2026-09-18"
+      },
+      {
+        "id": "A5",
+        "title": "Relatório oficial com contato IR",
+        "url": "https://www.saudiexchange.sa/Resources/fsPdf/11974_1541_2025-11-04_07-44-51_en.pdf",
+        "type": "contato institucional",
+        "accessed": "2026-09-17",
+        "accessed_at": "2026-09-18"
+      },
+      {
+        "id": "A6",
+        "title": "Saudi Exchange: símbolo 2222 e anúncio de 2026",
+        "url": "https://www.saudiexchange.sa/wps/portal/saudiexchange/newsandreports/issuer-news/issuer-announcements/issuer-announcements-details/?anCat=1&anId=93575&cs=2222&csrt=15247565148337270244&locale=ar",
+        "type": "bolsa oficial",
+        "accessed": "2026-09-17",
+        "accessed_at": "2026-09-18"
+      }
+    ],
+    "short_name": "Saudi Aramco",
+    "market_rank": 10,
+    "market_cap_trillion": 1.646,
+    "assessment_summary": "Lucro e dividendos elevados exigem análise proporcional dos impactos, inclusive climáticos. Indicadores de pessoas e sustentabilidade têm perímetro diferente do consolidado; não é possível inferir uma nota global a partir deles.",
+    "ratings": {},
+    "review": {
+      "status": "partial",
+      "criticalIssuesResolved": false,
+      "date": "2026-09-18"
+    },
+    "honor_score": null,
+    "adherence_score": null,
+    "fiscal_label": "FY2025",
+    "investment_evidence": [
+      {
+        "claim": "Compras líquidas de investimentos em títulos. Valor: USD 6.575 milhões.",
+        "text": null,
+        "period": "2025-01-01/2025-12-31",
+        "source": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+        "verification": "Documento da empresa; escopo de verificação consultar fonte",
+        "limitation": null
+      },
+      {
+        "claim": "Compras líquidas de investimentos de curto prazo. Valor: USD 389 milhões.",
+        "text": null,
+        "period": "2025-01-01/2025-12-31",
+        "source": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+        "verification": "Documento da empresa; escopo de verificação consultar fonte",
+        "limitation": null
+      },
+      {
+        "claim": "Estoque de investimentos em títulos correntes e não correntes. Valor: USD 18.513 milhões.",
+        "text": null,
+        "period": "2025-12-31",
+        "source": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+        "verification": "Documento da empresa; escopo de verificação consultar fonte",
+        "limitation": null
+      },
+      {
+        "claim": "Há títulos, depósitos e participações estratégicas. Separar liquidez de tesouraria, gestão de risco e investimentos industriais/inovação; o agregado não comprova finalidade especulativa. Fluxo líquido não equivale a percentual exclusivamente financiado com lucro.",
+        "text": null,
+        "period": null,
+        "source": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+        "verification": "Interpretação documental",
+        "limitation": null
+      }
+    ],
+    "cases": [],
+    "gaps": [
+      "USD é tradução suplementar dos valores-base em SAR; não usar câmbio de mercado para reconverter esses números.",
+      "Lucro ajustado e lucro IFRS são diferentes.",
+      "Quadro de 76.664 é Company in-Kingdom, diferente do perímetro financeiro consolidado.",
+      "Contribuição social publicada não basta para certificar a adesão a 30% do lucro.",
+      "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+      "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+    ]
+  },
+  "research_original": {
+    "id": "saudi-aramco",
+    "name": "Saudi Arabian Oil Company (Saudi Aramco)",
+    "sector": "Petróleo, gás, refino e produtos químicos",
+    "country": "Arábia Saudita",
+    "tickers": [
+      {
+        "exchange": "Saudi Exchange / Tadawul",
+        "symbol": "2222",
+        "url": "https://www.saudiexchange.sa/wps/portal/saudiexchange/newsandreports/issuer-news/issuer-announcements/issuer-announcements-details/?anCat=1&anId=93575&cs=2222&csrt=15247565148337270244&locale=ar"
+      }
+    ],
+    "ceo": {
+      "name": "Amin H. Nasser",
+      "role": "President e CEO",
+      "url": "https://www.aramco.com/en/news-media/news/2026/fourth-quarter-and-full-year-press-release"
+    },
+    "business_model": "Exploração e produção de petróleo e gás, refino, comercialização e petroquímica. Receitas dependem de volumes e preços de hidrocarbonetos e derivados.",
+    "revenue": {
+      "value": 415824,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+      "note": "Receita IFRS. Não confundir com receita mais outros rendimentos ligados a vendas: USD 445.654 milhões. Tradução suplementar a 3,75 SAR/USD."
+    },
+    "net_income": {
+      "value": 93389,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+      "note": "Lucro IFRS consolidado; atribuível aos acionistas USD 92.811 milhões. NÃO usar lucro ajustado de USD 104,7 bilhões como se fosse IFRS."
+    },
+    "capex": {
+      "value": 50785,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+      "note": "Capex em caixa; não confundir com capital investment ampliado de USD 52,2 bilhões."
+    },
+    "research": {
+      "value": 1451,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+      "note": "Despesa consolidada de P&D; distinta dos USD 974 milhões de pesquisa no perímetro Company in-Kingdom do relatório de sustentabilidade."
+    },
+    "dividends": {
+      "value": 85453,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+      "note": "Pagos a acionistas da companhia; exclui USD 3.255 milhões pagos a participações não controladoras."
+    },
+    "buybacks": {
+      "value": 0,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+      "note": "Aquisição de ações em tesouraria: zero no fluxo de 2025. Programa de até USD 3 bilhões anunciado em março/2026 não é desembolso de 2025."
+    },
+    "employees": {
+      "value": 76664,
+      "currency": null,
+      "unit": "people",
+      "period": "2025-12-31",
+      "url": "https://www.aramco.com/-/media/publications/corporate-reports/sustainability-reports/report-2025/english/2025-saudi-aramco-sustainability-report-full-en.pdf",
+      "note": "PERÍMETRO Company in-Kingdom: não é todo o grupo global consolidado."
+    },
+    "financial_investments": {
+      "evidence": [
+        {
+          "value": 6575,
+          "currency": "USD",
+          "unit": "million",
+          "period": "2025-01-01/2025-12-31",
+          "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+          "note": "Compras líquidas de investimentos em títulos."
+        },
+        {
+          "value": 389,
+          "currency": "USD",
+          "unit": "million",
+          "period": "2025-01-01/2025-12-31",
+          "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+          "note": "Compras líquidas de investimentos de curto prazo."
+        },
+        {
+          "value": 18513,
+          "currency": "USD",
+          "unit": "million",
+          "period": "2025-12-31",
+          "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+          "note": "Estoque de investimentos em títulos correntes e não correntes."
+        }
+      ],
+      "interpretation": "Há títulos, depósitos e participações estratégicas. Separar liquidez de tesouraria, gestão de risco e investimentos industriais/inovação; o agregado não comprova finalidade especulativa. Fluxo líquido não equivale a percentual exclusivamente financiado com lucro.",
+      "profit_allocation_percentage": null
+    },
+    "worker": {
+      "satisfaction_score": null,
+      "promotion_rate": null,
+      "annual_employee_development_budget": null,
+      "training": {
+        "value": 167,
+        "currency": null,
+        "unit": "hours_per_employee",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://www.aramco.com/-/media/publications/corporate-reports/sustainability-reports/report-2025/english/2025-saudi-aramco-sustainability-report-full-en.pdf",
+        "note": "Média de treinamento divulgada no perímetro do relatório; não é orçamento nem prova de satisfação."
+      },
+      "contractor_fatalities": {
+        "value": 4,
+        "currency": null,
+        "unit": "deaths",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://www.aramco.com/-/media/publications/corporate-reports/sustainability-reports/report-2025/english/2025-saudi-aramco-sustainability-report-full-en.pdf",
+        "note": "Fatalidades de contratados relatadas pela companhia em 2025."
+      },
+      "evidence_status": "Relatório corporativo; selecionados indicadores possuem asseguração limitada, não certificação integral da experiência ou das políticas trabalhistas.",
+      "source_url": "https://www.aramco.com/en/sustainability/sustainability-report/safe-operations-and-people-development"
+    },
+    "social_environment": {
+      "comparable_annual_social_cash_spend": {
+        "value": 541,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://www.aramco.com/en/sustainability/society",
+        "note": "Contribuições globais sociais/ambientais divulgadas; autorrelato. Não comprovada alocação pós-lucro nem equivalência automática a impacto."
+      },
+      "findings": [
+        {
+          "claim": "Relata projetos de educação, biodiversidade, saúde e energia para comunidades.",
+          "type": "autorrelato",
+          "url": "https://www.aramco.com/en/sustainability/sustainability-report/growing-societal-value"
+        },
+        {
+          "claim": "Emissões operacionais divulgadas de escopo 1: 58,0 MtCO2e; escopo 2: 14,0 MtCO2e. Esses escopos não cobrem todo o uso dos produtos vendidos.",
+          "type": "indicadores corporativos selecionados com asseguração limitada",
+          "url": "https://www.aramco.com/en/about-us/at-a-glance"
+        }
+      ],
+      "impact_assurance": "A asseguração limitada alcança métricas identificadas no relatório, não toda a narrativa social nem um selo moral."
+    },
+    "legal_cases": [],
+    "legal_review": "Busca inicial não exaustiva: nenhum caso específico da entidade com fonte regulatória e desfecho atual suficiente foi selecionado. Campo vazio não significa inexistência de processos ou irregularidades.",
+    "improvements": [
+      "Vincular desembolsos a remediação e transição ambiental verificáveis, com emissões da cadeia de valor e resultados locais além dos escopos operacionais.",
+      "Divulgar quadro e indicadores do grupo global e de contratados, orçamento de desenvolvimento, satisfação, progressão e prevenção de fatalidades.",
+      "Conciliar destinação anual de capital, dividendos, tesouraria, P&D e contribuições voluntárias, distinguindo remediação obrigatória de impacto adicional."
+    ],
+    "public_contact": {
+      "email": "investor.relations@aramco.com",
+      "channel": "Relações com investidores; solicitar encaminhamento à liderança de sustentabilidade/pessoas. E-mail publicado no relatório oficial de novembro/2025; canal atual também disponibiliza formulário.",
+      "url": "https://www.saudiexchange.sa/Resources/fsPdf/11974_1541_2025-11-04_07-44-51_en.pdf",
+      "form_url": "https://www.aramco.com/en/investors/investor-contact-form",
+      "ceo_direct_email": null
+    },
+    "critical_limits": [
+      "USD é tradução suplementar dos valores-base em SAR; não usar câmbio de mercado para reconverter esses números.",
+      "Lucro ajustado e lucro IFRS são diferentes.",
+      "Quadro de 76.664 é Company in-Kingdom, diferente do perímetro financeiro consolidado.",
+      "Contribuição social publicada não basta para certificar a adesão a 30% do lucro."
+    ],
+    "sources": [
+      {
+        "id": "A1",
+        "title": "Demonstrações financeiras consolidadas 2025",
+        "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+        "type": "demonstração auditada",
+        "accessed": "2026-09-17"
+      },
+      {
+        "id": "A2",
+        "title": "Relatório de sustentabilidade 2025",
+        "url": "https://www.aramco.com/-/media/publications/corporate-reports/sustainability-reports/report-2025/english/2025-saudi-aramco-sustainability-report-full-en.pdf",
+        "type": "autorrelato e asseguração limitada de métricas selecionadas",
+        "accessed": "2026-09-17"
+      },
+      {
+        "id": "A3",
+        "title": "Resultados anuais publicados em 10/03/2026",
+        "url": "https://www.aramco.com/en/news-media/news/2026/fourth-quarter-and-full-year-press-release",
+        "type": "comunicado oficial",
+        "accessed": "2026-09-17"
+      },
+      {
+        "id": "A4",
+        "title": "Sociedade: contribuições sociais 2025",
+        "url": "https://www.aramco.com/en/sustainability/society",
+        "type": "autorrelato",
+        "accessed": "2026-09-17"
+      },
+      {
+        "id": "A5",
+        "title": "Relatório oficial com contato IR",
+        "url": "https://www.saudiexchange.sa/Resources/fsPdf/11974_1541_2025-11-04_07-44-51_en.pdf",
+        "type": "contato institucional",
+        "accessed": "2026-09-17"
+      },
+      {
+        "id": "A6",
+        "title": "Saudi Exchange: símbolo 2222 e anúncio de 2026",
+        "url": "https://www.saudiexchange.sa/wps/portal/saudiexchange/newsandreports/issuer-news/issuer-announcements/issuer-announcements-details/?anCat=1&anId=93575&cs=2222&csrt=15247565148337270244&locale=ar",
+        "type": "bolsa oficial",
+        "accessed": "2026-09-17"
+      }
+    ]
+  }
+}

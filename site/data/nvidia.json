@@ -1,0 +1,430 @@
+{
+  "normalized": {
+    "id": "nvidia",
+    "name": "NVIDIA Corporation",
+    "sector": "Semicondutores",
+    "country": "Estados Unidos",
+    "tickers": [
+      {
+        "exchange": "NASDAQ",
+        "symbol": "NVDA",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm"
+      }
+    ],
+    "ceo": {
+      "name": "Jensen Huang (Jen-Hsun Huang)",
+      "as_of": "2026-08-26",
+      "source": "https://investor.nvidia.com/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf"
+    },
+    "business_model": "Vende GPUs, sistemas, redes e plataformas de computação acelerada; software e serviços complementam hardware. Modelo fabless: fabricação terceirizada.",
+    "fiscal_year": "FY2026",
+    "period": "2025-01-27/2026-01-25",
+    "revenue": {
+      "value": 215938,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-27/2026-01-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "label": "Receita",
+      "note": null
+    },
+    "net_income": {
+      "value": 120067,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-27/2026-01-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "label": "Lucro líquido GAAP",
+      "note": null
+    },
+    "capex": {
+      "value": 6042,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-27/2026-01-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "label": "Compras de imobilizado, equipamentos e ativos intangíveis",
+      "note": "Rubrica inclui intangíveis; exclui pagamento Groq de US$13.000 milhões apresentado separadamente. Não comparar como capex físico puro."
+    },
+    "research": {
+      "value": 18497,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-27/2026-01-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "label": "Despesa de pesquisa e desenvolvimento",
+      "note": null
+    },
+    "dividends": {
+      "value": 974,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-27/2026-01-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "label": "Dividendos pagos",
+      "note": null
+    },
+    "buybacks": {
+      "value": 40086,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-27/2026-01-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "label": "Pagamentos relacionados a recompra de ações",
+      "note": "Fluxo de caixa; valor de recompra por competência é aproximadamente US$40,4 bilhões."
+    },
+    "employees": {
+      "value": 42000,
+      "unit": "persons",
+      "period": "2026-01-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "label": "Empregados aproximados"
+    },
+    "financial_investments": {
+      "text": "Comprou títulos negociáveis por US$40.616 milhões e participações não negociáveis por US$17.502 milhões; vendas/vencimentos dos negociáveis somaram US$26.383 milhões. Essas compras brutas não identificam qual parcela veio do lucro corrente.",
+      "period": "2025-01-27/2026-01-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "marketable_purchases": {
+        "value": 40616,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-27/2026-01-25",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "label": "Compras brutas de títulos negociáveis",
+        "note": null
+      },
+      "nonmarketable_purchases": {
+        "value": 17502,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-27/2026-01-25",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "label": "Compras de participações não negociáveis",
+        "note": null
+      }
+    },
+    "social_environment": [
+      {
+        "claim": "Relatório FY26 declara 100% de eletricidade limpa comprada ou gerada. Escopos 1+2, pela abordagem de mercado: 10.390 tCO2e; escopo 3 reportado: 10.700.940 tCO2e.",
+        "text": null,
+        "period": "2025-01-27/2026-01-25",
+        "source": "https://images.nvidia.com/aem-dam/Solutions/documents/NVIDIA-Sustainability-Report-Fiscal-Year-2026.pdf",
+        "verification": "relatório corporativo; asseguração limitada de métricas selecionadas",
+        "limitation": "Não significa energia limpa disponível a cada hora nem toda a cadeia sem emissões; verificar escopo de cada asseguração."
+      },
+      {
+        "claim": "Fundação informa US$83 milhões de doações somando empresa e empregados; inclui mais de US$34 milhões dos empregados e quase US$30 milhões de contrapartida corporativa.",
+        "text": null,
+        "period": "2025-01-27/2026-01-25",
+        "source": "https://www.nvidia.com/en-eu/foundation/reports/",
+        "verification": "declaração corporativa",
+        "limitation": "US$83 milhões não pode ser lançado integralmente como doação empresarial; total corporativo comparável não isolado."
+      }
+    ],
+    "worker": [
+      {
+        "claim": "Declara rotatividade de 3,7% e programas de desenvolvimento e reembolso educacional.",
+        "text": null,
+        "period": "2025-01-27/2026-01-25",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "verification": "declaração no 10-K",
+        "limitation": "Rotatividade não mede satisfação nem oportunidades de progressão."
+      }
+    ],
+    "worker_metrics": {
+      "satisfaction": null,
+      "internal_promotion_rate": null,
+      "training_spend": null,
+      "total_compensation": null
+    },
+    "social_spend_comparable": null,
+    "legal_cases": [
+      {
+        "case": "Divulgação do efeito da mineração de criptoativos nas receitas",
+        "authority": "SEC — Estados Unidos",
+        "event_date": "2022-05-06",
+        "status": "Acordo administrativo com ordem de cessação e multa civil de US$5,5 milhões; sem admitir ou negar os achados.",
+        "finding": "SEC apontou divulgação inadequada e controles insuficientes.",
+        "source": "https://www.sec.gov/newsroom/press-releases/2022-79",
+        "limitation": "Caso histórico concluído por acordo; não é condenação criminal por corrupção."
+      }
+    ],
+    "improvements": [
+      "Publicar conciliação anual entre lucro, caixa, reinvestimento, remuneração e contribuição comunitária, distinguindo caixa próprio e doações de empregados.",
+      "Estabelecer indicadores auditáveis de capacitação, progressão e benefícios distribuídos por faixa salarial, incluindo fornecedores.",
+      "Divulgar emissões absolutas e consumo de energia na utilização dos produtos com fronteiras claras, junto de resultados sociais de projetos de IA que ampliem a capacidade humana."
+    ],
+    "public_contact": {
+      "email": "NVIDIACorporateSustainability@nvidia.com",
+      "type": "Equipe de sustentabilidade",
+      "source": "https://images.nvidia.com/aem-dam/Solutions/documents/NVIDIA-Sustainability-Report-Fiscal-Year-2026.pdf",
+      "verified_context": "Relatório FY26, páginas 29 e 39: canal para comentários e sugestões.",
+      "is_ceo_direct": false
+    },
+    "gaps": [
+      "Despesa anual consolidada incremental com capacitação, bem-estar e progressão não isolada.",
+      "Índice global de satisfação com amostragem e verificação independente não confirmado.",
+      "Não há reconciliação pública encontrada entre lucro líquido e os quatro destinos 30/30/30/10.",
+      "Casos jurídicos selecionados; pesquisa não equivale a certidão de ausência de outros processos.",
+      "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+      "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+    ],
+    "sources": [
+      {
+        "id": "nvdaAnnual",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "accessed_at": "2026-09-18",
+        "title": "Relatório anual — NVIDIA"
+      },
+      {
+        "id": "nvdaESG",
+        "url": "https://images.nvidia.com/aem-dam/Solutions/documents/NVIDIA-Sustainability-Report-Fiscal-Year-2026.pdf",
+        "accessed_at": "2026-09-18",
+        "title": "Relatório socioambiental — NVIDIA"
+      },
+      {
+        "id": "nvdaGiving",
+        "url": "https://www.nvidia.com/en-eu/foundation/reports/",
+        "accessed_at": "2026-09-18",
+        "title": "Relatório de doações e fundação — NVIDIA"
+      },
+      {
+        "id": "nvdaLegal",
+        "url": "https://www.sec.gov/newsroom/press-releases/2022-79",
+        "accessed_at": "2026-09-18",
+        "title": "Documento da autoridade competente — NVIDIA"
+      },
+      {
+        "id": "nvdaCeo",
+        "url": "https://investor.nvidia.com/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf",
+        "accessed_at": "2026-09-18",
+        "title": "Liderança executiva — NVIDIA"
+      }
+    ],
+    "short_name": "NVIDIA",
+    "market_rank": 1,
+    "market_cap_trillion": 5.296,
+    "assessment_summary": "Há investimento em pesquisa e evidências corporativas de iniciativas ambientais e sociais. A contribuição própria precisa ser separada das doações dos empregados, e impacto e valorização do trabalho ainda exigem verificação.",
+    "ratings": {},
+    "review": {
+      "status": "partial",
+      "criticalIssuesResolved": false,
+      "date": "2026-09-18"
+    },
+    "honor_score": null,
+    "adherence_score": null,
+    "business_model_source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+    "fiscal_label": "FY2026",
+    "investment_evidence": [
+      {
+        "claim": "Comprou títulos negociáveis por US$40.616 milhões e participações não negociáveis por US$17.502 milhões; vendas/vencimentos dos negociáveis somaram US$26.383 milhões. Essas compras brutas não identificam qual parcela veio do lucro corrente.",
+        "text": null,
+        "period": "2025-01-27/2026-01-25",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "verification": "Documento da empresa; escopo de verificação consultar fonte",
+        "limitation": null
+      }
+    ],
+    "cases": [
+      {
+        "claim": "Divulgação do efeito da mineração de criptoativos nas receitas",
+        "text": "Acordo administrativo com ordem de cessação e multa civil de US$5,5 milhões; sem admitir ou negar os achados.",
+        "period": "2022-05-06",
+        "source": "https://www.sec.gov/newsroom/press-releases/2022-79",
+        "verification": "SEC — Estados Unidos",
+        "limitation": "Caso histórico concluído por acordo; não é condenação criminal por corrupção."
+      }
+    ]
+  },
+  "research_original": {
+    "id": "nvidia",
+    "name": "NVIDIA Corporation",
+    "sector": "Semicondutores e computação acelerada",
+    "country": "Estados Unidos",
+    "tickers": [
+      {
+        "exchange": "NASDAQ",
+        "symbol": "NVDA",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm"
+      }
+    ],
+    "ceo": {
+      "name": "Jensen Huang (Jen-Hsun Huang)",
+      "as_of": "2026-08-26",
+      "source": "https://investor.nvidia.com/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf"
+    },
+    "business_model": {
+      "text": "Vende GPUs, sistemas, redes e plataformas de computação acelerada; software e serviços complementam hardware. Modelo fabless: fabricação terceirizada.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm"
+    },
+    "fiscal_year": "FY2026",
+    "period": "2025-01-27/2026-01-25",
+    "revenue": {
+      "value": 215938,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-27/2026-01-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "label": "Receita",
+      "note": null
+    },
+    "net_income": {
+      "value": 120067,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-27/2026-01-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "label": "Lucro líquido GAAP",
+      "note": null
+    },
+    "capex": {
+      "value": 6042,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-27/2026-01-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "label": "Compras de imobilizado, equipamentos e ativos intangíveis",
+      "note": "Rubrica inclui intangíveis; exclui pagamento Groq de US$13.000 milhões apresentado separadamente. Não comparar como capex físico puro."
+    },
+    "research": {
+      "value": 18497,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-27/2026-01-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "label": "Despesa de pesquisa e desenvolvimento",
+      "note": null
+    },
+    "dividends": {
+      "value": 974,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-27/2026-01-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "label": "Dividendos pagos",
+      "note": null
+    },
+    "buybacks": {
+      "value": 40086,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-27/2026-01-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "label": "Pagamentos relacionados a recompra de ações",
+      "note": "Fluxo de caixa; valor de recompra por competência é aproximadamente US$40,4 bilhões."
+    },
+    "employees": {
+      "value": 42000,
+      "unit": "persons",
+      "period": "2026-01-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "label": "Empregados aproximados"
+    },
+    "financial_investments": {
+      "text": "Comprou títulos negociáveis por US$40.616 milhões e participações não negociáveis por US$17.502 milhões; vendas/vencimentos dos negociáveis somaram US$26.383 milhões. Essas compras brutas não identificam qual parcela veio do lucro corrente.",
+      "period": "2025-01-27/2026-01-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "marketable_purchases": {
+        "value": 40616,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-27/2026-01-25",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "label": "Compras brutas de títulos negociáveis",
+        "note": null
+      },
+      "nonmarketable_purchases": {
+        "value": 17502,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-27/2026-01-25",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "label": "Compras de participações não negociáveis",
+        "note": null
+      }
+    },
+    "social_environment": [
+      {
+        "claim": "Relatório FY26 declara 100% de eletricidade limpa comprada ou gerada. Escopos 1+2, pela abordagem de mercado: 10.390 tCO2e; escopo 3 reportado: 10.700.940 tCO2e.",
+        "source": "https://images.nvidia.com/aem-dam/Solutions/documents/NVIDIA-Sustainability-Report-Fiscal-Year-2026.pdf",
+        "period": "2025-01-27/2026-01-25",
+        "verification": "relatório corporativo; asseguração limitada de métricas selecionadas",
+        "limitation": "Não significa energia limpa disponível a cada hora nem toda a cadeia sem emissões; verificar escopo de cada asseguração."
+      },
+      {
+        "claim": "Fundação informa US$83 milhões de doações somando empresa e empregados; inclui mais de US$34 milhões dos empregados e quase US$30 milhões de contrapartida corporativa.",
+        "source": "https://www.nvidia.com/en-eu/foundation/reports/",
+        "period": "2025-01-27/2026-01-25",
+        "verification": "declaração corporativa",
+        "limitation": "US$83 milhões não pode ser lançado integralmente como doação empresarial; total corporativo comparável não isolado."
+      }
+    ],
+    "worker": [
+      {
+        "claim": "Declara rotatividade de 3,7% e programas de desenvolvimento e reembolso educacional.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "period": "2025-01-27/2026-01-25",
+        "verification": "declaração no 10-K",
+        "limitation": "Rotatividade não mede satisfação nem oportunidades de progressão."
+      }
+    ],
+    "worker_metrics": {
+      "satisfaction": null,
+      "internal_promotion_rate": null,
+      "training_spend": null,
+      "total_compensation": null
+    },
+    "social_spend_comparable": null,
+    "legal_cases": [
+      {
+        "case": "Divulgação do efeito da mineração de criptoativos nas receitas",
+        "authority": "SEC — Estados Unidos",
+        "event_date": "2022-05-06",
+        "status": "Acordo administrativo com ordem de cessação e multa civil de US$5,5 milhões; sem admitir ou negar os achados.",
+        "finding": "SEC apontou divulgação inadequada e controles insuficientes.",
+        "source": "https://www.sec.gov/newsroom/press-releases/2022-79",
+        "limitation": "Caso histórico concluído por acordo; não é condenação criminal por corrupção."
+      }
+    ],
+    "improvements": [
+      "Publicar conciliação anual entre lucro, caixa, reinvestimento, remuneração e contribuição comunitária, distinguindo caixa próprio e doações de empregados.",
+      "Estabelecer indicadores auditáveis de capacitação, progressão e benefícios distribuídos por faixa salarial, incluindo fornecedores.",
+      "Divulgar emissões absolutas e consumo de energia na utilização dos produtos com fronteiras claras, junto de resultados sociais de projetos de IA que ampliem a capacidade humana."
+    ],
+    "public_contact": {
+      "email": "NVIDIACorporateSustainability@nvidia.com",
+      "type": "Equipe de sustentabilidade",
+      "source": "https://images.nvidia.com/aem-dam/Solutions/documents/NVIDIA-Sustainability-Report-Fiscal-Year-2026.pdf",
+      "verified_context": "Relatório FY26, páginas 29 e 39: canal para comentários e sugestões.",
+      "is_ceo_direct": false
+    },
+    "gaps": [
+      "Despesa anual consolidada incremental com capacitação, bem-estar e progressão não isolada.",
+      "Índice global de satisfação com amostragem e verificação independente não confirmado.",
+      "Não há reconciliação pública encontrada entre lucro líquido e os quatro destinos 30/30/30/10.",
+      "Casos jurídicos selecionados; pesquisa não equivale a certidão de ausência de outros processos."
+    ],
+    "sources": [
+      {
+        "id": "nvdaAnnual",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm"
+      },
+      {
+        "id": "nvdaESG",
+        "url": "https://images.nvidia.com/aem-dam/Solutions/documents/NVIDIA-Sustainability-Report-Fiscal-Year-2026.pdf"
+      },
+      {
+        "id": "nvdaGiving",
+        "url": "https://www.nvidia.com/en-eu/foundation/reports/"
+      },
+      {
+        "id": "nvdaLegal",
+        "url": "https://www.sec.gov/newsroom/press-releases/2022-79"
+      },
+      {
+        "id": "nvdaCeo",
+        "url": "https://investor.nvidia.com/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf"
+      }
+    ]
+  }
+}

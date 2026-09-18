@@ -1,0 +1,467 @@
+{
+  "normalized": {
+    "id": "microsoft",
+    "name": "Microsoft Corporation",
+    "sector": "Software e nuvem",
+    "country": "Estados Unidos",
+    "tickers": [
+      {
+        "exchange": "NASDAQ",
+        "symbol": "MSFT",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm"
+      }
+    ],
+    "ceo": {
+      "name": "Satya Nadella",
+      "as_of": "2026-09-17",
+      "source": "https://news.microsoft.com/source/leadership"
+    },
+    "business_model": "Assinaturas e licenças de software, serviços de nuvem, publicidade, jogos, dispositivos e serviços empresariais.",
+    "fiscal_year": "FY2026",
+    "period": "2025-07-01/2026-06-30",
+    "revenue": {
+      "value": 331839,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-07-01/2026-06-30",
+      "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "label": "Receita",
+      "note": null
+    },
+    "net_income": {
+      "value": 133749,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-07-01/2026-06-30",
+      "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "label": "Lucro líquido GAAP",
+      "note": "Inclui efeitos de investimentos; não confundir com lucro operacional ou caixa."
+    },
+    "capex": {
+      "value": 115948,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-07-01/2026-06-30",
+      "source": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast",
+      "label": "Adições a imobilizado e equipamentos — caixa",
+      "note": "Coluna de 12 meses; não inclui todos os ativos obtidos por arrendamento financeiro. Release não auditado; 10-K anual também localizado."
+    },
+    "research": {
+      "value": 35562,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-07-01/2026-06-30",
+      "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "label": "Despesa de pesquisa e desenvolvimento",
+      "note": null
+    },
+    "dividends": {
+      "value": 26445,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-07-01/2026-06-30",
+      "source": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast",
+      "label": "Dividendos em dinheiro pagos",
+      "note": null
+    },
+    "buybacks": {
+      "value": 16719,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-07-01/2026-06-30",
+      "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "label": "Recompras pelo programa público",
+      "note": "Exclui ações retidas para impostos de empregados. Fluxo de caixa total de recompras é US$22.271 milhões; não comparar os dois conceitos indistintamente."
+    },
+    "buybacks_cash_flow": {
+      "value": 22271,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-07-01/2026-06-30",
+      "source": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast",
+      "label": "Total de recompras no fluxo de caixa",
+      "note": "Inclui retenções relacionadas a impostos de remuneração em ações."
+    },
+    "employees": {
+      "value": 223000,
+      "unit": "persons",
+      "period": "2026-06-30",
+      "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "label": "Empregados em tempo integral, aproximados"
+    },
+    "financial_investments": {
+      "text": "Compras de investimentos de US$58.351 milhões; vencimentos US$34.605 milhões e vendas US$21.798 milhões. Aplicações de curto prazo totalizavam US$55.908 milhões no encerramento. Ganhos de investimento podem alterar o lucro sem equivaler a caixa livre.",
+      "period": "2025-07-01/2026-06-30",
+      "source": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast",
+      "marketable_purchases": {
+        "value": 58351,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-07-01/2026-06-30",
+        "source": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast",
+        "label": "Compras de investimentos — rubrica consolidada",
+        "note": null
+      }
+    },
+    "social_environment": [
+      {
+        "claim": "Relatório ambiental 2026 cobre FY2025 e reconhece aumento de 25% nas emissões totais de escopos 1, 2 e 3; atribui-o à expansão de datacenters e mudança no uso de certificados de energia.",
+        "text": null,
+        "period": "FY2025",
+        "source": "https://blogs.microsoft.com/on-the-issues/2026/07/09/responsibly-building-the-ai-future/",
+        "verification": "declaração corporativa",
+        "limitation": "Indicador ambiental refere-se a FY2025, não FY2026 financeiro. Não comparar sem identificar essa defasagem."
+      },
+      {
+        "claim": "Declara reposição global de água superior ao volume retirado e 92% de reutilização/reciclagem de hardware de nuvem desativado.",
+        "text": null,
+        "period": "FY2025",
+        "source": "https://www.microsoft.com/en-us/corporate-responsibility/topics/sustainability/report/",
+        "verification": "declaração corporativa",
+        "limitation": "Saldo global de água não comprova compensação no mesmo local e momento; asseguração detalhada não revisada nesta etapa."
+      },
+      {
+        "claim": "Informa mais de US$88 milhões combinados de empresa e empregados para ONGs de Washington em 2025.",
+        "text": null,
+        "period": "2025",
+        "source": "https://www.microsoft.com/en-us/corporate-responsibility/topics/sustainability/report/",
+        "verification": "declaração corporativa",
+        "limitation": "Dado regional e combinado; não é total mundial de filantropia corporativa."
+      }
+    ],
+    "worker": [
+      {
+        "claim": "O 10-K informa 223 mil empregados em tempo integral, incluindo 77 mil em pesquisa e desenvolvimento.",
+        "text": null,
+        "period": "2026-06-30",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "verification": "declaração no 10-K",
+        "limitation": "Quantidade e atividade não demonstram satisfação, estabilidade ou distribuição equitativa dos benefícios."
+      }
+    ],
+    "worker_metrics": {
+      "satisfaction": null,
+      "internal_promotion_rate": null,
+      "training_spend": null,
+      "total_compensation": null
+    },
+    "social_spend_comparable": null,
+    "legal_cases": [
+      {
+        "case": "Microsoft Teams — AT.40721 e AT.40873",
+        "authority": "Comissão Europeia",
+        "event_date": "2025-09-12",
+        "status": "Compromissos tornados vinculantes para endereçar preocupações concorrenciais sobre venda conjunta e interoperabilidade.",
+        "finding": "Obrigações incluem suítes sem Teams, interoperabilidade e portabilidade; monitoramento independente previsto.",
+        "source": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C_202506579",
+        "limitation": "Decisão de compromissos sobre preocupações concorrenciais; não apresentar como condenação criminal nem como prova de corrupção."
+      }
+    ],
+    "improvements": [
+      "Publicar orçamento e resultados da transição de trabalhadores afetados pela IA: requalificação, recolocação e mobilidade interna, com participação dos empregados.",
+      "Associar expansão dos datacenters a metas locais de energia limpa, água e benefícios comunitários; divulgar impacto absoluto junto da eficiência.",
+      "Simplificar licenciamento, interoperabilidade e acessibilidade cognitiva, com métricas de tempo para realizar tarefas e mecanismo verificável de reclamação."
+    ],
+    "public_contact": {
+      "email": "msft@microsoft.com",
+      "type": "Relações com investidores",
+      "source": "https://www.microsoft.com/en-us/investor/contact-information",
+      "verified_context": "Página oficial publica o endereço para questões financeiras/ações; pedir encaminhamento à sustentabilidade e liderança.",
+      "is_ceo_direct": false
+    },
+    "gaps": [
+      "Despesa anual consolidada incremental com capacitação, bem-estar e progressão não isolada.",
+      "Índice global de satisfação com amostragem e verificação independente não confirmado.",
+      "Não há reconciliação pública encontrada entre lucro líquido e os quatro destinos 30/30/30/10.",
+      "Casos jurídicos selecionados; pesquisa não equivale a certidão de ausência de outros processos.",
+      "Relatório ambiental disponível cobre FY2025, enquanto os números financeiros são FY2026.",
+      "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+      "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+    ],
+    "sources": [
+      {
+        "id": "msftAnnual",
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "accessed_at": "2026-09-18",
+        "title": "Relatório anual — Microsoft"
+      },
+      {
+        "id": "msftRelease",
+        "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast",
+        "accessed_at": "2026-09-18",
+        "title": "Comunicado de resultados — Microsoft"
+      },
+      {
+        "id": "msftESG",
+        "url": "https://blogs.microsoft.com/on-the-issues/2026/07/09/responsibly-building-the-ai-future/",
+        "accessed_at": "2026-09-18",
+        "title": "Relatório socioambiental — Microsoft"
+      },
+      {
+        "id": "msftESGHome",
+        "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/sustainability/report/",
+        "accessed_at": "2026-09-18",
+        "title": "Relatórios de sustentabilidade — Microsoft"
+      },
+      {
+        "id": "msftLegal",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C_202506579",
+        "accessed_at": "2026-09-18",
+        "title": "Documento da autoridade competente — Microsoft"
+      },
+      {
+        "id": "msftContact",
+        "url": "https://www.microsoft.com/en-us/investor/contact-information",
+        "accessed_at": "2026-09-18",
+        "title": "Contato institucional — Microsoft"
+      },
+      {
+        "id": "msftCeo",
+        "url": "https://news.microsoft.com/source/leadership",
+        "accessed_at": "2026-09-18",
+        "title": "Liderança executiva — Microsoft"
+      }
+    ],
+    "short_name": "Microsoft",
+    "market_rank": 4,
+    "market_cap_trillion": 3.696,
+    "assessment_summary": "Pesquisa e infraestrutura têm escala relevante; há iniciativas declaradas de qualificação e ambiente. Períodos ambientais e financeiros diferem, e os efeitos da expansão de IA sobre emprego e recursos naturais precisam de métricas comparáveis.",
+    "ratings": {},
+    "review": {
+      "status": "partial",
+      "criticalIssuesResolved": false,
+      "date": "2026-09-18"
+    },
+    "honor_score": null,
+    "adherence_score": null,
+    "business_model_source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+    "fiscal_label": "FY2026",
+    "investment_evidence": [
+      {
+        "claim": "Compras de investimentos de US$58.351 milhões; vencimentos US$34.605 milhões e vendas US$21.798 milhões. Aplicações de curto prazo totalizavam US$55.908 milhões no encerramento. Ganhos de investimento podem alterar o lucro sem equivaler a caixa livre.",
+        "text": null,
+        "period": "2025-07-01/2026-06-30",
+        "source": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast",
+        "verification": "Documento da empresa; escopo de verificação consultar fonte",
+        "limitation": null
+      }
+    ],
+    "cases": [
+      {
+        "claim": "Microsoft Teams — AT.40721 e AT.40873",
+        "text": "Compromissos tornados vinculantes para endereçar preocupações concorrenciais sobre venda conjunta e interoperabilidade.",
+        "period": "2025-09-12",
+        "source": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C_202506579",
+        "verification": "Comissão Europeia",
+        "limitation": "Decisão de compromissos sobre preocupações concorrenciais; não apresentar como condenação criminal nem como prova de corrupção."
+      }
+    ]
+  },
+  "research_original": {
+    "id": "microsoft",
+    "name": "Microsoft Corporation",
+    "sector": "Software, nuvem e inteligência artificial",
+    "country": "Estados Unidos",
+    "tickers": [
+      {
+        "exchange": "NASDAQ",
+        "symbol": "MSFT",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm"
+      }
+    ],
+    "ceo": {
+      "name": "Satya Nadella",
+      "as_of": "2026-09-17",
+      "source": "https://news.microsoft.com/source/leadership"
+    },
+    "business_model": {
+      "text": "Assinaturas e licenças de software, serviços de nuvem, publicidade, jogos, dispositivos e serviços empresariais.",
+      "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm"
+    },
+    "fiscal_year": "FY2026",
+    "period": "2025-07-01/2026-06-30",
+    "revenue": {
+      "value": 331839,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-07-01/2026-06-30",
+      "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "label": "Receita",
+      "note": null
+    },
+    "net_income": {
+      "value": 133749,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-07-01/2026-06-30",
+      "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "label": "Lucro líquido GAAP",
+      "note": "Inclui efeitos de investimentos; não confundir com lucro operacional ou caixa."
+    },
+    "capex": {
+      "value": 115948,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-07-01/2026-06-30",
+      "source": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast",
+      "label": "Adições a imobilizado e equipamentos — caixa",
+      "note": "Coluna de 12 meses; não inclui todos os ativos obtidos por arrendamento financeiro. Release não auditado; 10-K anual também localizado."
+    },
+    "research": {
+      "value": 35562,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-07-01/2026-06-30",
+      "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "label": "Despesa de pesquisa e desenvolvimento",
+      "note": null
+    },
+    "dividends": {
+      "value": 26445,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-07-01/2026-06-30",
+      "source": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast",
+      "label": "Dividendos em dinheiro pagos",
+      "note": null
+    },
+    "buybacks": {
+      "value": 16719,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-07-01/2026-06-30",
+      "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "label": "Recompras pelo programa público",
+      "note": "Exclui ações retidas para impostos de empregados. Fluxo de caixa total de recompras é US$22.271 milhões; não comparar os dois conceitos indistintamente."
+    },
+    "buybacks_cash_flow": {
+      "value": 22271,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-07-01/2026-06-30",
+      "source": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast",
+      "label": "Total de recompras no fluxo de caixa",
+      "note": "Inclui retenções relacionadas a impostos de remuneração em ações."
+    },
+    "employees": {
+      "value": 223000,
+      "unit": "persons",
+      "period": "2026-06-30",
+      "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "label": "Empregados em tempo integral, aproximados"
+    },
+    "financial_investments": {
+      "text": "Compras de investimentos de US$58.351 milhões; vencimentos US$34.605 milhões e vendas US$21.798 milhões. Aplicações de curto prazo totalizavam US$55.908 milhões no encerramento. Ganhos de investimento podem alterar o lucro sem equivaler a caixa livre.",
+      "period": "2025-07-01/2026-06-30",
+      "source": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast",
+      "marketable_purchases": {
+        "value": 58351,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-07-01/2026-06-30",
+        "source": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast",
+        "label": "Compras de investimentos — rubrica consolidada",
+        "note": null
+      }
+    },
+    "social_environment": [
+      {
+        "claim": "Relatório ambiental 2026 cobre FY2025 e reconhece aumento de 25% nas emissões totais de escopos 1, 2 e 3; atribui-o à expansão de datacenters e mudança no uso de certificados de energia.",
+        "source": "https://blogs.microsoft.com/on-the-issues/2026/07/09/responsibly-building-the-ai-future/",
+        "period": "FY2025",
+        "verification": "declaração corporativa",
+        "limitation": "Indicador ambiental refere-se a FY2025, não FY2026 financeiro. Não comparar sem identificar essa defasagem."
+      },
+      {
+        "claim": "Declara reposição global de água superior ao volume retirado e 92% de reutilização/reciclagem de hardware de nuvem desativado.",
+        "source": "https://www.microsoft.com/en-us/corporate-responsibility/topics/sustainability/report/",
+        "period": "FY2025",
+        "verification": "declaração corporativa",
+        "limitation": "Saldo global de água não comprova compensação no mesmo local e momento; asseguração detalhada não revisada nesta etapa."
+      },
+      {
+        "claim": "Informa mais de US$88 milhões combinados de empresa e empregados para ONGs de Washington em 2025.",
+        "source": "https://www.microsoft.com/en-us/corporate-responsibility/topics/sustainability/report/",
+        "period": "2025",
+        "verification": "declaração corporativa",
+        "limitation": "Dado regional e combinado; não é total mundial de filantropia corporativa."
+      }
+    ],
+    "worker": [
+      {
+        "claim": "O 10-K informa 223 mil empregados em tempo integral, incluindo 77 mil em pesquisa e desenvolvimento.",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "period": "2026-06-30",
+        "verification": "declaração no 10-K",
+        "limitation": "Quantidade e atividade não demonstram satisfação, estabilidade ou distribuição equitativa dos benefícios."
+      }
+    ],
+    "worker_metrics": {
+      "satisfaction": null,
+      "internal_promotion_rate": null,
+      "training_spend": null,
+      "total_compensation": null
+    },
+    "social_spend_comparable": null,
+    "legal_cases": [
+      {
+        "case": "Microsoft Teams — AT.40721 e AT.40873",
+        "authority": "Comissão Europeia",
+        "event_date": "2025-09-12",
+        "status": "Compromissos tornados vinculantes para endereçar preocupações concorrenciais sobre venda conjunta e interoperabilidade.",
+        "finding": "Obrigações incluem suítes sem Teams, interoperabilidade e portabilidade; monitoramento independente previsto.",
+        "source": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C_202506579",
+        "limitation": "Decisão de compromissos sobre preocupações concorrenciais; não apresentar como condenação criminal nem como prova de corrupção."
+      }
+    ],
+    "improvements": [
+      "Publicar orçamento e resultados da transição de trabalhadores afetados pela IA: requalificação, recolocação e mobilidade interna, com participação dos empregados.",
+      "Associar expansão dos datacenters a metas locais de energia limpa, água e benefícios comunitários; divulgar impacto absoluto junto da eficiência.",
+      "Simplificar licenciamento, interoperabilidade e acessibilidade cognitiva, com métricas de tempo para realizar tarefas e mecanismo verificável de reclamação."
+    ],
+    "public_contact": {
+      "email": "msft@microsoft.com",
+      "type": "Relações com investidores",
+      "source": "https://www.microsoft.com/en-us/investor/contact-information",
+      "verified_context": "Página oficial publica o endereço para questões financeiras/ações; pedir encaminhamento à sustentabilidade e liderança.",
+      "is_ceo_direct": false
+    },
+    "gaps": [
+      "Despesa anual consolidada incremental com capacitação, bem-estar e progressão não isolada.",
+      "Índice global de satisfação com amostragem e verificação independente não confirmado.",
+      "Não há reconciliação pública encontrada entre lucro líquido e os quatro destinos 30/30/30/10.",
+      "Casos jurídicos selecionados; pesquisa não equivale a certidão de ausência de outros processos.",
+      "Relatório ambiental disponível cobre FY2025, enquanto os números financeiros são FY2026."
+    ],
+    "sources": [
+      {
+        "id": "msftAnnual",
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm"
+      },
+      {
+        "id": "msftRelease",
+        "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast"
+      },
+      {
+        "id": "msftESG",
+        "url": "https://blogs.microsoft.com/on-the-issues/2026/07/09/responsibly-building-the-ai-future/"
+      },
+      {
+        "id": "msftESGHome",
+        "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/sustainability/report/"
+      },
+      {
+        "id": "msftLegal",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C_202506579"
+      },
+      {
+        "id": "msftContact",
+        "url": "https://www.microsoft.com/en-us/investor/contact-information"
+      },
+      {
+        "id": "msftCeo",
+        "url": "https://news.microsoft.com/source/leadership"
+      }
+    ]
+  }
+}

@@ -1,0 +1,569 @@
+{
+  "normalized": {
+    "id": "tsmc",
+    "name": "Taiwan Semiconductor Manufacturing Company Limited (TSMC)",
+    "sector": "Semicondutores",
+    "country": "Taiwan",
+    "tickers": [
+      {
+        "exchange": "TWSE",
+        "symbol": "2330",
+        "url": "https://investor.tsmc.com/static/annualReports/2025/english/index.html",
+        "source": "https://investor.tsmc.com/static/annualReports/2025/english/index.html"
+      },
+      {
+        "exchange": "NYSE",
+        "symbol": "TSM",
+        "instrument": "ADS",
+        "url": "https://investor.tsmc.com/static/annualReports/2025/english/index.html",
+        "source": "https://investor.tsmc.com/static/annualReports/2025/english/index.html"
+      }
+    ],
+    "ceo": {
+      "name": "C. C. Wei",
+      "role": "Chairman e CEO",
+      "url": "https://investor.tsmc.com/static/annualReports/2025/english/index.html",
+      "source": "https://investor.tsmc.com/static/annualReports/2025/english/index.html",
+      "as_of": "2026-09-17"
+    },
+    "business_model": "Fabricação e encapsulamento de chips concebidos por clientes; receita por serviços de foundry. A proposta comercial é a produção sob encomenda, sem marca própria de chips concorrentes dos clientes.",
+    "revenue": {
+      "value": 3809054.272,
+      "currency": "TWD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+      "note": "Receita líquida consolidada; documento original em milhares de TWD.",
+      "source": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf"
+    },
+    "net_income": {
+      "value": 1715396.78,
+      "currency": "TWD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+      "note": "Lucro líquido CONSOLIDADO. Atribuível aos acionistas da controladora: TWD 1.717.882,627 milhões. Não trocar os denominadores silenciosamente.",
+      "source": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf"
+    },
+    "capex": {
+      "value": 1272410.529,
+      "currency": "TWD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+      "note": "Aquisição de imobilizado paga em caixa; não igual a adições contábeis.",
+      "source": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf"
+    },
+    "research": {
+      "value": 246427.264,
+      "currency": "TWD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+      "note": "Despesa de pesquisa e desenvolvimento, deduzida antes do lucro líquido.",
+      "source": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf"
+    },
+    "dividends": {
+      "value": 466779.199,
+      "currency": "TWD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+      "note": "Dividendos pagos em caixa no exercício; podem decorrer de lucros de períodos anteriores.",
+      "source": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf"
+    },
+    "buybacks": {
+      "value": 0,
+      "currency": "TWD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+      "note": "Nenhuma aquisição de ações em tesouraria na demonstração de fluxo de caixa de 2025.",
+      "source": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf"
+    },
+    "employees": {
+      "value": 90557,
+      "currency": null,
+      "unit": "people",
+      "period": "2025-12-31",
+      "url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20Annual%20Report.E.pdf",
+      "note": "Quadro global; dado de pessoas autorrelatado, não confundir com auditoria das demonstrações financeiras.",
+      "source": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20Annual%20Report.E.pdf"
+    },
+    "financial_investments": {
+      "evidence": [
+        {
+          "value": 260.086,
+          "currency": "TWD",
+          "unit": "million",
+          "period": "2025-01-01/2025-12-31",
+          "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+          "note": "Aquisições de instrumentos a valor justo no resultado."
+        },
+        {
+          "value": 66823.227,
+          "currency": "TWD",
+          "unit": "million",
+          "period": "2025-01-01/2025-12-31",
+          "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+          "note": "Aquisições de ativos a valor justo em outros resultados abrangentes."
+        },
+        {
+          "value": 188288.632,
+          "currency": "TWD",
+          "unit": "million",
+          "period": "2025-01-01/2025-12-31",
+          "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+          "note": "Aquisições de ativos ao custo amortizado."
+        },
+        {
+          "value": 218256.133,
+          "currency": "TWD",
+          "unit": "million",
+          "period": "2025-01-01/2025-12-31",
+          "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+          "note": "Resgates/vendas das duas categorias anteriores; soma derivada de 80.052,393 e 138.203,740."
+        }
+      ],
+      "interpretation": "Há aplicações financeiras relevantes. A política declarada prioriza principal, liquidez e grau de investimento; hedges são apresentados separadamente. O registro contábil não demonstra que toda aplicação visa especulação, nem que foi financiada exclusivamente pelo lucro de 2025.",
+      "policy_url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20Annual%20Report.E.pdf",
+      "profit_allocation_percentage": null
+    },
+    "worker": [
+      {
+        "claim": "Benefícios de empregados reconhecidos em custos/despesas; não soma adicional ao destino do lucro. Valor: TWD 396.114,889 milhões.",
+        "text": null,
+        "period": "2025-01-01/2025-12-31",
+        "source": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+        "verification": "Documento da empresa; escopo de verificação consultar fonte",
+        "limitation": null
+      },
+      {
+        "claim": "Participação de empregados no resultado de 2025 aprovada em fevereiro de 2026, com pagamento previsto em julho de 2026; não afirmar desembolso em 2025. Valor: TWD 103.072,958 milhões.",
+        "text": null,
+        "period": "2025-01-01/2025-12-31",
+        "source": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20Annual%20Report.E.pdf",
+        "verification": "Documento da empresa; escopo de verificação consultar fonte",
+        "limitation": null
+      },
+      {
+        "claim": "Bônus de desempenho de negócio pago trimestralmente em 2025. Valor: TWD 103.072,958 milhões.",
+        "text": null,
+        "period": "2025-01-01/2025-12-31",
+        "source": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20Annual%20Report.E.pdf",
+        "verification": "Documento da empresa; escopo de verificação consultar fonte",
+        "limitation": null
+      },
+      {
+        "claim": "Taxa de RESPOSTA da pesquisa de experiência de 2025. Não é índice de satisfação. Valor:  88 %.",
+        "text": null,
+        "period": "2025-01-01/2025-12-31",
+        "source": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20Annual%20Report.E.pdf",
+        "verification": "Documento da empresa; escopo de verificação consultar fonte",
+        "limitation": null
+      }
+    ],
+    "social_environment": [
+      {
+        "claim": "Relata iniciativas de água de reúso, biodiversidade, segurança de contratados, educação científica e políticas parentais.",
+        "text": null,
+        "period": null,
+        "source": "https://esg.tsmc.com.tw/robots.txt/articles/414",
+        "verification": "autorrelato",
+        "limitation": null
+      },
+      {
+        "claim": "Meta RE100 em 2040 e emissões líquidas zero em 2050 são compromissos futuros, não resultados já atingidos.",
+        "text": null,
+        "period": null,
+        "source": "https://pr.tsmc.com/english/news/3227",
+        "verification": "compromisso",
+        "limitation": null
+      }
+    ],
+    "legal_cases": [
+      {
+        "agency": "USITC",
+        "case": "337-TA-1443",
+        "subject": "Alegações de infração de patentes em dispositivos semicondutores.",
+        "status": "Encerrada integralmente por acordo; decisão da Comissão de 03/09/2026 não revisar a Order 77. Não é condenação de mérito por corrupção ou prova de culpa.",
+        "status_date": "2026-09-03",
+        "url": "https://www.usitc.gov/secretary/fed_reg_notices/337/337_1443_notice09032026sgl.pdf",
+        "penalty": null,
+        "limits": "Esta fonte encerra a investigação USITC. Não pressupõe o estado de todo processo judicial correlato."
+      }
+    ],
+    "improvements": [
+      "Publicar orçamento adicional de qualificação e bem-estar, satisfação anonimizada, promoção interna e resultados de realocação após automação.",
+      "Vincular gastos ambientais a bacias hídricas e comunidades afetadas, com resultados absolutos e verificação externa.",
+      "Conciliar anualmente custos operacionais, investimento produtivo, dividendos, caixa e aplicações financeiras, separando sua finalidade e período."
+    ],
+    "public_contact": {
+      "email": "invest@tsmc.com",
+      "channel": "Relações com investidores; solicitar encaminhamento à liderança de sustentabilidade e pessoas.",
+      "url": "https://investor.tsmc.com/english",
+      "ceo_direct_email": null,
+      "source": "https://investor.tsmc.com/english",
+      "type": "Relações com investidores; solicitar encaminhamento à liderança de sustentabilidade e pessoas."
+    },
+    "critical_limits": [
+      "Moeda TWD: não comparar números brutos com USD.",
+      "Pesquisa de experiência: 88% é participação, não satisfação.",
+      "Não há percentual comprovado de lucro destinado ao modelo 30/30/30/10.",
+      "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+      "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+    ],
+    "sources": [
+      {
+        "id": "T1",
+        "title": "Demonstrações financeiras consolidadas 2025",
+        "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+        "type": "demonstração financeira auditada",
+        "accessed": "2026-09-17",
+        "accessed_at": "2026-09-18"
+      },
+      {
+        "id": "T2",
+        "title": "Relatório anual 2025",
+        "url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20Annual%20Report.E.pdf",
+        "type": "relatório corporativo",
+        "accessed": "2026-09-17",
+        "accessed_at": "2026-09-18"
+      },
+      {
+        "id": "T3",
+        "title": "Relatório de sustentabilidade 2025 — anúncio de 20/08/2026",
+        "url": "https://esg.tsmc.com.tw/robots.txt/articles/414",
+        "type": "autorrelato",
+        "accessed": "2026-09-17",
+        "accessed_at": "2026-09-18"
+      },
+      {
+        "id": "T4",
+        "title": "USITC: encerramento por acordo em 03/09/2026",
+        "url": "https://www.usitc.gov/secretary/fed_reg_notices/337/337_1443_notice09032026sgl.pdf",
+        "type": "regulador",
+        "accessed": "2026-09-17",
+        "accessed_at": "2026-09-18"
+      },
+      {
+        "id": "T5",
+        "title": "Investor Relations TSMC",
+        "url": "https://investor.tsmc.com/english",
+        "type": "contato oficial",
+        "accessed": "2026-09-17",
+        "accessed_at": "2026-09-18"
+      }
+    ],
+    "short_name": "TSMC",
+    "market_rank": 6,
+    "market_cap_trillion": 2.231,
+    "assessment_summary": "O negócio intensivo em fabricação apresenta investimento em ativos e remuneração variável documentados. O percentual de respostas à pesquisa de pessoal não é satisfação; água, cadeia e execução dos projetos ainda precisam de verificação.",
+    "ratings": {},
+    "review": {
+      "status": "partial",
+      "criticalIssuesResolved": false,
+      "date": "2026-09-18"
+    },
+    "honor_score": null,
+    "adherence_score": null,
+    "fiscal_label": "FY2025",
+    "investment_evidence": [
+      {
+        "claim": "Aquisições de instrumentos a valor justo no resultado. Valor: TWD 260,086 milhões.",
+        "text": null,
+        "period": "2025-01-01/2025-12-31",
+        "source": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+        "verification": "Documento da empresa; escopo de verificação consultar fonte",
+        "limitation": null
+      },
+      {
+        "claim": "Aquisições de ativos a valor justo em outros resultados abrangentes. Valor: TWD 66.823,227 milhões.",
+        "text": null,
+        "period": "2025-01-01/2025-12-31",
+        "source": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+        "verification": "Documento da empresa; escopo de verificação consultar fonte",
+        "limitation": null
+      },
+      {
+        "claim": "Aquisições de ativos ao custo amortizado. Valor: TWD 188.288,632 milhões.",
+        "text": null,
+        "period": "2025-01-01/2025-12-31",
+        "source": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+        "verification": "Documento da empresa; escopo de verificação consultar fonte",
+        "limitation": null
+      },
+      {
+        "claim": "Resgates/vendas das duas categorias anteriores; soma derivada de 80.052,393 e 138.203,740. Valor: TWD 218.256,133 milhões.",
+        "text": null,
+        "period": "2025-01-01/2025-12-31",
+        "source": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+        "verification": "Documento da empresa; escopo de verificação consultar fonte",
+        "limitation": null
+      },
+      {
+        "claim": "Há aplicações financeiras relevantes. A política declarada prioriza principal, liquidez e grau de investimento; hedges são apresentados separadamente. O registro contábil não demonstra que toda aplicação visa especulação, nem que foi financiada exclusivamente pelo lucro de 2025.",
+        "text": null,
+        "period": null,
+        "source": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20Annual%20Report.E.pdf",
+        "verification": "Interpretação documental",
+        "limitation": null
+      }
+    ],
+    "cases": [
+      {
+        "claim": "337-TA-1443",
+        "text": "Encerrada integralmente por acordo; decisão da Comissão de 03/09/2026 não revisar a Order 77. Não é condenação de mérito por corrupção ou prova de culpa.",
+        "period": "2026-09-03",
+        "source": "https://www.usitc.gov/secretary/fed_reg_notices/337/337_1443_notice09032026sgl.pdf",
+        "verification": "USITC",
+        "limitation": "Esta fonte encerra a investigação USITC. Não pressupõe o estado de todo processo judicial correlato."
+      }
+    ],
+    "gaps": [
+      "Moeda TWD: não comparar números brutos com USD.",
+      "Pesquisa de experiência: 88% é participação, não satisfação.",
+      "Não há percentual comprovado de lucro destinado ao modelo 30/30/30/10.",
+      "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+      "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+    ]
+  },
+  "research_original": {
+    "id": "tsmc",
+    "name": "Taiwan Semiconductor Manufacturing Company Limited (TSMC)",
+    "sector": "Fabricação de semicondutores sob encomenda",
+    "country": "Taiwan",
+    "tickers": [
+      {
+        "exchange": "TWSE",
+        "symbol": "2330",
+        "url": "https://investor.tsmc.com/static/annualReports/2025/english/index.html"
+      },
+      {
+        "exchange": "NYSE",
+        "symbol": "TSM",
+        "instrument": "ADS",
+        "url": "https://investor.tsmc.com/static/annualReports/2025/english/index.html"
+      }
+    ],
+    "ceo": {
+      "name": "C. C. Wei",
+      "role": "Chairman e CEO",
+      "url": "https://investor.tsmc.com/static/annualReports/2025/english/index.html"
+    },
+    "business_model": "Fabricação e encapsulamento de chips concebidos por clientes; receita por serviços de foundry. A proposta comercial é a produção sob encomenda, sem marca própria de chips concorrentes dos clientes.",
+    "revenue": {
+      "value": 3809054.272,
+      "currency": "TWD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+      "note": "Receita líquida consolidada; documento original em milhares de TWD."
+    },
+    "net_income": {
+      "value": 1715396.78,
+      "currency": "TWD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+      "note": "Lucro líquido CONSOLIDADO. Atribuível aos acionistas da controladora: TWD 1.717.882,627 milhões. Não trocar os denominadores silenciosamente."
+    },
+    "capex": {
+      "value": 1272410.529,
+      "currency": "TWD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+      "note": "Aquisição de imobilizado paga em caixa; não igual a adições contábeis."
+    },
+    "research": {
+      "value": 246427.264,
+      "currency": "TWD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+      "note": "Despesa de pesquisa e desenvolvimento, deduzida antes do lucro líquido."
+    },
+    "dividends": {
+      "value": 466779.199,
+      "currency": "TWD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+      "note": "Dividendos pagos em caixa no exercício; podem decorrer de lucros de períodos anteriores."
+    },
+    "buybacks": {
+      "value": 0,
+      "currency": "TWD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+      "note": "Nenhuma aquisição de ações em tesouraria na demonstração de fluxo de caixa de 2025."
+    },
+    "employees": {
+      "value": 90557,
+      "currency": null,
+      "unit": "people",
+      "period": "2025-12-31",
+      "url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20Annual%20Report.E.pdf",
+      "note": "Quadro global; dado de pessoas autorrelatado, não confundir com auditoria das demonstrações financeiras."
+    },
+    "financial_investments": {
+      "evidence": [
+        {
+          "value": 260.086,
+          "currency": "TWD",
+          "unit": "million",
+          "period": "2025-01-01/2025-12-31",
+          "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+          "note": "Aquisições de instrumentos a valor justo no resultado."
+        },
+        {
+          "value": 66823.227,
+          "currency": "TWD",
+          "unit": "million",
+          "period": "2025-01-01/2025-12-31",
+          "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+          "note": "Aquisições de ativos a valor justo em outros resultados abrangentes."
+        },
+        {
+          "value": 188288.632,
+          "currency": "TWD",
+          "unit": "million",
+          "period": "2025-01-01/2025-12-31",
+          "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+          "note": "Aquisições de ativos ao custo amortizado."
+        },
+        {
+          "value": 218256.133,
+          "currency": "TWD",
+          "unit": "million",
+          "period": "2025-01-01/2025-12-31",
+          "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+          "note": "Resgates/vendas das duas categorias anteriores; soma derivada de 80.052,393 e 138.203,740."
+        }
+      ],
+      "interpretation": "Há aplicações financeiras relevantes. A política declarada prioriza principal, liquidez e grau de investimento; hedges são apresentados separadamente. O registro contábil não demonstra que toda aplicação visa especulação, nem que foi financiada exclusivamente pelo lucro de 2025.",
+      "policy_url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20Annual%20Report.E.pdf",
+      "profit_allocation_percentage": null
+    },
+    "worker": {
+      "employee_benefit_expense": {
+        "value": 396114.889,
+        "currency": "TWD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+        "note": "Benefícios de empregados reconhecidos em custos/despesas; não soma adicional ao destino do lucro."
+      },
+      "profit_sharing": {
+        "value": 103072.958,
+        "currency": "TWD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20Annual%20Report.E.pdf",
+        "note": "Participação de empregados no resultado de 2025 aprovada em fevereiro de 2026, com pagamento previsto em julho de 2026; não afirmar desembolso em 2025."
+      },
+      "performance_bonus": {
+        "value": 103072.958,
+        "currency": "TWD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20Annual%20Report.E.pdf",
+        "note": "Bônus de desempenho de negócio pago trimestralmente em 2025."
+      },
+      "survey_response_rate": {
+        "value": 88,
+        "currency": null,
+        "unit": "percent",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20Annual%20Report.E.pdf",
+        "note": "Taxa de RESPOSTA da pesquisa de experiência de 2025. Não é índice de satisfação."
+      },
+      "satisfaction_score": null,
+      "promotion_rate": null,
+      "evidence_status": "Demonstrações financeiras auditadas para custos agregados; indicadores de pessoas e políticas são autorrelato corporativo. Sem validação independente da experiência individual."
+    },
+    "social_environment": {
+      "findings": [
+        {
+          "claim": "Relata iniciativas de água de reúso, biodiversidade, segurança de contratados, educação científica e políticas parentais.",
+          "type": "autorrelato",
+          "url": "https://esg.tsmc.com.tw/robots.txt/articles/414"
+        },
+        {
+          "claim": "Meta RE100 em 2040 e emissões líquidas zero em 2050 são compromissos futuros, não resultados já atingidos.",
+          "type": "compromisso",
+          "url": "https://pr.tsmc.com/english/news/3227"
+        }
+      ],
+      "comparable_annual_social_cash_spend": null,
+      "impact_assurance": "Não foi verificada asseguração integral dos projetos sociais nesta pesquisa."
+    },
+    "legal_cases": [
+      {
+        "agency": "USITC",
+        "case": "337-TA-1443",
+        "subject": "Alegações de infração de patentes em dispositivos semicondutores.",
+        "status": "Encerrada integralmente por acordo; decisão da Comissão de 03/09/2026 não revisar a Order 77. Não é condenação de mérito por corrupção ou prova de culpa.",
+        "status_date": "2026-09-03",
+        "url": "https://www.usitc.gov/secretary/fed_reg_notices/337/337_1443_notice09032026sgl.pdf",
+        "penalty": null,
+        "limits": "Esta fonte encerra a investigação USITC. Não pressupõe o estado de todo processo judicial correlato."
+      }
+    ],
+    "improvements": [
+      "Publicar orçamento adicional de qualificação e bem-estar, satisfação anonimizada, promoção interna e resultados de realocação após automação.",
+      "Vincular gastos ambientais a bacias hídricas e comunidades afetadas, com resultados absolutos e verificação externa.",
+      "Conciliar anualmente custos operacionais, investimento produtivo, dividendos, caixa e aplicações financeiras, separando sua finalidade e período."
+    ],
+    "public_contact": {
+      "email": "invest@tsmc.com",
+      "channel": "Relações com investidores; solicitar encaminhamento à liderança de sustentabilidade e pessoas.",
+      "url": "https://investor.tsmc.com/english",
+      "ceo_direct_email": null
+    },
+    "critical_limits": [
+      "Moeda TWD: não comparar números brutos com USD.",
+      "Pesquisa de experiência: 88% é participação, não satisfação.",
+      "Não há percentual comprovado de lucro destinado ao modelo 30/30/30/10."
+    ],
+    "sources": [
+      {
+        "id": "T1",
+        "title": "Demonstrações financeiras consolidadas 2025",
+        "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+        "type": "demonstração financeira auditada",
+        "accessed": "2026-09-17"
+      },
+      {
+        "id": "T2",
+        "title": "Relatório anual 2025",
+        "url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20Annual%20Report.E.pdf",
+        "type": "relatório corporativo",
+        "accessed": "2026-09-17"
+      },
+      {
+        "id": "T3",
+        "title": "Relatório de sustentabilidade 2025 — anúncio de 20/08/2026",
+        "url": "https://esg.tsmc.com.tw/robots.txt/articles/414",
+        "type": "autorrelato",
+        "accessed": "2026-09-17"
+      },
+      {
+        "id": "T4",
+        "title": "USITC: encerramento por acordo em 03/09/2026",
+        "url": "https://www.usitc.gov/secretary/fed_reg_notices/337/337_1443_notice09032026sgl.pdf",
+        "type": "regulador",
+        "accessed": "2026-09-17"
+      },
+      {
+        "id": "T5",
+        "title": "Investor Relations TSMC",
+        "url": "https://investor.tsmc.com/english",
+        "type": "contato oficial",
+        "accessed": "2026-09-17"
+      }
+    ]
+  }
+}

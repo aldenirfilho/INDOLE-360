@@ -1,0 +1,623 @@
+{
+  "normalized": {
+    "id": "spacex",
+    "name": "Space Exploration Technologies Corp. (SpaceX)",
+    "sector": "Espaço conectividade e IA",
+    "country": "Estados Unidos",
+    "tickers": [
+      {
+        "exchange": "Nasdaq Global Select Market / Nasdaq Texas",
+        "symbol": "SPCX",
+        "url": "https://ir.spacex.com/updates/releases-details/2026/Space-Exploration-Technologies-Corp--Announces-Pricing-of-Initial-Public-Offering/default.aspx",
+        "listing_date": "2026-06-12",
+        "source": "https://ir.spacex.com/updates/releases-details/2026/Space-Exploration-Technologies-Corp--Announces-Pricing-of-Initial-Public-Offering/default.aspx"
+      }
+    ],
+    "ceo": {
+      "name": "Elon Musk",
+      "role": "Chairman, CEO e CTO",
+      "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+      "source": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+      "as_of": "2026-09-17"
+    },
+    "business_model": "Lançamentos e serviços espaciais públicos/privados, assinaturas e terminais Starlink, e, após a aquisição de xAI/X, serviços de IA e publicidade/plataforma social.",
+    "revenue": {
+      "value": 18674,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+      "note": "Consolidado histórico reexpresso após combinação sob controle comum com xAI/X.",
+      "source": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf"
+    },
+    "net_income": {
+      "value": -4937,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+      "note": "PREJUÍZO líquido: percentuais sobre lucro positivo e modelo 30/30/30/10 não são aplicáveis a este exercício.",
+      "source": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf"
+    },
+    "capex": {
+      "value": 20737,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+      "note": "Aquisições de imobilizado pagas em caixa.",
+      "source": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf"
+    },
+    "research": {
+      "value": 8643,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+      "note": "Despesa de pesquisa e desenvolvimento; anterior ao lucro líquido.",
+      "source": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf"
+    },
+    "dividends": {
+      "value": 0,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+      "note": "Prospecto informa que nunca declarou/pagou dividendos em dinheiro sobre ações ordinárias.",
+      "source": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf"
+    },
+    "buybacks": {
+      "value": 1125,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+      "note": "Recompra de ações ordinárias E preferenciais conversíveis resgatáveis; não é exclusivamente recompra em mercado aberto.",
+      "source": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf"
+    },
+    "employees": {
+      "value": 18087,
+      "currency": null,
+      "unit": "people",
+      "period": "2025-12-31",
+      "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+      "note": "SOMENTE SpaceX antes de xAI; perímetro NÃO acompanha demonstrações financeiras históricas combinadas.",
+      "source": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf"
+    },
+    "latest_consolidated_employees": {
+      "value": 22621,
+      "currency": null,
+      "unit": "people",
+      "period": "2026-04-30",
+      "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+      "note": "Primeiro quadro combinado de Espaço, Conectividade, IA e corporativo publicado após a aquisição; fotografia de 2026, separada das finanças anuais de 2025."
+    },
+    "financial_investments": {
+      "evidence": [
+        {
+          "value": 611,
+          "currency": "USD",
+          "unit": "million",
+          "period": "2025-01-01/2025-12-31",
+          "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+          "note": "Compras brutas de títulos negociáveis."
+        },
+        {
+          "value": 548,
+          "currency": "USD",
+          "unit": "million",
+          "period": "2025-01-01/2025-12-31",
+          "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+          "note": "Vencimentos de títulos negociáveis."
+        },
+        {
+          "value": 1457,
+          "currency": "USD",
+          "unit": "million",
+          "period": "2025-01-01/2025-12-31",
+          "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+          "note": "Vendas de títulos negociáveis."
+        },
+        {
+          "value": 86,
+          "currency": "USD",
+          "unit": "million",
+          "period": "2025-01-01/2025-12-31",
+          "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+          "note": "Investimentos em afiliadas não consolidadas."
+        }
+      ],
+      "interpretation": "Vendas mais vencimentos excederam compras de títulos em USD 1.394 milhões. Isso é liberação líquida, não alocação líquida de lucro em títulos. Investimentos estratégicos precisam de análise separada. O grupo teve prejuízo.",
+      "profit_allocation_percentage": null
+    },
+    "worker": [
+      {
+        "claim": "Quadros de pessoal do prospecto são divulgação corporativa, não pesquisa independente. Sem índice comparável de satisfação, progressão ou orçamento social para empregados verificado.",
+        "text": null,
+        "period": null,
+        "source": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+        "verification": "Lacuna de dados comparáveis",
+        "limitation": null
+      }
+    ],
+    "social_environment": [
+      {
+        "claim": "Starlink relata doação de terminais e serviço temporário em respostas a desastres, incluindo o Caribe em 2025.",
+        "text": null,
+        "period": null,
+        "source": "https://starlink.com/public-files/starlinkProgressReport_2025.pdf",
+        "verification": "autorrelato",
+        "limitation": null
+      },
+      {
+        "claim": "FAA publicou avaliação ambiental e conclusão mitigada para operações Falcon em SLC-40 em 2025. É avaliação com mitigação, não declaração de ausência de impacto.",
+        "text": null,
+        "period": null,
+        "source": "https://www.faa.gov/space/stakeholder_engagement/SpaceX_Falcon_SLC_40_EA",
+        "verification": "ato regulatório",
+        "limitation": null
+      }
+    ],
+    "legal_cases": [
+      {
+        "agency": "EPA",
+        "case": "CWA-06-2024-1768",
+        "subject": "Alegações relacionadas a descargas em áreas úmidas sob o Clean Water Act.",
+        "status": "Acordo e ordem final protocolados em 15/01/2025; penalidade administrativa de USD 148.378. A empresa não admite nem nega alegações factuais. Pagamento não confirmado.",
+        "status_date": "2025-01-15",
+        "penalty": {
+          "value": 148378,
+          "currency": "USD",
+          "unit": "dollars",
+          "status": "acordada/ordenada; pagamento não verificado"
+        },
+        "url": "https://yosemite.epa.gov/oa/rhc/epaadmin.nsf/Filings/51FC75AF032DEC4B85258C14000B521C/%24File/2024-1768.pdf"
+      },
+      {
+        "agency": "FAA",
+        "case": null,
+        "subject": "Alegadas violações de licenças em dois lançamentos de 2023.",
+        "status": "Proposta de penalidades de USD 633.009 anunciada em 17/09/2024; não foi confirmado desfecho final nesta pesquisa.",
+        "status_date": "2024-09-17",
+        "penalty": {
+          "value": 633009,
+          "currency": "USD",
+          "unit": "dollars",
+          "status": "proposta, não tratar como multa definitiva paga"
+        },
+        "url": "https://www.faa.gov/newsroom/faa-proposes-633009-civil-penalties-against-spacex"
+      },
+      {
+        "agency": "NLRB",
+        "case": "19-CA-309274",
+        "subject": "Alegações trabalhistas, incluindo retaliação e dispensas.",
+        "status": "Cadastro oficial consultado está Closed. Não foi estabelecida nesta pesquisa decisão final sobre o mérito; encerramento não equivale a condenação ou absolvição.",
+        "status_date": null,
+        "observed_at": "2026-09-17",
+        "url": "https://www.nlrb.gov/case/19-CA-309274",
+        "penalty": null
+      }
+    ],
+    "improvements": [
+      "Publicar indicadores anuais de trabalhadores e contratados por segmento, com ponte entre o perímetro antigo e xAI/X, segurança, progressão e escuta independente.",
+      "Publicar plano verificável de mitigação e reparação ambiental, água, ruído, biodiversidade e detritos orbitais, além do cumprimento dos acordos regulatórios.",
+      "Separar capital produtivo de aplicações financeiras e divulgar custos adicionais e resultados das ações humanitárias, com métricas de preço, acessibilidade e continuidade do serviço."
+    ],
+    "public_contact": {
+      "email": "corporatesecretary@spacex.com",
+      "channel": "Corporate Secretary / contato oficial para companhia e conselho; não é e-mail direto do CEO e não implica condição de acionista.",
+      "url": "https://ir.spacex.com/faqs-and-contact/default.aspx",
+      "ceo_direct_email": null,
+      "source": "https://ir.spacex.com/faqs-and-contact/default.aspx",
+      "type": "Corporate Secretary / contato oficial para companhia e conselho; não é e-mail direto do CEO e não implica condição de acionista."
+    },
+    "critical_limits": [
+      "SPCX confirmado por fonte oficial: não é empresa fechada na data de corte.",
+      "Aquisição de xAI em 02/02/2026 sob controle comum reexpressa demonstrações históricas; dados de 2025 incluem xAI/X.",
+      "Funcionários de 31/12/2025 excluem xAI; não dividir finanças consolidadas por esse quadro sem ressalva.",
+      "Prejuízo anual impede razão de destinação de lucro positivo.",
+      "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+      "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+    ],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "Prospecto europeu aprovado em 05/06/2026; demonstrações anuais 2025",
+        "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+        "type": "prospecto com demonstrações auditadas",
+        "accessed": "2026-09-17",
+        "accessed_at": "2026-09-18"
+      },
+      {
+        "id": "S2",
+        "title": "Precificação da oferta pública e ticker SPCX",
+        "url": "https://ir.spacex.com/updates/releases-details/2026/Space-Exploration-Technologies-Corp--Announces-Pricing-of-Initial-Public-Offering/default.aspx",
+        "type": "comunicado oficial",
+        "accessed": "2026-09-17",
+        "accessed_at": "2026-09-18"
+      },
+      {
+        "id": "S3",
+        "title": "EPA: acordo e ordem final",
+        "url": "https://yosemite.epa.gov/oa/rhc/epaadmin.nsf/Filings/51FC75AF032DEC4B85258C14000B521C/%24File/2024-1768.pdf",
+        "type": "regulador",
+        "accessed": "2026-09-17",
+        "accessed_at": "2026-09-18"
+      },
+      {
+        "id": "S4",
+        "title": "FAA: proposta de penalidades",
+        "url": "https://www.faa.gov/newsroom/faa-proposes-633009-civil-penalties-against-spacex",
+        "type": "regulador",
+        "accessed": "2026-09-17",
+        "accessed_at": "2026-09-18"
+      },
+      {
+        "id": "S5",
+        "title": "NLRB: registro do caso trabalhista",
+        "url": "https://www.nlrb.gov/case/19-CA-309274",
+        "type": "regulador",
+        "accessed": "2026-09-17",
+        "accessed_at": "2026-09-18"
+      },
+      {
+        "id": "S6",
+        "title": "Perguntas e contato oficial",
+        "url": "https://ir.spacex.com/faqs-and-contact/default.aspx",
+        "type": "contato oficial",
+        "accessed": "2026-09-17",
+        "accessed_at": "2026-09-18"
+      },
+      {
+        "id": "S7",
+        "title": "Starlink Progress Report 2025",
+        "url": "https://starlink.com/public-files/starlinkProgressReport_2025.pdf",
+        "type": "autorrelato",
+        "accessed": "2026-09-17",
+        "accessed_at": "2026-09-18"
+      }
+    ],
+    "short_name": "SpaceX",
+    "market_rank": 7,
+    "market_cap_trillion": 2.04,
+    "assessment_summary": "O perímetro financeiro ampliado teve prejuízo, tornando inaplicável a alocação sobre lucro positivo no exercício. Resultados tecnológicos não dispensam avaliação de segurança, impactos locais, condições de trabalho e reparações.",
+    "ratings": {},
+    "review": {
+      "status": "partial",
+      "criticalIssuesResolved": false,
+      "date": "2026-09-18"
+    },
+    "honor_score": null,
+    "adherence_score": null,
+    "fiscal_label": "FY2025",
+    "investment_evidence": [
+      {
+        "claim": "Compras brutas de títulos negociáveis. Valor: USD 611 milhões.",
+        "text": null,
+        "period": "2025-01-01/2025-12-31",
+        "source": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+        "verification": "Documento da empresa; escopo de verificação consultar fonte",
+        "limitation": null
+      },
+      {
+        "claim": "Vencimentos de títulos negociáveis. Valor: USD 548 milhões.",
+        "text": null,
+        "period": "2025-01-01/2025-12-31",
+        "source": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+        "verification": "Documento da empresa; escopo de verificação consultar fonte",
+        "limitation": null
+      },
+      {
+        "claim": "Vendas de títulos negociáveis. Valor: USD 1.457 milhões.",
+        "text": null,
+        "period": "2025-01-01/2025-12-31",
+        "source": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+        "verification": "Documento da empresa; escopo de verificação consultar fonte",
+        "limitation": null
+      },
+      {
+        "claim": "Investimentos em afiliadas não consolidadas. Valor: USD 86 milhões.",
+        "text": null,
+        "period": "2025-01-01/2025-12-31",
+        "source": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+        "verification": "Documento da empresa; escopo de verificação consultar fonte",
+        "limitation": null
+      },
+      {
+        "claim": "Vendas mais vencimentos excederam compras de títulos em USD 1.394 milhões. Isso é liberação líquida, não alocação líquida de lucro em títulos. Investimentos estratégicos precisam de análise separada. O grupo teve prejuízo.",
+        "text": null,
+        "period": null,
+        "source": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+        "verification": "Interpretação documental",
+        "limitation": null
+      }
+    ],
+    "cases": [
+      {
+        "claim": "CWA-06-2024-1768",
+        "text": "Acordo e ordem final protocolados em 15/01/2025; penalidade administrativa de USD 148.378. A empresa não admite nem nega alegações factuais. Pagamento não confirmado.",
+        "period": "2025-01-15",
+        "source": "https://yosemite.epa.gov/oa/rhc/epaadmin.nsf/Filings/51FC75AF032DEC4B85258C14000B521C/%24File/2024-1768.pdf",
+        "verification": "EPA",
+        "limitation": null
+      },
+      {
+        "claim": "Alegadas violações de licenças em dois lançamentos de 2023.",
+        "text": "Proposta de penalidades de USD 633.009 anunciada em 17/09/2024; não foi confirmado desfecho final nesta pesquisa.",
+        "period": "2024-09-17",
+        "source": "https://www.faa.gov/newsroom/faa-proposes-633009-civil-penalties-against-spacex",
+        "verification": "FAA",
+        "limitation": null
+      },
+      {
+        "claim": "19-CA-309274",
+        "text": "Cadastro oficial consultado está Closed. Não foi estabelecida nesta pesquisa decisão final sobre o mérito; encerramento não equivale a condenação ou absolvição.",
+        "period": null,
+        "source": "https://www.nlrb.gov/case/19-CA-309274",
+        "verification": "NLRB",
+        "limitation": null
+      }
+    ],
+    "gaps": [
+      "SPCX confirmado por fonte oficial: não é empresa fechada na data de corte.",
+      "Aquisição de xAI em 02/02/2026 sob controle comum reexpressa demonstrações históricas; dados de 2025 incluem xAI/X.",
+      "Funcionários de 31/12/2025 excluem xAI; não dividir finanças consolidadas por esse quadro sem ressalva.",
+      "Prejuízo anual impede razão de destinação de lucro positivo.",
+      "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+      "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+    ]
+  },
+  "research_original": {
+    "id": "spacex",
+    "name": "Space Exploration Technologies Corp. (SpaceX)",
+    "sector": "Espaço, conectividade por satélite e inteligência artificial",
+    "country": "Estados Unidos",
+    "tickers": [
+      {
+        "exchange": "Nasdaq Global Select Market / Nasdaq Texas",
+        "symbol": "SPCX",
+        "url": "https://ir.spacex.com/updates/releases-details/2026/Space-Exploration-Technologies-Corp--Announces-Pricing-of-Initial-Public-Offering/default.aspx",
+        "listing_date": "2026-06-12"
+      }
+    ],
+    "ceo": {
+      "name": "Elon Musk",
+      "role": "Chairman, CEO e CTO",
+      "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf"
+    },
+    "business_model": "Lançamentos e serviços espaciais públicos/privados, assinaturas e terminais Starlink, e, após a aquisição de xAI/X, serviços de IA e publicidade/plataforma social.",
+    "revenue": {
+      "value": 18674,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+      "note": "Consolidado histórico reexpresso após combinação sob controle comum com xAI/X."
+    },
+    "net_income": {
+      "value": -4937,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+      "note": "PREJUÍZO líquido: percentuais sobre lucro positivo e modelo 30/30/30/10 não são aplicáveis a este exercício."
+    },
+    "capex": {
+      "value": 20737,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+      "note": "Aquisições de imobilizado pagas em caixa."
+    },
+    "research": {
+      "value": 8643,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+      "note": "Despesa de pesquisa e desenvolvimento; anterior ao lucro líquido."
+    },
+    "dividends": {
+      "value": 0,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+      "note": "Prospecto informa que nunca declarou/pagou dividendos em dinheiro sobre ações ordinárias."
+    },
+    "buybacks": {
+      "value": 1125,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+      "note": "Recompra de ações ordinárias E preferenciais conversíveis resgatáveis; não é exclusivamente recompra em mercado aberto."
+    },
+    "employees": {
+      "value": 18087,
+      "currency": null,
+      "unit": "people",
+      "period": "2025-12-31",
+      "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+      "note": "SOMENTE SpaceX antes de xAI; perímetro NÃO acompanha demonstrações financeiras históricas combinadas."
+    },
+    "latest_consolidated_employees": {
+      "value": 22621,
+      "currency": null,
+      "unit": "people",
+      "period": "2026-04-30",
+      "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+      "note": "Primeiro quadro combinado de Espaço, Conectividade, IA e corporativo publicado após a aquisição; fotografia de 2026, separada das finanças anuais de 2025."
+    },
+    "financial_investments": {
+      "evidence": [
+        {
+          "value": 611,
+          "currency": "USD",
+          "unit": "million",
+          "period": "2025-01-01/2025-12-31",
+          "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+          "note": "Compras brutas de títulos negociáveis."
+        },
+        {
+          "value": 548,
+          "currency": "USD",
+          "unit": "million",
+          "period": "2025-01-01/2025-12-31",
+          "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+          "note": "Vencimentos de títulos negociáveis."
+        },
+        {
+          "value": 1457,
+          "currency": "USD",
+          "unit": "million",
+          "period": "2025-01-01/2025-12-31",
+          "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+          "note": "Vendas de títulos negociáveis."
+        },
+        {
+          "value": 86,
+          "currency": "USD",
+          "unit": "million",
+          "period": "2025-01-01/2025-12-31",
+          "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+          "note": "Investimentos em afiliadas não consolidadas."
+        }
+      ],
+      "interpretation": "Vendas mais vencimentos excederam compras de títulos em USD 1.394 milhões. Isso é liberação líquida, não alocação líquida de lucro em títulos. Investimentos estratégicos precisam de análise separada. O grupo teve prejuízo.",
+      "profit_allocation_percentage": null
+    },
+    "worker": {
+      "satisfaction_score": null,
+      "promotion_rate": null,
+      "annual_employee_development_budget": null,
+      "evidence_status": "Quadros de pessoal do prospecto são divulgação corporativa, não pesquisa independente. Sem índice comparável de satisfação, progressão ou orçamento social para empregados verificado.",
+      "source_url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf"
+    },
+    "social_environment": {
+      "findings": [
+        {
+          "claim": "Starlink relata doação de terminais e serviço temporário em respostas a desastres, incluindo o Caribe em 2025.",
+          "type": "autorrelato",
+          "url": "https://starlink.com/public-files/starlinkProgressReport_2025.pdf"
+        },
+        {
+          "claim": "FAA publicou avaliação ambiental e conclusão mitigada para operações Falcon em SLC-40 em 2025. É avaliação com mitigação, não declaração de ausência de impacto.",
+          "type": "ato regulatório",
+          "url": "https://www.faa.gov/space/stakeholder_engagement/SpaceX_Falcon_SLC_40_EA"
+        }
+      ],
+      "comparable_annual_social_cash_spend": null,
+      "impact_assurance": "Doações físicas e serviço gratuito não foram convertidos em valor financeiro nem tiveram adicionalidade verificada."
+    },
+    "legal_cases": [
+      {
+        "agency": "EPA",
+        "case": "CWA-06-2024-1768",
+        "subject": "Alegações relacionadas a descargas em áreas úmidas sob o Clean Water Act.",
+        "status": "Acordo e ordem final protocolados em 15/01/2025; penalidade administrativa de USD 148.378. A empresa não admite nem nega alegações factuais. Pagamento não confirmado.",
+        "status_date": "2025-01-15",
+        "penalty": {
+          "value": 148378,
+          "currency": "USD",
+          "unit": "dollars",
+          "status": "acordada/ordenada; pagamento não verificado"
+        },
+        "url": "https://yosemite.epa.gov/oa/rhc/epaadmin.nsf/Filings/51FC75AF032DEC4B85258C14000B521C/%24File/2024-1768.pdf"
+      },
+      {
+        "agency": "FAA",
+        "case": null,
+        "subject": "Alegadas violações de licenças em dois lançamentos de 2023.",
+        "status": "Proposta de penalidades de USD 633.009 anunciada em 17/09/2024; não foi confirmado desfecho final nesta pesquisa.",
+        "status_date": "2024-09-17",
+        "penalty": {
+          "value": 633009,
+          "currency": "USD",
+          "unit": "dollars",
+          "status": "proposta, não tratar como multa definitiva paga"
+        },
+        "url": "https://www.faa.gov/newsroom/faa-proposes-633009-civil-penalties-against-spacex"
+      },
+      {
+        "agency": "NLRB",
+        "case": "19-CA-309274",
+        "subject": "Alegações trabalhistas, incluindo retaliação e dispensas.",
+        "status": "Cadastro oficial consultado está Closed. Não foi estabelecida nesta pesquisa decisão final sobre o mérito; encerramento não equivale a condenação ou absolvição.",
+        "status_date": null,
+        "observed_at": "2026-09-17",
+        "url": "https://www.nlrb.gov/case/19-CA-309274",
+        "penalty": null
+      }
+    ],
+    "improvements": [
+      "Publicar indicadores anuais de trabalhadores e contratados por segmento, com ponte entre o perímetro antigo e xAI/X, segurança, progressão e escuta independente.",
+      "Publicar plano verificável de mitigação e reparação ambiental, água, ruído, biodiversidade e detritos orbitais, além do cumprimento dos acordos regulatórios.",
+      "Separar capital produtivo de aplicações financeiras e divulgar custos adicionais e resultados das ações humanitárias, com métricas de preço, acessibilidade e continuidade do serviço."
+    ],
+    "public_contact": {
+      "email": "corporatesecretary@spacex.com",
+      "channel": "Corporate Secretary / contato oficial para companhia e conselho; não é e-mail direto do CEO e não implica condição de acionista.",
+      "url": "https://ir.spacex.com/faqs-and-contact/default.aspx",
+      "ceo_direct_email": null
+    },
+    "critical_limits": [
+      "SPCX confirmado por fonte oficial: não é empresa fechada na data de corte.",
+      "Aquisição de xAI em 02/02/2026 sob controle comum reexpressa demonstrações históricas; dados de 2025 incluem xAI/X.",
+      "Funcionários de 31/12/2025 excluem xAI; não dividir finanças consolidadas por esse quadro sem ressalva.",
+      "Prejuízo anual impede razão de destinação de lucro positivo."
+    ],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "Prospecto europeu aprovado em 05/06/2026; demonstrações anuais 2025",
+        "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+        "type": "prospecto com demonstrações auditadas",
+        "accessed": "2026-09-17"
+      },
+      {
+        "id": "S2",
+        "title": "Precificação da oferta pública e ticker SPCX",
+        "url": "https://ir.spacex.com/updates/releases-details/2026/Space-Exploration-Technologies-Corp--Announces-Pricing-of-Initial-Public-Offering/default.aspx",
+        "type": "comunicado oficial",
+        "accessed": "2026-09-17"
+      },
+      {
+        "id": "S3",
+        "title": "EPA: acordo e ordem final",
+        "url": "https://yosemite.epa.gov/oa/rhc/epaadmin.nsf/Filings/51FC75AF032DEC4B85258C14000B521C/%24File/2024-1768.pdf",
+        "type": "regulador",
+        "accessed": "2026-09-17"
+      },
+      {
+        "id": "S4",
+        "title": "FAA: proposta de penalidades",
+        "url": "https://www.faa.gov/newsroom/faa-proposes-633009-civil-penalties-against-spacex",
+        "type": "regulador",
+        "accessed": "2026-09-17"
+      },
+      {
+        "id": "S5",
+        "title": "NLRB: registro do caso trabalhista",
+        "url": "https://www.nlrb.gov/case/19-CA-309274",
+        "type": "regulador",
+        "accessed": "2026-09-17"
+      },
+      {
+        "id": "S6",
+        "title": "Perguntas e contato oficial",
+        "url": "https://ir.spacex.com/faqs-and-contact/default.aspx",
+        "type": "contato oficial",
+        "accessed": "2026-09-17"
+      },
+      {
+        "id": "S7",
+        "title": "Starlink Progress Report 2025",
+        "url": "https://starlink.com/public-files/starlinkProgressReport_2025.pdf",
+        "type": "autorrelato",
+        "accessed": "2026-09-17"
+      }
+    ]
+  }
+}

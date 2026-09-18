@@ -1,0 +1,497 @@
+{
+  "normalized": {
+    "id": "alphabet",
+    "name": "Alphabet Inc. (Google)",
+    "sector": "Plataformas e publicidade",
+    "country": "Estados Unidos",
+    "tickers": [
+      {
+        "exchange": "NASDAQ",
+        "symbol": "GOOGL",
+        "class": "A",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm"
+      },
+      {
+        "exchange": "NASDAQ",
+        "symbol": "GOOG",
+        "class": "C",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm"
+      }
+    ],
+    "ceo": {
+      "name": "Sundar Pichai",
+      "as_of": "2026-07-22",
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm"
+    },
+    "business_model": "Publicidade em busca, YouTube e rede de parceiros; nuvem, assinaturas, plataformas, dispositivos e outros negócios.",
+    "fiscal_year": "FY2025",
+    "period": "2025-01-01/2025-12-31",
+    "revenue": {
+      "value": 402836,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+      "label": "Receita",
+      "note": null
+    },
+    "net_income": {
+      "value": 132170,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+      "label": "Lucro líquido GAAP",
+      "note": null
+    },
+    "capex": {
+      "value": 91447,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+      "label": "Compras de imobilizado e equipamentos",
+      "note": null
+    },
+    "research": {
+      "value": 61087,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+      "label": "Despesa de pesquisa e desenvolvimento",
+      "note": null
+    },
+    "dividends": {
+      "value": 10049,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+      "label": "Dividendos pagos",
+      "note": null
+    },
+    "buybacks": {
+      "value": 45709,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+      "label": "Recompras de ações — fluxo de caixa",
+      "note": null
+    },
+    "employees": {
+      "value": 190820,
+      "unit": "persons",
+      "period": "2025-12-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+      "label": "Empregados ao final do exercício"
+    },
+    "financial_investments": {
+      "text": "Compras de títulos negociáveis: US$103.773 milhões; vendas/vencimentos: US$83.240 milhões. Compras de títulos não negociáveis: US$5.716 milhões; resgates/vendas: US$1.367 milhões. Compras brutas não são alocação rastreada do lucro corrente.",
+      "period": "2025-01-01/2025-12-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+      "marketable_purchases": {
+        "value": 103773,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "label": "Compras brutas de títulos negociáveis",
+        "note": null
+      },
+      "nonmarketable_purchases": {
+        "value": 5716,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "label": "Compras de títulos não negociáveis",
+        "note": null
+      }
+    },
+    "social_environment": [
+      {
+        "claim": "Relatório 2026 declara contratação de mais de 12 GW de energia limpa e reposição equivalente a 78% do consumo de água doce em 2025.",
+        "text": null,
+        "period": "2025",
+        "source": "https://sustainability.google/google-2026-environmental-report/",
+        "verification": "declaração corporativa",
+        "limitation": "Contratação não equivale a energia já gerada; reposição global não elimina impacto local."
+      },
+      {
+        "claim": "Ferramentas de previsão de cheias cobriam população estimada de mais de 2 bilhões de pessoas em cerca de 150 países para eventos fluviais significativos.",
+        "text": null,
+        "period": "População estimada em julho de 2025",
+        "source": "https://sustainability.google/google-2026-environmental-report/",
+        "verification": "declaração corporativa baseada em modelagem",
+        "limitation": "Cobertura potencial não significa número de vidas salvas; não é gasto social."
+      },
+      {
+        "claim": "Emissões evitadas apresentadas pela empresa são estimativas contrafactuais, calculadas contra cenário sem as intervenções.",
+        "text": null,
+        "period": "2025",
+        "source": "https://sustainability.google/google-2026-environmental-report/",
+        "verification": "declaração corporativa; metodologia publicada",
+        "limitation": "Não subtrair automaticamente emissões evitadas das emissões reais nem contar como remoção de carbono."
+      }
+    ],
+    "worker": [
+      {
+        "claim": "Declara representação de empregados/conselhos laborais em certos países e compromisso com direitos laborais protegidos.",
+        "text": null,
+        "period": "2025",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "verification": "declaração no 10-K",
+        "limitation": "Política declarada não comprova execução; gastos incrementais e satisfação comparável não encontrados."
+      }
+    ],
+    "worker_metrics": {
+      "satisfaction": null,
+      "internal_promotion_rate": null,
+      "training_spend": null,
+      "total_compensation": null
+    },
+    "social_spend_comparable": null,
+    "legal_cases": [
+      {
+        "case": "Google Search — monopolização",
+        "authority": "Tribunal Distrital de Columbia / DOJ",
+        "event_date": "2025-09-02",
+        "status": "Remédios judiciais anunciados em setembro de 2025; 10-K registra julgamento final em dezembro de 2025 e recursos de Google em janeiro e DOJ/estados em fevereiro de 2026.",
+        "finding": "Restrições a exclusividade e obrigações de compartilhamento de dados/sindicação.",
+        "source": "https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google",
+        "additional_source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "limitation": "Não tratado como trânsito em julgado; andamento posterior dos recursos não conferido integralmente."
+      },
+      {
+        "case": "Google adtech — monopolização",
+        "authority": "Tribunal Distrital do Leste da Virgínia / DOJ",
+        "event_date": "2026-09-16",
+        "status": "DOJ anunciou decisão de remédios comportamentais em 16/09/2026, com interoperabilidade, não discriminação, exportação de dados e monitoramento por seis anos.",
+        "finding": "Decisão exige integração com soluções concorrentes e limita favorecimento dos próprios produtos.",
+        "source": "https://www.justice.gov/opa/pr/department-justice-again-wins-substantial-relief-against-google",
+        "limitation": "Fonte é a comunicação oficial da parte governamental; não afirmar trânsito em julgado, execução integral ou ausência de recursos."
+      }
+    ],
+    "improvements": [
+      "Divulgar verificações independentes de interoperabilidade, concorrência e execução dos remédios, com consulta a anunciantes e editores.",
+      "Publicar indicadores de redistribuição aos trabalhadores, requalificação diante da IA e evolução do emprego, incluindo prestadores terceirizados.",
+      "Vincular infraestrutura de IA a orçamento local de água/energia e programas de educação e acessibilidade, separando impacto observado de cobertura potencial ou simulações."
+    ],
+    "public_contact": {
+      "email": "investor-relations@abc.xyz",
+      "type": "Relações com investidores",
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm",
+      "verified_context": "Release oficial de 22/07/2026; solicitar encaminhamento à liderança e sustentabilidade.",
+      "is_ceo_direct": false
+    },
+    "gaps": [
+      "Despesa anual consolidada incremental com capacitação, bem-estar e progressão não isolada.",
+      "Índice global de satisfação com amostragem e verificação independente não confirmado.",
+      "Não há reconciliação pública encontrada entre lucro líquido e os quatro destinos 30/30/30/10.",
+      "Casos jurídicos selecionados; pesquisa não equivale a certidão de ausência de outros processos.",
+      "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+      "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+    ],
+    "sources": [
+      {
+        "id": "googAnnual",
+        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "accessed_at": "2026-09-18",
+        "title": "Relatório anual — Alphabet"
+      },
+      {
+        "id": "googESG",
+        "url": "https://sustainability.google/google-2026-environmental-report/",
+        "accessed_at": "2026-09-18",
+        "title": "Relatório socioambiental — Alphabet"
+      },
+      {
+        "id": "googESGBlog",
+        "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/2026-environmental-report/",
+        "accessed_at": "2026-09-18",
+        "title": "Apresentação do relatório ambiental — Alphabet"
+      },
+      {
+        "id": "googLegal",
+        "url": "https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google",
+        "accessed_at": "2026-09-18",
+        "title": "Documento da autoridade competente — Alphabet"
+      },
+      {
+        "id": "googLegalNew",
+        "url": "https://www.justice.gov/opa/pr/department-justice-again-wins-substantial-relief-against-google",
+        "accessed_at": "2026-09-18",
+        "title": "Nova decisão da autoridade competente — Alphabet"
+      },
+      {
+        "id": "googRecent",
+        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm",
+        "accessed_at": "2026-09-18",
+        "title": "Resultados recentes — Alphabet"
+      }
+    ],
+    "short_name": "Alphabet",
+    "market_rank": 3,
+    "market_cap_trillion": 4.203,
+    "assessment_summary": "Pesquisa e infraestrutura coexistem com aplicações financeiras e questões concorrenciais documentadas. Acesso, efeitos da publicidade, trabalho e resultados sociais precisam de análise conjunta antes de uma nota.",
+    "ratings": {},
+    "review": {
+      "status": "partial",
+      "criticalIssuesResolved": false,
+      "date": "2026-09-18"
+    },
+    "honor_score": null,
+    "adherence_score": null,
+    "business_model_source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+    "fiscal_label": "FY2025",
+    "investment_evidence": [
+      {
+        "claim": "Compras de títulos negociáveis: US$103.773 milhões; vendas/vencimentos: US$83.240 milhões. Compras de títulos não negociáveis: US$5.716 milhões; resgates/vendas: US$1.367 milhões. Compras brutas não são alocação rastreada do lucro corrente.",
+        "text": null,
+        "period": "2025-01-01/2025-12-31",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "verification": "Documento da empresa; escopo de verificação consultar fonte",
+        "limitation": null
+      }
+    ],
+    "cases": [
+      {
+        "claim": "Google Search — monopolização",
+        "text": "Remédios judiciais anunciados em setembro de 2025; 10-K registra julgamento final em dezembro de 2025 e recursos de Google em janeiro e DOJ/estados em fevereiro de 2026.",
+        "period": "2025-09-02",
+        "source": "https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google",
+        "verification": "Tribunal Distrital de Columbia / DOJ",
+        "limitation": "Não tratado como trânsito em julgado; andamento posterior dos recursos não conferido integralmente."
+      },
+      {
+        "claim": "Google adtech — monopolização",
+        "text": "DOJ anunciou decisão de remédios comportamentais em 16/09/2026, com interoperabilidade, não discriminação, exportação de dados e monitoramento por seis anos.",
+        "period": "2026-09-16",
+        "source": "https://www.justice.gov/opa/pr/department-justice-again-wins-substantial-relief-against-google",
+        "verification": "Tribunal Distrital do Leste da Virgínia / DOJ",
+        "limitation": "Fonte é a comunicação oficial da parte governamental; não afirmar trânsito em julgado, execução integral ou ausência de recursos."
+      }
+    ]
+  },
+  "research_original": {
+    "id": "alphabet",
+    "name": "Alphabet Inc. (Google)",
+    "sector": "Serviços digitais, publicidade e nuvem",
+    "country": "Estados Unidos",
+    "tickers": [
+      {
+        "exchange": "NASDAQ",
+        "symbol": "GOOGL",
+        "class": "A",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm"
+      },
+      {
+        "exchange": "NASDAQ",
+        "symbol": "GOOG",
+        "class": "C",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm"
+      }
+    ],
+    "ceo": {
+      "name": "Sundar Pichai",
+      "as_of": "2026-07-22",
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm"
+    },
+    "business_model": {
+      "text": "Publicidade em busca, YouTube e rede de parceiros; nuvem, assinaturas, plataformas, dispositivos e outros negócios.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm"
+    },
+    "fiscal_year": "FY2025",
+    "period": "2025-01-01/2025-12-31",
+    "revenue": {
+      "value": 402836,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+      "label": "Receita",
+      "note": null
+    },
+    "net_income": {
+      "value": 132170,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+      "label": "Lucro líquido GAAP",
+      "note": null
+    },
+    "capex": {
+      "value": 91447,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+      "label": "Compras de imobilizado e equipamentos",
+      "note": null
+    },
+    "research": {
+      "value": 61087,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+      "label": "Despesa de pesquisa e desenvolvimento",
+      "note": null
+    },
+    "dividends": {
+      "value": 10049,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+      "label": "Dividendos pagos",
+      "note": null
+    },
+    "buybacks": {
+      "value": 45709,
+      "currency": "USD",
+      "unit": "million",
+      "period": "2025-01-01/2025-12-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+      "label": "Recompras de ações — fluxo de caixa",
+      "note": null
+    },
+    "employees": {
+      "value": 190820,
+      "unit": "persons",
+      "period": "2025-12-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+      "label": "Empregados ao final do exercício"
+    },
+    "financial_investments": {
+      "text": "Compras de títulos negociáveis: US$103.773 milhões; vendas/vencimentos: US$83.240 milhões. Compras de títulos não negociáveis: US$5.716 milhões; resgates/vendas: US$1.367 milhões. Compras brutas não são alocação rastreada do lucro corrente.",
+      "period": "2025-01-01/2025-12-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+      "marketable_purchases": {
+        "value": 103773,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "label": "Compras brutas de títulos negociáveis",
+        "note": null
+      },
+      "nonmarketable_purchases": {
+        "value": 5716,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "label": "Compras de títulos não negociáveis",
+        "note": null
+      }
+    },
+    "social_environment": [
+      {
+        "claim": "Relatório 2026 declara contratação de mais de 12 GW de energia limpa e reposição equivalente a 78% do consumo de água doce em 2025.",
+        "source": "https://sustainability.google/google-2026-environmental-report/",
+        "period": "2025",
+        "verification": "declaração corporativa",
+        "limitation": "Contratação não equivale a energia já gerada; reposição global não elimina impacto local."
+      },
+      {
+        "claim": "Ferramentas de previsão de cheias cobriam população estimada de mais de 2 bilhões de pessoas em cerca de 150 países para eventos fluviais significativos.",
+        "source": "https://sustainability.google/google-2026-environmental-report/",
+        "period": "População estimada em julho de 2025",
+        "verification": "declaração corporativa baseada em modelagem",
+        "limitation": "Cobertura potencial não significa número de vidas salvas; não é gasto social."
+      },
+      {
+        "claim": "Emissões evitadas apresentadas pela empresa são estimativas contrafactuais, calculadas contra cenário sem as intervenções.",
+        "source": "https://sustainability.google/google-2026-environmental-report/",
+        "period": "2025",
+        "verification": "declaração corporativa; metodologia publicada",
+        "limitation": "Não subtrair automaticamente emissões evitadas das emissões reais nem contar como remoção de carbono."
+      }
+    ],
+    "worker": [
+      {
+        "claim": "Declara representação de empregados/conselhos laborais em certos países e compromisso com direitos laborais protegidos.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "period": "2025",
+        "verification": "declaração no 10-K",
+        "limitation": "Política declarada não comprova execução; gastos incrementais e satisfação comparável não encontrados."
+      }
+    ],
+    "worker_metrics": {
+      "satisfaction": null,
+      "internal_promotion_rate": null,
+      "training_spend": null,
+      "total_compensation": null
+    },
+    "social_spend_comparable": null,
+    "legal_cases": [
+      {
+        "case": "Google Search — monopolização",
+        "authority": "Tribunal Distrital de Columbia / DOJ",
+        "event_date": "2025-09-02",
+        "status": "Remédios judiciais anunciados em setembro de 2025; 10-K registra julgamento final em dezembro de 2025 e recursos de Google em janeiro e DOJ/estados em fevereiro de 2026.",
+        "finding": "Restrições a exclusividade e obrigações de compartilhamento de dados/sindicação.",
+        "source": "https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google",
+        "additional_source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "limitation": "Não tratado como trânsito em julgado; andamento posterior dos recursos não conferido integralmente."
+      },
+      {
+        "case": "Google adtech — monopolização",
+        "authority": "Tribunal Distrital do Leste da Virgínia / DOJ",
+        "event_date": "2026-09-16",
+        "status": "DOJ anunciou decisão de remédios comportamentais em 16/09/2026, com interoperabilidade, não discriminação, exportação de dados e monitoramento por seis anos.",
+        "finding": "Decisão exige integração com soluções concorrentes e limita favorecimento dos próprios produtos.",
+        "source": "https://www.justice.gov/opa/pr/department-justice-again-wins-substantial-relief-against-google",
+        "limitation": "Fonte é a comunicação oficial da parte governamental; não afirmar trânsito em julgado, execução integral ou ausência de recursos."
+      }
+    ],
+    "improvements": [
+      "Divulgar verificações independentes de interoperabilidade, concorrência e execução dos remédios, com consulta a anunciantes e editores.",
+      "Publicar indicadores de redistribuição aos trabalhadores, requalificação diante da IA e evolução do emprego, incluindo prestadores terceirizados.",
+      "Vincular infraestrutura de IA a orçamento local de água/energia e programas de educação e acessibilidade, separando impacto observado de cobertura potencial ou simulações."
+    ],
+    "public_contact": {
+      "email": "investor-relations@abc.xyz",
+      "type": "Relações com investidores",
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm",
+      "verified_context": "Release oficial de 22/07/2026; solicitar encaminhamento à liderança e sustentabilidade.",
+      "is_ceo_direct": false
+    },
+    "gaps": [
+      "Despesa anual consolidada incremental com capacitação, bem-estar e progressão não isolada.",
+      "Índice global de satisfação com amostragem e verificação independente não confirmado.",
+      "Não há reconciliação pública encontrada entre lucro líquido e os quatro destinos 30/30/30/10.",
+      "Casos jurídicos selecionados; pesquisa não equivale a certidão de ausência de outros processos."
+    ],
+    "sources": [
+      {
+        "id": "googAnnual",
+        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm"
+      },
+      {
+        "id": "googESG",
+        "url": "https://sustainability.google/google-2026-environmental-report/"
+      },
+      {
+        "id": "googESGBlog",
+        "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/2026-environmental-report/"
+      },
+      {
+        "id": "googLegal",
+        "url": "https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google"
+      },
+      {
+        "id": "googLegalNew",
+        "url": "https://www.justice.gov/opa/pr/department-justice-again-wins-substantial-relief-against-google"
+      },
+      {
+        "id": "googRecent",
+        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm"
+      }
+    ]
+  }
+}

@@ -1,0 +1,542 @@
+{
+  "normalized": {
+    "id": "meta",
+    "name": "Meta Platforms, Inc.",
+    "sector": "Plataformas e publicidade",
+    "country": "Estados Unidos",
+    "tickers": [
+      {
+        "exchange": "NASDAQ",
+        "symbol": "META",
+        "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/"
+      }
+    ],
+    "ceo": {
+      "name": "Mark Zuckerberg",
+      "as_of": "2026-01-28",
+      "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm"
+    },
+    "business_model": "Receita principalmente com publicidade em Facebook e Instagram; outros serviços e dispositivos/tecnologia Reality Labs. Incentivos ligados ao desempenho publicitário requerem avaliação própria de proteção de usuários.",
+    "revenue": {
+      "value": 200966,
+      "period": "2025-01-01/2025-12-31",
+      "currency": "USD",
+      "unit": "million",
+      "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+      "definition": "Receita anual GAAP"
+    },
+    "net_income": {
+      "value": 60458,
+      "period": "2025-01-01/2025-12-31",
+      "currency": "USD",
+      "unit": "million",
+      "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+      "definition": "Lucro líquido GAAP"
+    },
+    "capex": {
+      "value": 69691,
+      "period": "2025-01-01/2025-12-31",
+      "currency": "USD",
+      "unit": "million",
+      "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+      "definition": "Compras de imobilizado em caixa",
+      "including_finance_lease_principal": 72215,
+      "finance_lease_principal": 2524,
+      "company_headline_rounded_billion": 72.22
+    },
+    "research": {
+      "value": 57372,
+      "period": "2025-01-01/2025-12-31",
+      "currency": "USD",
+      "unit": "million",
+      "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+      "definition": "Despesa de P&D; já deduzida na apuração do lucro"
+    },
+    "dividends": {
+      "value": 5324,
+      "period": "2025-01-01/2025-12-31",
+      "currency": "USD",
+      "unit": "million",
+      "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+      "definition": "Pagamentos de dividendos e equivalentes"
+    },
+    "buybacks": {
+      "value": 26248,
+      "period": "2025-01-01/2025-12-31",
+      "currency": "USD",
+      "unit": "million",
+      "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+      "definition": "Recompras de ações classe A em caixa",
+      "equity_statement_amount": 26264,
+      "equity_statement_note": "Demonstração patrimonial registra 26.264 milhões, incluindo tributos; não confundir com desembolso de 26.248 milhões."
+    },
+    "employees": {
+      "value": 78865,
+      "period": "2025-12-31",
+      "currency": null,
+      "unit": "pessoas",
+      "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+      "definition": "Quadro consolidado de empregados"
+    },
+    "operating_cash_flow": {
+      "value": 115800,
+      "period": "2025-01-01/2025-12-31",
+      "currency": "USD",
+      "unit": "million",
+      "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+      "definition": "Fluxo de caixa operacional"
+    },
+    "financial_investments": {
+      "evidence": [
+        {
+          "claim": "Compras de títulos negociáveis US$36.929 milhões; vendas/vencimentos US$26.874 milhões; aplicação líquida calculada US$10.055 milhões.",
+          "period": "2025",
+          "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+          "verification": "demonstração financeira",
+          "limitations": null
+        },
+        {
+          "claim": "Compras de participações não negociáveis US$18.330 milhões; entre as participações destaca-se Scale AI de US$13.800 milhões.",
+          "period": "2025",
+          "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+          "verification": "relatório anual",
+          "limitations": null
+        }
+      ],
+      "speculative_profit_allocation_pct": null,
+      "classification": "Tesouraria e participações empresariais; propósito exclusivamente especulativo não comprovado.",
+      "contradictory_review": "Tesouraria diversificada e investimento estratégico não são equivalentes a ausência de reinvestimento. P&D, folha, capex e investimentos financeiros podem se sobrepor economicamente; não são fatias exclusivas do lucro."
+    },
+    "social_environment": [
+      {
+        "claim": "Relatório publicado em 2025 informa restituição de mais de 1,6 bilhão de galões de água em regiões de estresse hídrico alto/médio em 2024.",
+        "text": null,
+        "period": "2024",
+        "source": "https://sustainability.atmeta.com/asset/2025-sustainability-report",
+        "verification": "autorrelato empresarial",
+        "limitation": "Ano de publicação não é ano da métrica; não usar como indicador de 2025."
+      },
+      {
+        "claim": "Ernst & Young revisou indicadores selecionados de sustentabilidade do exercício 2024 com asseguração limitada; restante do relatório excluído do escopo.",
+        "text": null,
+        "period": "2024",
+        "source": "https://sustainability.atmeta.com/asset/2025-independent-accountants-review-report/",
+        "verification": "asseguração limitada independente",
+        "limitation": "Não é auditoria integral nem atestado geral de sustentabilidade."
+      }
+    ],
+    "worker": [
+      {
+        "claim": "Relata alcançar mais de 60 mil trabalhadores da manufatura com ações de capacitação sobre direitos humanos e conformidade ambiental.",
+        "text": null,
+        "period": "2024",
+        "source": "https://sustainability.atmeta.com/asset/2025-sustainability-report",
+        "verification": "autorrelato empresarial",
+        "limitation": "Alcance não mede satisfação, melhoria salarial ou remediação efetiva."
+      },
+      {
+        "claim": "Declara avaliações semestrais de desempenho e acesso a treinamento/ferramentas de IA; descreve apoio rescisório aos desligados.",
+        "text": null,
+        "period": "2025",
+        "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+        "verification": "autorrelato empresarial",
+        "limitation": "Não há garantia de estabilidade nem resultado independente de bem-estar."
+      },
+      {
+        "claim": "Índice independente representativo e metodologia não localizados.",
+        "text": null,
+        "period": null,
+        "source": null,
+        "verification": "Documento da empresa; escopo de verificação consultar fonte",
+        "limitation": null
+      },
+      {
+        "claim": "Taxa consolidada comparável não localizada.",
+        "text": null,
+        "period": null,
+        "source": null,
+        "verification": "Documento da empresa; escopo de verificação consultar fonte",
+        "limitation": null
+      }
+    ],
+    "legal_cases": [
+      {
+        "case": "FTC — monopolização / Instagram e WhatsApp",
+        "regulator": "Federal Trade Commission (EUA)",
+        "event_date": "2026-01-20",
+        "status": "Tribunal decidiu favoravelmente à Meta em novembro de 2025; FTC apresentou aviso de recurso em janeiro de 2026.",
+        "source": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-appeals-ruling-meta-monopolization-case",
+        "classification": "decisão favorável à empresa e recurso anunciado",
+        "caution": "Não chamar Meta de condenada por monopolização neste caso. Desfecho posterior do recurso não confirmado nesta coleta."
+      },
+      {
+        "case": "Comissão Europeia — modelo consentir ou pagar / DMA",
+        "regulator": "Comissão Europeia",
+        "event_date": "2025-04-23",
+        "status": "Decisão administrativa por descumprimento com multa de EUR 200 milhões.",
+        "source": "https://digital-strategy.ec.europa.eu/en/news/commission-finds-apple-and-meta-breach-digital-markets-act",
+        "classification": "decisão administrativa",
+        "caution": "Não afirmar trânsito em julgado; recurso e conformidade posterior exigem atualização."
+      }
+    ],
+    "improvements": [
+      "Publicar métricas auditáveis de segurança, fraudes e recursos de usuários, com tempo de resposta humana, resultados por faixa etária e acessibilidade.",
+      "Apresentar plano de humanização da IA com requalificação, mobilidade interna e indicadores de qualidade do emprego incluindo terceirizados.",
+      "Conciliar orçamento socioambiental aos impactos próprios e publicar resultados por bacia hidrográfica e emissões absolutas, com escopo de asseguração e anos claramente identificados."
+    ],
+    "public_contact": {
+      "email": "investor@meta.com",
+      "type": "Relações com investidores",
+      "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+      "is_ceo_direct": false,
+      "sending_note": "Canal institucional publicado; solicitar encaminhamento à diretoria responsável."
+    },
+    "sources": [
+      {
+        "id": "metaAnnual",
+        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+        "accessed_at": "2026-09-18",
+        "title": "Relatório anual — Meta"
+      },
+      {
+        "id": "metaEarnings",
+        "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+        "accessed_at": "2026-09-18",
+        "title": "Resultados financeiros — Meta"
+      },
+      {
+        "id": "metaSust",
+        "url": "https://sustainability.atmeta.com/asset/2025-sustainability-report",
+        "accessed_at": "2026-09-18",
+        "title": "Sustentabilidade — Meta"
+      },
+      {
+        "id": "metaAssurance",
+        "url": "https://sustainability.atmeta.com/asset/2025-independent-accountants-review-report/",
+        "accessed_at": "2026-09-18",
+        "title": "Relatório de asseguração independente — Meta"
+      },
+      {
+        "id": "metaFTC",
+        "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-appeals-ruling-meta-monopolization-case",
+        "accessed_at": "2026-09-18",
+        "title": "Documento da FTC — Meta"
+      },
+      {
+        "id": "metaEU",
+        "url": "https://digital-strategy.ec.europa.eu/en/news/commission-finds-apple-and-meta-breach-digital-markets-act",
+        "accessed_at": "2026-09-18",
+        "title": "Decisão da Comissão Europeia — Meta"
+      }
+    ],
+    "assessment": {
+      "status": "Dossiê preliminar; sem pontuação de índole",
+      "ranking": null,
+      "confidence": "Alta para demonstrações financeiras; asseguração ambiental limitada e de 2024",
+      "remaining_gaps": [
+        "Destinação exata do lucro",
+        "Dados socioambientais de 2025 comparáveis",
+        "Satisfação e promoção interna",
+        "Eficácia independente de segurança dos usuários",
+        "Desfecho de recursos regulatórios",
+        "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+        "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+      ]
+    },
+    "short_name": "Meta",
+    "market_rank": 8,
+    "market_cap_trillion": 1.738,
+    "assessment_summary": "Pesquisa e infraestrutura coexistem com retorno a acionistas e investimentos em participações. Segurança de usuários, privacidade, condições de trabalho e impactos locais são indispensáveis; a asseguração ambiental localizada cobre métricas e período limitados.",
+    "ratings": {},
+    "review": {
+      "status": "partial",
+      "criticalIssuesResolved": false,
+      "date": "2026-09-18"
+    },
+    "honor_score": null,
+    "adherence_score": null,
+    "fiscal_label": "FY2025",
+    "investment_evidence": [
+      {
+        "claim": "Compras de títulos negociáveis US$36.929 milhões; vendas/vencimentos US$26.874 milhões; aplicação líquida calculada US$10.055 milhões.",
+        "text": null,
+        "period": "2025",
+        "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+        "verification": "demonstração financeira",
+        "limitation": null
+      },
+      {
+        "claim": "Compras de participações não negociáveis US$18.330 milhões; entre as participações destaca-se Scale AI de US$13.800 milhões.",
+        "text": null,
+        "period": "2025",
+        "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+        "verification": "relatório anual",
+        "limitation": null
+      },
+      {
+        "claim": "Tesouraria e participações empresariais; propósito exclusivamente especulativo não comprovado.",
+        "text": null,
+        "period": null,
+        "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+        "verification": "Interpretação documental",
+        "limitation": null
+      },
+      {
+        "claim": "Tesouraria diversificada e investimento estratégico não são equivalentes a ausência de reinvestimento. P&D, folha, capex e investimentos financeiros podem se sobrepor economicamente; não são fatias exclusivas do lucro.",
+        "text": null,
+        "period": null,
+        "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+        "verification": "Interpretação documental",
+        "limitation": null
+      }
+    ],
+    "cases": [
+      {
+        "claim": "FTC — monopolização / Instagram e WhatsApp",
+        "text": "Tribunal decidiu favoravelmente à Meta em novembro de 2025; FTC apresentou aviso de recurso em janeiro de 2026.",
+        "period": "2026-01-20",
+        "source": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-appeals-ruling-meta-monopolization-case",
+        "verification": "Federal Trade Commission (EUA)",
+        "limitation": "Não chamar Meta de condenada por monopolização neste caso. Desfecho posterior do recurso não confirmado nesta coleta."
+      },
+      {
+        "claim": "Comissão Europeia — modelo consentir ou pagar / DMA",
+        "text": "Decisão administrativa por descumprimento com multa de EUR 200 milhões.",
+        "period": "2025-04-23",
+        "source": "https://digital-strategy.ec.europa.eu/en/news/commission-finds-apple-and-meta-breach-digital-markets-act",
+        "verification": "Comissão Europeia",
+        "limitation": "Não afirmar trânsito em julgado; recurso e conformidade posterior exigem atualização."
+      }
+    ],
+    "gaps": [
+      "Destinação exata do lucro",
+      "Dados socioambientais de 2025 comparáveis",
+      "Satisfação e promoção interna",
+      "Eficácia independente de segurança dos usuários",
+      "Desfecho de recursos regulatórios",
+      "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+      "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+    ]
+  },
+  "research_original": {
+    "id": "meta",
+    "name": "Meta Platforms, Inc.",
+    "sector": "Plataformas sociais, publicidade digital e tecnologias imersivas",
+    "country": "Estados Unidos",
+    "tickers": [
+      {
+        "exchange": "NASDAQ",
+        "symbol": "META",
+        "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/"
+      }
+    ],
+    "ceo": {
+      "name": "Mark Zuckerberg",
+      "as_of": "2026-01-28",
+      "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm"
+    },
+    "business_model": "Receita principalmente com publicidade em Facebook e Instagram; outros serviços e dispositivos/tecnologia Reality Labs. Incentivos ligados ao desempenho publicitário requerem avaliação própria de proteção de usuários.",
+    "revenue": {
+      "value": 200966,
+      "period": "2025-01-01/2025-12-31",
+      "currency": "USD",
+      "unit": "million",
+      "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+      "definition": "Receita anual GAAP"
+    },
+    "net_income": {
+      "value": 60458,
+      "period": "2025-01-01/2025-12-31",
+      "currency": "USD",
+      "unit": "million",
+      "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+      "definition": "Lucro líquido GAAP"
+    },
+    "capex": {
+      "value": 69691,
+      "period": "2025-01-01/2025-12-31",
+      "currency": "USD",
+      "unit": "million",
+      "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+      "definition": "Compras de imobilizado em caixa",
+      "including_finance_lease_principal": 72215,
+      "finance_lease_principal": 2524,
+      "company_headline_rounded_billion": 72.22
+    },
+    "research": {
+      "value": 57372,
+      "period": "2025-01-01/2025-12-31",
+      "currency": "USD",
+      "unit": "million",
+      "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+      "definition": "Despesa de P&D; já deduzida na apuração do lucro"
+    },
+    "dividends": {
+      "value": 5324,
+      "period": "2025-01-01/2025-12-31",
+      "currency": "USD",
+      "unit": "million",
+      "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+      "definition": "Pagamentos de dividendos e equivalentes"
+    },
+    "buybacks": {
+      "value": 26248,
+      "period": "2025-01-01/2025-12-31",
+      "currency": "USD",
+      "unit": "million",
+      "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+      "definition": "Recompras de ações classe A em caixa",
+      "equity_statement_amount": 26264,
+      "equity_statement_note": "Demonstração patrimonial registra 26.264 milhões, incluindo tributos; não confundir com desembolso de 26.248 milhões."
+    },
+    "employees": {
+      "value": 78865,
+      "period": "2025-12-31",
+      "currency": null,
+      "unit": "pessoas",
+      "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+      "definition": "Quadro consolidado de empregados"
+    },
+    "operating_cash_flow": {
+      "value": 115800,
+      "period": "2025-01-01/2025-12-31",
+      "currency": "USD",
+      "unit": "million",
+      "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+      "definition": "Fluxo de caixa operacional"
+    },
+    "financial_investments": {
+      "evidence": [
+        {
+          "claim": "Compras de títulos negociáveis US$36.929 milhões; vendas/vencimentos US$26.874 milhões; aplicação líquida calculada US$10.055 milhões.",
+          "period": "2025",
+          "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+          "verification": "demonstração financeira",
+          "limitations": null
+        },
+        {
+          "claim": "Compras de participações não negociáveis US$18.330 milhões; entre as participações destaca-se Scale AI de US$13.800 milhões.",
+          "period": "2025",
+          "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+          "verification": "relatório anual",
+          "limitations": null
+        }
+      ],
+      "speculative_profit_allocation_pct": null,
+      "classification": "Tesouraria e participações empresariais; propósito exclusivamente especulativo não comprovado.",
+      "contradictory_review": "Tesouraria diversificada e investimento estratégico não são equivalentes a ausência de reinvestimento. P&D, folha, capex e investimentos financeiros podem se sobrepor economicamente; não são fatias exclusivas do lucro."
+    },
+    "social_environment": [
+      {
+        "claim": "Relatório publicado em 2025 informa restituição de mais de 1,6 bilhão de galões de água em regiões de estresse hídrico alto/médio em 2024.",
+        "period": "2024",
+        "source": "https://sustainability.atmeta.com/asset/2025-sustainability-report",
+        "verification": "autorrelato empresarial",
+        "limitations": "Ano de publicação não é ano da métrica; não usar como indicador de 2025."
+      },
+      {
+        "claim": "Ernst & Young revisou indicadores selecionados de sustentabilidade do exercício 2024 com asseguração limitada; restante do relatório excluído do escopo.",
+        "period": "2024",
+        "source": "https://sustainability.atmeta.com/asset/2025-independent-accountants-review-report/",
+        "verification": "asseguração limitada independente",
+        "limitations": "Não é auditoria integral nem atestado geral de sustentabilidade."
+      }
+    ],
+    "worker": [
+      {
+        "claim": "Relata alcançar mais de 60 mil trabalhadores da manufatura com ações de capacitação sobre direitos humanos e conformidade ambiental.",
+        "period": "2024",
+        "source": "https://sustainability.atmeta.com/asset/2025-sustainability-report",
+        "verification": "autorrelato empresarial",
+        "limitations": "Alcance não mede satisfação, melhoria salarial ou remediação efetiva."
+      },
+      {
+        "claim": "Declara avaliações semestrais de desempenho e acesso a treinamento/ferramentas de IA; descreve apoio rescisório aos desligados.",
+        "period": "2025",
+        "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+        "verification": "autorrelato empresarial",
+        "limitations": "Não há garantia de estabilidade nem resultado independente de bem-estar."
+      },
+      {
+        "metric": "employee_satisfaction",
+        "value": null,
+        "reason": "Índice independente representativo e metodologia não localizados."
+      },
+      {
+        "metric": "internal_promotion_rate",
+        "value": null,
+        "reason": "Taxa consolidada comparável não localizada."
+      }
+    ],
+    "legal_cases": [
+      {
+        "case": "FTC — monopolização / Instagram e WhatsApp",
+        "regulator": "Federal Trade Commission (EUA)",
+        "event_date": "2026-01-20",
+        "status": "Tribunal decidiu favoravelmente à Meta em novembro de 2025; FTC apresentou aviso de recurso em janeiro de 2026.",
+        "source": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-appeals-ruling-meta-monopolization-case",
+        "classification": "decisão favorável à empresa e recurso anunciado",
+        "caution": "Não chamar Meta de condenada por monopolização neste caso. Desfecho posterior do recurso não confirmado nesta coleta."
+      },
+      {
+        "case": "Comissão Europeia — modelo consentir ou pagar / DMA",
+        "regulator": "Comissão Europeia",
+        "event_date": "2025-04-23",
+        "status": "Decisão administrativa por descumprimento com multa de EUR 200 milhões.",
+        "source": "https://digital-strategy.ec.europa.eu/en/news/commission-finds-apple-and-meta-breach-digital-markets-act",
+        "classification": "decisão administrativa",
+        "caution": "Não afirmar trânsito em julgado; recurso e conformidade posterior exigem atualização."
+      }
+    ],
+    "improvements": [
+      "Publicar métricas auditáveis de segurança, fraudes e recursos de usuários, com tempo de resposta humana, resultados por faixa etária e acessibilidade.",
+      "Apresentar plano de humanização da IA com requalificação, mobilidade interna e indicadores de qualidade do emprego incluindo terceirizados.",
+      "Conciliar orçamento socioambiental aos impactos próprios e publicar resultados por bacia hidrográfica e emissões absolutas, com escopo de asseguração e anos claramente identificados."
+    ],
+    "public_contact": {
+      "email": "investor@meta.com",
+      "type": "Relações com investidores",
+      "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+      "is_ceo_direct": false,
+      "sending_note": "Canal institucional publicado; solicitar encaminhamento à diretoria responsável."
+    },
+    "sources": [
+      {
+        "id": "metaAnnual",
+        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm"
+      },
+      {
+        "id": "metaEarnings",
+        "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/"
+      },
+      {
+        "id": "metaSust",
+        "url": "https://sustainability.atmeta.com/asset/2025-sustainability-report"
+      },
+      {
+        "id": "metaAssurance",
+        "url": "https://sustainability.atmeta.com/asset/2025-independent-accountants-review-report/"
+      },
+      {
+        "id": "metaFTC",
+        "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-appeals-ruling-meta-monopolization-case"
+      },
+      {
+        "id": "metaEU",
+        "url": "https://digital-strategy.ec.europa.eu/en/news/commission-finds-apple-and-meta-breach-digital-markets-act"
+      }
+    ],
+    "assessment": {
+      "status": "Dossiê preliminar; sem pontuação de índole",
+      "ranking": null,
+      "confidence": "Alta para demonstrações financeiras; asseguração ambiental limitada e de 2024",
+      "remaining_gaps": [
+        "Destinação exata do lucro",
+        "Dados socioambientais de 2025 comparáveis",
+        "Satisfação e promoção interna",
+        "Eficácia independente de segurança dos usuários",
+        "Desfecho de recursos regulatórios"
+      ]
+    }
+  }
+}

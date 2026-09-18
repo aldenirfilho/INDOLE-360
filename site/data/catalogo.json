@@ -1,0 +1,2988 @@
+{
+  "version": "2.0.0",
+  "updated_at": "2026-09-18",
+  "research_cutoff": "2026-09-17",
+  "selection": {
+    "criterion": "Dez maiores empresas por capitalização no provedor consultado; não é ranking de índole",
+    "source": "https://companiesmarketcap.com/",
+    "consulted_at": "2026-09-18",
+    "market_date": "2026-09-17",
+    "limitation": "Fotografia do provedor; valores podem divergir por horário, ações em circulação e universo de cobertura. Nenhum valor de mercado foi usado na nota de conduta."
+  },
+  "companies": [
+    {
+      "id": "nvidia",
+      "name": "NVIDIA Corporation",
+      "sector": "Semicondutores",
+      "country": "Estados Unidos",
+      "tickers": [
+        {
+          "exchange": "NASDAQ",
+          "symbol": "NVDA",
+          "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm"
+        }
+      ],
+      "ceo": {
+        "name": "Jensen Huang (Jen-Hsun Huang)",
+        "as_of": "2026-08-26",
+        "source": "https://investor.nvidia.com/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf"
+      },
+      "business_model": "Vende GPUs, sistemas, redes e plataformas de computação acelerada; software e serviços complementam hardware. Modelo fabless: fabricação terceirizada.",
+      "fiscal_year": "FY2026",
+      "period": "2025-01-27/2026-01-25",
+      "revenue": {
+        "value": 215938,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-27/2026-01-25",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "label": "Receita",
+        "note": null
+      },
+      "net_income": {
+        "value": 120067,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-27/2026-01-25",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "label": "Lucro líquido GAAP",
+        "note": null
+      },
+      "capex": {
+        "value": 6042,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-27/2026-01-25",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "label": "Compras de imobilizado, equipamentos e ativos intangíveis",
+        "note": "Rubrica inclui intangíveis; exclui pagamento Groq de US$13.000 milhões apresentado separadamente. Não comparar como capex físico puro."
+      },
+      "research": {
+        "value": 18497,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-27/2026-01-25",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "label": "Despesa de pesquisa e desenvolvimento",
+        "note": null
+      },
+      "dividends": {
+        "value": 974,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-27/2026-01-25",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "label": "Dividendos pagos",
+        "note": null
+      },
+      "buybacks": {
+        "value": 40086,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-27/2026-01-25",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "label": "Pagamentos relacionados a recompra de ações",
+        "note": "Fluxo de caixa; valor de recompra por competência é aproximadamente US$40,4 bilhões."
+      },
+      "employees": {
+        "value": 42000,
+        "unit": "persons",
+        "period": "2026-01-25",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "label": "Empregados aproximados"
+      },
+      "financial_investments": {
+        "text": "Comprou títulos negociáveis por US$40.616 milhões e participações não negociáveis por US$17.502 milhões; vendas/vencimentos dos negociáveis somaram US$26.383 milhões. Essas compras brutas não identificam qual parcela veio do lucro corrente.",
+        "period": "2025-01-27/2026-01-25",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "marketable_purchases": {
+          "value": 40616,
+          "currency": "USD",
+          "unit": "million",
+          "period": "2025-01-27/2026-01-25",
+          "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+          "label": "Compras brutas de títulos negociáveis",
+          "note": null
+        },
+        "nonmarketable_purchases": {
+          "value": 17502,
+          "currency": "USD",
+          "unit": "million",
+          "period": "2025-01-27/2026-01-25",
+          "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+          "label": "Compras de participações não negociáveis",
+          "note": null
+        }
+      },
+      "social_environment": [
+        {
+          "claim": "Relatório FY26 declara 100% de eletricidade limpa comprada ou gerada. Escopos 1+2, pela abordagem de mercado: 10.390 tCO2e; escopo 3 reportado: 10.700.940 tCO2e.",
+          "text": null,
+          "period": "2025-01-27/2026-01-25",
+          "source": "https://images.nvidia.com/aem-dam/Solutions/documents/NVIDIA-Sustainability-Report-Fiscal-Year-2026.pdf",
+          "verification": "relatório corporativo; asseguração limitada de métricas selecionadas",
+          "limitation": "Não significa energia limpa disponível a cada hora nem toda a cadeia sem emissões; verificar escopo de cada asseguração."
+        },
+        {
+          "claim": "Fundação informa US$83 milhões de doações somando empresa e empregados; inclui mais de US$34 milhões dos empregados e quase US$30 milhões de contrapartida corporativa.",
+          "text": null,
+          "period": "2025-01-27/2026-01-25",
+          "source": "https://www.nvidia.com/en-eu/foundation/reports/",
+          "verification": "declaração corporativa",
+          "limitation": "US$83 milhões não pode ser lançado integralmente como doação empresarial; total corporativo comparável não isolado."
+        }
+      ],
+      "worker": [
+        {
+          "claim": "Declara rotatividade de 3,7% e programas de desenvolvimento e reembolso educacional.",
+          "text": null,
+          "period": "2025-01-27/2026-01-25",
+          "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+          "verification": "declaração no 10-K",
+          "limitation": "Rotatividade não mede satisfação nem oportunidades de progressão."
+        }
+      ],
+      "worker_metrics": {
+        "satisfaction": null,
+        "internal_promotion_rate": null,
+        "training_spend": null,
+        "total_compensation": null
+      },
+      "social_spend_comparable": null,
+      "legal_cases": [
+        {
+          "case": "Divulgação do efeito da mineração de criptoativos nas receitas",
+          "authority": "SEC — Estados Unidos",
+          "event_date": "2022-05-06",
+          "status": "Acordo administrativo com ordem de cessação e multa civil de US$5,5 milhões; sem admitir ou negar os achados.",
+          "finding": "SEC apontou divulgação inadequada e controles insuficientes.",
+          "source": "https://www.sec.gov/newsroom/press-releases/2022-79",
+          "limitation": "Caso histórico concluído por acordo; não é condenação criminal por corrupção."
+        }
+      ],
+      "improvements": [
+        "Publicar conciliação anual entre lucro, caixa, reinvestimento, remuneração e contribuição comunitária, distinguindo caixa próprio e doações de empregados.",
+        "Estabelecer indicadores auditáveis de capacitação, progressão e benefícios distribuídos por faixa salarial, incluindo fornecedores.",
+        "Divulgar emissões absolutas e consumo de energia na utilização dos produtos com fronteiras claras, junto de resultados sociais de projetos de IA que ampliem a capacidade humana."
+      ],
+      "public_contact": {
+        "email": "NVIDIACorporateSustainability@nvidia.com",
+        "type": "Equipe de sustentabilidade",
+        "source": "https://images.nvidia.com/aem-dam/Solutions/documents/NVIDIA-Sustainability-Report-Fiscal-Year-2026.pdf",
+        "verified_context": "Relatório FY26, páginas 29 e 39: canal para comentários e sugestões.",
+        "is_ceo_direct": false
+      },
+      "gaps": [
+        "Despesa anual consolidada incremental com capacitação, bem-estar e progressão não isolada.",
+        "Índice global de satisfação com amostragem e verificação independente não confirmado.",
+        "Não há reconciliação pública encontrada entre lucro líquido e os quatro destinos 30/30/30/10.",
+        "Casos jurídicos selecionados; pesquisa não equivale a certidão de ausência de outros processos.",
+        "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+        "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+      ],
+      "sources": [
+        {
+          "id": "nvdaAnnual",
+          "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+          "accessed_at": "2026-09-18",
+          "title": "Relatório anual — NVIDIA"
+        },
+        {
+          "id": "nvdaESG",
+          "url": "https://images.nvidia.com/aem-dam/Solutions/documents/NVIDIA-Sustainability-Report-Fiscal-Year-2026.pdf",
+          "accessed_at": "2026-09-18",
+          "title": "Relatório socioambiental — NVIDIA"
+        },
+        {
+          "id": "nvdaGiving",
+          "url": "https://www.nvidia.com/en-eu/foundation/reports/",
+          "accessed_at": "2026-09-18",
+          "title": "Relatório de doações e fundação — NVIDIA"
+        },
+        {
+          "id": "nvdaLegal",
+          "url": "https://www.sec.gov/newsroom/press-releases/2022-79",
+          "accessed_at": "2026-09-18",
+          "title": "Documento da autoridade competente — NVIDIA"
+        },
+        {
+          "id": "nvdaCeo",
+          "url": "https://investor.nvidia.com/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf",
+          "accessed_at": "2026-09-18",
+          "title": "Liderança executiva — NVIDIA"
+        }
+      ],
+      "short_name": "NVIDIA",
+      "market_rank": 1,
+      "market_cap_trillion": 5.296,
+      "assessment_summary": "Há investimento em pesquisa e evidências corporativas de iniciativas ambientais e sociais. A contribuição própria precisa ser separada das doações dos empregados, e impacto e valorização do trabalho ainda exigem verificação.",
+      "ratings": {},
+      "review": {
+        "status": "partial",
+        "criticalIssuesResolved": false,
+        "date": "2026-09-18"
+      },
+      "honor_score": null,
+      "adherence_score": null,
+      "business_model_source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "fiscal_label": "FY2026",
+      "investment_evidence": [
+        {
+          "claim": "Comprou títulos negociáveis por US$40.616 milhões e participações não negociáveis por US$17.502 milhões; vendas/vencimentos dos negociáveis somaram US$26.383 milhões. Essas compras brutas não identificam qual parcela veio do lucro corrente.",
+          "text": null,
+          "period": "2025-01-27/2026-01-25",
+          "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+          "verification": "Documento da empresa; escopo de verificação consultar fonte",
+          "limitation": null
+        }
+      ],
+      "cases": [
+        {
+          "claim": "Divulgação do efeito da mineração de criptoativos nas receitas",
+          "text": "Acordo administrativo com ordem de cessação e multa civil de US$5,5 milhões; sem admitir ou negar os achados.",
+          "period": "2022-05-06",
+          "source": "https://www.sec.gov/newsroom/press-releases/2022-79",
+          "verification": "SEC — Estados Unidos",
+          "limitation": "Caso histórico concluído por acordo; não é condenação criminal por corrupção."
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "name": "Apple Inc.",
+      "sector": "Dispositivos e serviços",
+      "country": "Estados Unidos",
+      "tickers": [
+        {
+          "exchange": "NASDAQ",
+          "symbol": "AAPL",
+          "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm"
+        }
+      ],
+      "ceo": {
+        "name": "John Ternus",
+        "as_of": "2026-09-17",
+        "effective_date": "2026-09-01",
+        "source": "https://www.apple.com/leadership/john-ternus/",
+        "additional_source": "https://www.apple.com/au/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+        "note": "Tim Cook foi CEO durante o FY2025 e tornou-se executive chairman em 2026; a carta atual deve ir a John Ternus e à liderança."
+      },
+      "business_model": "Recebe por dispositivos, serviços digitais, assinaturas, distribuição de aplicativos, publicidade e pagamentos.",
+      "fiscal_year": "FY2025",
+      "period": "2024-09-29/2025-09-27",
+      "revenue": {
+        "value": 416161,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2024-09-29/2025-09-27",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "label": "Vendas líquidas",
+        "note": null
+      },
+      "net_income": {
+        "value": 112010,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2024-09-29/2025-09-27",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "label": "Lucro líquido GAAP",
+        "note": null
+      },
+      "capex": {
+        "value": 12715,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2024-09-29/2025-09-27",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "label": "Pagamentos por imobilizado e equipamentos",
+        "note": null
+      },
+      "research": {
+        "value": 34550,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2024-09-29/2025-09-27",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "label": "Despesa de pesquisa e desenvolvimento",
+        "note": null
+      },
+      "dividends": {
+        "value": 15421,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2024-09-29/2025-09-27",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "label": "Dividendos e equivalentes pagos",
+        "note": null
+      },
+      "buybacks": {
+        "value": 90711,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2024-09-29/2025-09-27",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "label": "Recompras de ações — fluxo de caixa",
+        "note": null
+      },
+      "employees": {
+        "value": 166000,
+        "unit": "persons",
+        "period": "2025-09-27",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "label": "Empregados equivalentes a tempo integral, aproximados"
+      },
+      "financial_investments": {
+        "text": "Compras de títulos negociáveis: US$24.407 milhões; vencimentos: US$40.907 milhões; vendas: US$12.890 milhões. O fluxo mostra resgate líquido de títulos, não apenas acumulação financeira. Carteira de títulos correntes e não correntes: US$96.486 milhões.",
+        "period": "2024-09-29/2025-09-27",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "marketable_purchases": {
+          "value": 24407,
+          "currency": "USD",
+          "unit": "million",
+          "period": "2024-09-29/2025-09-27",
+          "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+          "label": "Compras brutas de títulos negociáveis",
+          "note": null
+        }
+      },
+      "social_environment": [
+        {
+          "claim": "Relatório 2026 informa redução superior a 60% das emissões brutas ante 2015 e meta de redução de 75% até 2030; declara eletricidade renovável nas instalações próprias.",
+          "text": null,
+          "period": "FY2025",
+          "source": "https://www.apple.com/environment/pdf/Apple_Environmental_Progress_Report_2026.pdf",
+          "verification": "declaração corporativa em relatório ambiental",
+          "limitation": "Meta futura não é resultado atingido; a extensão da asseguração 2026 não foi integralmente revisada nesta etapa."
+        }
+      ],
+      "worker": [
+        {
+          "claim": "Apple declara um fundo de US$50 milhões para desenvolvimento de trabalhadores de fornecedores, lançado em 2022; anunciou novo polo educacional na Índia em fevereiro de 2026.",
+          "text": null,
+          "period": "Compromisso plurianual desde 2022; anúncio 2026-02-04",
+          "source": "https://www.apple.com/in/newsroom/2026/02/apple-launches-new-education-hub-for-supplier-employees-in-india/",
+          "verification": "declaração corporativa",
+          "limitation": "Não tratar compromisso de US$50 milhões como gasto anual realizado nem como folha dos empregados diretos."
+        },
+        {
+          "claim": "Relata entrevistas e pesquisas anônimas com trabalhadores fornecedores e programas de direitos, saúde e formação técnica.",
+          "text": null,
+          "period": "Dados publicados em 2026",
+          "source": "https://www.apple.com/supply-chain/",
+          "verification": "declaração corporativa",
+          "limitation": "Existência de canais não demonstra ausência de violações; fornecedor não é empregado direto da Apple."
+        }
+      ],
+      "worker_metrics": {
+        "satisfaction": null,
+        "internal_promotion_rate": null,
+        "training_spend": null,
+        "total_compensation": null
+      },
+      "social_spend_comparable": null,
+      "legal_cases": [
+        {
+          "case": "Restrições a direcionamento para ofertas externas da App Store",
+          "authority": "Comissão Europeia",
+          "event_date": "2025-04-23",
+          "status": "Decisão administrativa de descumprimento do Digital Markets Act; multa de EUR500 milhões.",
+          "finding": "Violação da obrigação de permitir direcionamento dos consumidores a ofertas alternativas.",
+          "source": "https://digital-strategy.ec.europa.eu/en/news/commission-finds-apple-and-meta-breach-digital-markets-act",
+          "limitation": "Desfecho recursal atualizado não verificado; não afirmar trânsito em julgado nem corrupção."
+        }
+      ],
+      "improvements": [
+        "Publicar despesas efetivamente executadas do fundo de trabalhadores, resultados de progressão, satisfação anônima e conclusão das correções na cadeia.",
+        "Ampliar reparabilidade, longevidade, acessibilidade cognitiva e opções de menor custo, com metas verificáveis por produto.",
+        "Tornar regras de distribuição e cobranças mais simples e previsíveis, com canal público de correção; apresentar relação entre recompra, melhoria do produto e retorno social."
+      ],
+      "public_contact": {
+        "email": null,
+        "type": "Relações com investidores — contato postal e telefone",
+        "source": "https://investor.apple.com/contact/",
+        "phone": "+1 408 974 3123",
+        "postal_address": "One Apple Park Way, MS 927-4INV, Cupertino, CA 95014, USA",
+        "verified_context": "A página oficial consultada não publica e-mail. Não substituir por endereço presumido do CEO.",
+        "is_ceo_direct": false
+      },
+      "gaps": [
+        "Despesa anual consolidada incremental com capacitação, bem-estar e progressão não isolada.",
+        "Índice global de satisfação com amostragem e verificação independente não confirmado.",
+        "Não há reconciliação pública encontrada entre lucro líquido e os quatro destinos 30/30/30/10.",
+        "Casos jurídicos selecionados; pesquisa não equivale a certidão de ausência de outros processos.",
+        "E-mail institucional adequado para sugestões ao CEO não confirmado; canal postal/telefone documentado.",
+        "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+        "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+      ],
+      "sources": [
+        {
+          "id": "appleAnnual",
+          "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+          "accessed_at": "2026-09-18",
+          "title": "Relatório anual — Apple"
+        },
+        {
+          "id": "appleESG",
+          "url": "https://www.apple.com/environment/pdf/Apple_Environmental_Progress_Report_2026.pdf",
+          "accessed_at": "2026-09-18",
+          "title": "Relatório socioambiental — Apple"
+        },
+        {
+          "id": "appleWorkers",
+          "url": "https://www.apple.com/supply-chain/",
+          "accessed_at": "2026-09-18",
+          "title": "Cadeia de fornecedores e trabalhadores — Apple"
+        },
+        {
+          "id": "appleEducation",
+          "url": "https://www.apple.com/in/newsroom/2026/02/apple-launches-new-education-hub-for-supplier-employees-in-india/",
+          "accessed_at": "2026-09-18",
+          "title": "Programa educacional — Apple"
+        },
+        {
+          "id": "appleLegal",
+          "url": "https://digital-strategy.ec.europa.eu/en/news/commission-finds-apple-and-meta-breach-digital-markets-act",
+          "accessed_at": "2026-09-18",
+          "title": "Documento da autoridade competente — Apple"
+        },
+        {
+          "id": "appleContact",
+          "url": "https://investor.apple.com/contact/",
+          "accessed_at": "2026-09-18",
+          "title": "Contato institucional — Apple"
+        },
+        {
+          "id": "appleCeo",
+          "url": "https://www.apple.com/leadership/john-ternus/",
+          "accessed_at": "2026-09-18",
+          "title": "Liderança executiva — Apple"
+        },
+        {
+          "id": "appleCeoChange",
+          "url": "https://www.apple.com/au/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+          "accessed_at": "2026-09-18",
+          "title": "Transição da liderança — Apple"
+        }
+      ],
+      "short_name": "Apple",
+      "market_rank": 2,
+      "market_cap_trillion": 4.918,
+      "assessment_summary": "A documentação permite examinar inovação e distribuição expressiva aos acionistas. A avaliação de conduta depende também de reparabilidade, acesso, cadeia de fornecedores e evolução dos casos regulatórios; o volume distribuído isolado não decide o julgamento.",
+      "ratings": {},
+      "review": {
+        "status": "partial",
+        "criticalIssuesResolved": false,
+        "date": "2026-09-18"
+      },
+      "honor_score": null,
+      "adherence_score": null,
+      "business_model_source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "fiscal_label": "FY2025",
+      "investment_evidence": [
+        {
+          "claim": "Compras de títulos negociáveis: US$24.407 milhões; vencimentos: US$40.907 milhões; vendas: US$12.890 milhões. O fluxo mostra resgate líquido de títulos, não apenas acumulação financeira. Carteira de títulos correntes e não correntes: US$96.486 milhões.",
+          "text": null,
+          "period": "2024-09-29/2025-09-27",
+          "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+          "verification": "Documento da empresa; escopo de verificação consultar fonte",
+          "limitation": null
+        }
+      ],
+      "cases": [
+        {
+          "claim": "Restrições a direcionamento para ofertas externas da App Store",
+          "text": "Decisão administrativa de descumprimento do Digital Markets Act; multa de EUR500 milhões.",
+          "period": "2025-04-23",
+          "source": "https://digital-strategy.ec.europa.eu/en/news/commission-finds-apple-and-meta-breach-digital-markets-act",
+          "verification": "Comissão Europeia",
+          "limitation": "Desfecho recursal atualizado não verificado; não afirmar trânsito em julgado nem corrupção."
+        }
+      ]
+    },
+    {
+      "id": "alphabet",
+      "name": "Alphabet Inc. (Google)",
+      "sector": "Plataformas e publicidade",
+      "country": "Estados Unidos",
+      "tickers": [
+        {
+          "exchange": "NASDAQ",
+          "symbol": "GOOGL",
+          "class": "A",
+          "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm"
+        },
+        {
+          "exchange": "NASDAQ",
+          "symbol": "GOOG",
+          "class": "C",
+          "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm"
+        }
+      ],
+      "ceo": {
+        "name": "Sundar Pichai",
+        "as_of": "2026-07-22",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm"
+      },
+      "business_model": "Publicidade em busca, YouTube e rede de parceiros; nuvem, assinaturas, plataformas, dispositivos e outros negócios.",
+      "fiscal_year": "FY2025",
+      "period": "2025-01-01/2025-12-31",
+      "revenue": {
+        "value": 402836,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "label": "Receita",
+        "note": null
+      },
+      "net_income": {
+        "value": 132170,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "label": "Lucro líquido GAAP",
+        "note": null
+      },
+      "capex": {
+        "value": 91447,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "label": "Compras de imobilizado e equipamentos",
+        "note": null
+      },
+      "research": {
+        "value": 61087,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "label": "Despesa de pesquisa e desenvolvimento",
+        "note": null
+      },
+      "dividends": {
+        "value": 10049,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "label": "Dividendos pagos",
+        "note": null
+      },
+      "buybacks": {
+        "value": 45709,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "label": "Recompras de ações — fluxo de caixa",
+        "note": null
+      },
+      "employees": {
+        "value": 190820,
+        "unit": "persons",
+        "period": "2025-12-31",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "label": "Empregados ao final do exercício"
+      },
+      "financial_investments": {
+        "text": "Compras de títulos negociáveis: US$103.773 milhões; vendas/vencimentos: US$83.240 milhões. Compras de títulos não negociáveis: US$5.716 milhões; resgates/vendas: US$1.367 milhões. Compras brutas não são alocação rastreada do lucro corrente.",
+        "period": "2025-01-01/2025-12-31",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "marketable_purchases": {
+          "value": 103773,
+          "currency": "USD",
+          "unit": "million",
+          "period": "2025-01-01/2025-12-31",
+          "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+          "label": "Compras brutas de títulos negociáveis",
+          "note": null
+        },
+        "nonmarketable_purchases": {
+          "value": 5716,
+          "currency": "USD",
+          "unit": "million",
+          "period": "2025-01-01/2025-12-31",
+          "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+          "label": "Compras de títulos não negociáveis",
+          "note": null
+        }
+      },
+      "social_environment": [
+        {
+          "claim": "Relatório 2026 declara contratação de mais de 12 GW de energia limpa e reposição equivalente a 78% do consumo de água doce em 2025.",
+          "text": null,
+          "period": "2025",
+          "source": "https://sustainability.google/google-2026-environmental-report/",
+          "verification": "declaração corporativa",
+          "limitation": "Contratação não equivale a energia já gerada; reposição global não elimina impacto local."
+        },
+        {
+          "claim": "Ferramentas de previsão de cheias cobriam população estimada de mais de 2 bilhões de pessoas em cerca de 150 países para eventos fluviais significativos.",
+          "text": null,
+          "period": "População estimada em julho de 2025",
+          "source": "https://sustainability.google/google-2026-environmental-report/",
+          "verification": "declaração corporativa baseada em modelagem",
+          "limitation": "Cobertura potencial não significa número de vidas salvas; não é gasto social."
+        },
+        {
+          "claim": "Emissões evitadas apresentadas pela empresa são estimativas contrafactuais, calculadas contra cenário sem as intervenções.",
+          "text": null,
+          "period": "2025",
+          "source": "https://sustainability.google/google-2026-environmental-report/",
+          "verification": "declaração corporativa; metodologia publicada",
+          "limitation": "Não subtrair automaticamente emissões evitadas das emissões reais nem contar como remoção de carbono."
+        }
+      ],
+      "worker": [
+        {
+          "claim": "Declara representação de empregados/conselhos laborais em certos países e compromisso com direitos laborais protegidos.",
+          "text": null,
+          "period": "2025",
+          "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+          "verification": "declaração no 10-K",
+          "limitation": "Política declarada não comprova execução; gastos incrementais e satisfação comparável não encontrados."
+        }
+      ],
+      "worker_metrics": {
+        "satisfaction": null,
+        "internal_promotion_rate": null,
+        "training_spend": null,
+        "total_compensation": null
+      },
+      "social_spend_comparable": null,
+      "legal_cases": [
+        {
+          "case": "Google Search — monopolização",
+          "authority": "Tribunal Distrital de Columbia / DOJ",
+          "event_date": "2025-09-02",
+          "status": "Remédios judiciais anunciados em setembro de 2025; 10-K registra julgamento final em dezembro de 2025 e recursos de Google em janeiro e DOJ/estados em fevereiro de 2026.",
+          "finding": "Restrições a exclusividade e obrigações de compartilhamento de dados/sindicação.",
+          "source": "https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google",
+          "additional_source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+          "limitation": "Não tratado como trânsito em julgado; andamento posterior dos recursos não conferido integralmente."
+        },
+        {
+          "case": "Google adtech — monopolização",
+          "authority": "Tribunal Distrital do Leste da Virgínia / DOJ",
+          "event_date": "2026-09-16",
+          "status": "DOJ anunciou decisão de remédios comportamentais em 16/09/2026, com interoperabilidade, não discriminação, exportação de dados e monitoramento por seis anos.",
+          "finding": "Decisão exige integração com soluções concorrentes e limita favorecimento dos próprios produtos.",
+          "source": "https://www.justice.gov/opa/pr/department-justice-again-wins-substantial-relief-against-google",
+          "limitation": "Fonte é a comunicação oficial da parte governamental; não afirmar trânsito em julgado, execução integral ou ausência de recursos."
+        }
+      ],
+      "improvements": [
+        "Divulgar verificações independentes de interoperabilidade, concorrência e execução dos remédios, com consulta a anunciantes e editores.",
+        "Publicar indicadores de redistribuição aos trabalhadores, requalificação diante da IA e evolução do emprego, incluindo prestadores terceirizados.",
+        "Vincular infraestrutura de IA a orçamento local de água/energia e programas de educação e acessibilidade, separando impacto observado de cobertura potencial ou simulações."
+      ],
+      "public_contact": {
+        "email": "investor-relations@abc.xyz",
+        "type": "Relações com investidores",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm",
+        "verified_context": "Release oficial de 22/07/2026; solicitar encaminhamento à liderança e sustentabilidade.",
+        "is_ceo_direct": false
+      },
+      "gaps": [
+        "Despesa anual consolidada incremental com capacitação, bem-estar e progressão não isolada.",
+        "Índice global de satisfação com amostragem e verificação independente não confirmado.",
+        "Não há reconciliação pública encontrada entre lucro líquido e os quatro destinos 30/30/30/10.",
+        "Casos jurídicos selecionados; pesquisa não equivale a certidão de ausência de outros processos.",
+        "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+        "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+      ],
+      "sources": [
+        {
+          "id": "googAnnual",
+          "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+          "accessed_at": "2026-09-18",
+          "title": "Relatório anual — Alphabet"
+        },
+        {
+          "id": "googESG",
+          "url": "https://sustainability.google/google-2026-environmental-report/",
+          "accessed_at": "2026-09-18",
+          "title": "Relatório socioambiental — Alphabet"
+        },
+        {
+          "id": "googESGBlog",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/2026-environmental-report/",
+          "accessed_at": "2026-09-18",
+          "title": "Apresentação do relatório ambiental — Alphabet"
+        },
+        {
+          "id": "googLegal",
+          "url": "https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google",
+          "accessed_at": "2026-09-18",
+          "title": "Documento da autoridade competente — Alphabet"
+        },
+        {
+          "id": "googLegalNew",
+          "url": "https://www.justice.gov/opa/pr/department-justice-again-wins-substantial-relief-against-google",
+          "accessed_at": "2026-09-18",
+          "title": "Nova decisão da autoridade competente — Alphabet"
+        },
+        {
+          "id": "googRecent",
+          "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm",
+          "accessed_at": "2026-09-18",
+          "title": "Resultados recentes — Alphabet"
+        }
+      ],
+      "short_name": "Alphabet",
+      "market_rank": 3,
+      "market_cap_trillion": 4.203,
+      "assessment_summary": "Pesquisa e infraestrutura coexistem com aplicações financeiras e questões concorrenciais documentadas. Acesso, efeitos da publicidade, trabalho e resultados sociais precisam de análise conjunta antes de uma nota.",
+      "ratings": {},
+      "review": {
+        "status": "partial",
+        "criticalIssuesResolved": false,
+        "date": "2026-09-18"
+      },
+      "honor_score": null,
+      "adherence_score": null,
+      "business_model_source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+      "fiscal_label": "FY2025",
+      "investment_evidence": [
+        {
+          "claim": "Compras de títulos negociáveis: US$103.773 milhões; vendas/vencimentos: US$83.240 milhões. Compras de títulos não negociáveis: US$5.716 milhões; resgates/vendas: US$1.367 milhões. Compras brutas não são alocação rastreada do lucro corrente.",
+          "text": null,
+          "period": "2025-01-01/2025-12-31",
+          "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+          "verification": "Documento da empresa; escopo de verificação consultar fonte",
+          "limitation": null
+        }
+      ],
+      "cases": [
+        {
+          "claim": "Google Search — monopolização",
+          "text": "Remédios judiciais anunciados em setembro de 2025; 10-K registra julgamento final em dezembro de 2025 e recursos de Google em janeiro e DOJ/estados em fevereiro de 2026.",
+          "period": "2025-09-02",
+          "source": "https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google",
+          "verification": "Tribunal Distrital de Columbia / DOJ",
+          "limitation": "Não tratado como trânsito em julgado; andamento posterior dos recursos não conferido integralmente."
+        },
+        {
+          "claim": "Google adtech — monopolização",
+          "text": "DOJ anunciou decisão de remédios comportamentais em 16/09/2026, com interoperabilidade, não discriminação, exportação de dados e monitoramento por seis anos.",
+          "period": "2026-09-16",
+          "source": "https://www.justice.gov/opa/pr/department-justice-again-wins-substantial-relief-against-google",
+          "verification": "Tribunal Distrital do Leste da Virgínia / DOJ",
+          "limitation": "Fonte é a comunicação oficial da parte governamental; não afirmar trânsito em julgado, execução integral ou ausência de recursos."
+        }
+      ]
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft Corporation",
+      "sector": "Software e nuvem",
+      "country": "Estados Unidos",
+      "tickers": [
+        {
+          "exchange": "NASDAQ",
+          "symbol": "MSFT",
+          "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm"
+        }
+      ],
+      "ceo": {
+        "name": "Satya Nadella",
+        "as_of": "2026-09-17",
+        "source": "https://news.microsoft.com/source/leadership"
+      },
+      "business_model": "Assinaturas e licenças de software, serviços de nuvem, publicidade, jogos, dispositivos e serviços empresariais.",
+      "fiscal_year": "FY2026",
+      "period": "2025-07-01/2026-06-30",
+      "revenue": {
+        "value": 331839,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-07-01/2026-06-30",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "label": "Receita",
+        "note": null
+      },
+      "net_income": {
+        "value": 133749,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-07-01/2026-06-30",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "label": "Lucro líquido GAAP",
+        "note": "Inclui efeitos de investimentos; não confundir com lucro operacional ou caixa."
+      },
+      "capex": {
+        "value": 115948,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-07-01/2026-06-30",
+        "source": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast",
+        "label": "Adições a imobilizado e equipamentos — caixa",
+        "note": "Coluna de 12 meses; não inclui todos os ativos obtidos por arrendamento financeiro. Release não auditado; 10-K anual também localizado."
+      },
+      "research": {
+        "value": 35562,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-07-01/2026-06-30",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "label": "Despesa de pesquisa e desenvolvimento",
+        "note": null
+      },
+      "dividends": {
+        "value": 26445,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-07-01/2026-06-30",
+        "source": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast",
+        "label": "Dividendos em dinheiro pagos",
+        "note": null
+      },
+      "buybacks": {
+        "value": 16719,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-07-01/2026-06-30",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "label": "Recompras pelo programa público",
+        "note": "Exclui ações retidas para impostos de empregados. Fluxo de caixa total de recompras é US$22.271 milhões; não comparar os dois conceitos indistintamente."
+      },
+      "buybacks_cash_flow": {
+        "value": 22271,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-07-01/2026-06-30",
+        "source": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast",
+        "label": "Total de recompras no fluxo de caixa",
+        "note": "Inclui retenções relacionadas a impostos de remuneração em ações."
+      },
+      "employees": {
+        "value": 223000,
+        "unit": "persons",
+        "period": "2026-06-30",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "label": "Empregados em tempo integral, aproximados"
+      },
+      "financial_investments": {
+        "text": "Compras de investimentos de US$58.351 milhões; vencimentos US$34.605 milhões e vendas US$21.798 milhões. Aplicações de curto prazo totalizavam US$55.908 milhões no encerramento. Ganhos de investimento podem alterar o lucro sem equivaler a caixa livre.",
+        "period": "2025-07-01/2026-06-30",
+        "source": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast",
+        "marketable_purchases": {
+          "value": 58351,
+          "currency": "USD",
+          "unit": "million",
+          "period": "2025-07-01/2026-06-30",
+          "source": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast",
+          "label": "Compras de investimentos — rubrica consolidada",
+          "note": null
+        }
+      },
+      "social_environment": [
+        {
+          "claim": "Relatório ambiental 2026 cobre FY2025 e reconhece aumento de 25% nas emissões totais de escopos 1, 2 e 3; atribui-o à expansão de datacenters e mudança no uso de certificados de energia.",
+          "text": null,
+          "period": "FY2025",
+          "source": "https://blogs.microsoft.com/on-the-issues/2026/07/09/responsibly-building-the-ai-future/",
+          "verification": "declaração corporativa",
+          "limitation": "Indicador ambiental refere-se a FY2025, não FY2026 financeiro. Não comparar sem identificar essa defasagem."
+        },
+        {
+          "claim": "Declara reposição global de água superior ao volume retirado e 92% de reutilização/reciclagem de hardware de nuvem desativado.",
+          "text": null,
+          "period": "FY2025",
+          "source": "https://www.microsoft.com/en-us/corporate-responsibility/topics/sustainability/report/",
+          "verification": "declaração corporativa",
+          "limitation": "Saldo global de água não comprova compensação no mesmo local e momento; asseguração detalhada não revisada nesta etapa."
+        },
+        {
+          "claim": "Informa mais de US$88 milhões combinados de empresa e empregados para ONGs de Washington em 2025.",
+          "text": null,
+          "period": "2025",
+          "source": "https://www.microsoft.com/en-us/corporate-responsibility/topics/sustainability/report/",
+          "verification": "declaração corporativa",
+          "limitation": "Dado regional e combinado; não é total mundial de filantropia corporativa."
+        }
+      ],
+      "worker": [
+        {
+          "claim": "O 10-K informa 223 mil empregados em tempo integral, incluindo 77 mil em pesquisa e desenvolvimento.",
+          "text": null,
+          "period": "2026-06-30",
+          "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+          "verification": "declaração no 10-K",
+          "limitation": "Quantidade e atividade não demonstram satisfação, estabilidade ou distribuição equitativa dos benefícios."
+        }
+      ],
+      "worker_metrics": {
+        "satisfaction": null,
+        "internal_promotion_rate": null,
+        "training_spend": null,
+        "total_compensation": null
+      },
+      "social_spend_comparable": null,
+      "legal_cases": [
+        {
+          "case": "Microsoft Teams — AT.40721 e AT.40873",
+          "authority": "Comissão Europeia",
+          "event_date": "2025-09-12",
+          "status": "Compromissos tornados vinculantes para endereçar preocupações concorrenciais sobre venda conjunta e interoperabilidade.",
+          "finding": "Obrigações incluem suítes sem Teams, interoperabilidade e portabilidade; monitoramento independente previsto.",
+          "source": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C_202506579",
+          "limitation": "Decisão de compromissos sobre preocupações concorrenciais; não apresentar como condenação criminal nem como prova de corrupção."
+        }
+      ],
+      "improvements": [
+        "Publicar orçamento e resultados da transição de trabalhadores afetados pela IA: requalificação, recolocação e mobilidade interna, com participação dos empregados.",
+        "Associar expansão dos datacenters a metas locais de energia limpa, água e benefícios comunitários; divulgar impacto absoluto junto da eficiência.",
+        "Simplificar licenciamento, interoperabilidade e acessibilidade cognitiva, com métricas de tempo para realizar tarefas e mecanismo verificável de reclamação."
+      ],
+      "public_contact": {
+        "email": "msft@microsoft.com",
+        "type": "Relações com investidores",
+        "source": "https://www.microsoft.com/en-us/investor/contact-information",
+        "verified_context": "Página oficial publica o endereço para questões financeiras/ações; pedir encaminhamento à sustentabilidade e liderança.",
+        "is_ceo_direct": false
+      },
+      "gaps": [
+        "Despesa anual consolidada incremental com capacitação, bem-estar e progressão não isolada.",
+        "Índice global de satisfação com amostragem e verificação independente não confirmado.",
+        "Não há reconciliação pública encontrada entre lucro líquido e os quatro destinos 30/30/30/10.",
+        "Casos jurídicos selecionados; pesquisa não equivale a certidão de ausência de outros processos.",
+        "Relatório ambiental disponível cobre FY2025, enquanto os números financeiros são FY2026.",
+        "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+        "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+      ],
+      "sources": [
+        {
+          "id": "msftAnnual",
+          "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+          "accessed_at": "2026-09-18",
+          "title": "Relatório anual — Microsoft"
+        },
+        {
+          "id": "msftRelease",
+          "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast",
+          "accessed_at": "2026-09-18",
+          "title": "Comunicado de resultados — Microsoft"
+        },
+        {
+          "id": "msftESG",
+          "url": "https://blogs.microsoft.com/on-the-issues/2026/07/09/responsibly-building-the-ai-future/",
+          "accessed_at": "2026-09-18",
+          "title": "Relatório socioambiental — Microsoft"
+        },
+        {
+          "id": "msftESGHome",
+          "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/sustainability/report/",
+          "accessed_at": "2026-09-18",
+          "title": "Relatórios de sustentabilidade — Microsoft"
+        },
+        {
+          "id": "msftLegal",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C_202506579",
+          "accessed_at": "2026-09-18",
+          "title": "Documento da autoridade competente — Microsoft"
+        },
+        {
+          "id": "msftContact",
+          "url": "https://www.microsoft.com/en-us/investor/contact-information",
+          "accessed_at": "2026-09-18",
+          "title": "Contato institucional — Microsoft"
+        },
+        {
+          "id": "msftCeo",
+          "url": "https://news.microsoft.com/source/leadership",
+          "accessed_at": "2026-09-18",
+          "title": "Liderança executiva — Microsoft"
+        }
+      ],
+      "short_name": "Microsoft",
+      "market_rank": 4,
+      "market_cap_trillion": 3.696,
+      "assessment_summary": "Pesquisa e infraestrutura têm escala relevante; há iniciativas declaradas de qualificação e ambiente. Períodos ambientais e financeiros diferem, e os efeitos da expansão de IA sobre emprego e recursos naturais precisam de métricas comparáveis.",
+      "ratings": {},
+      "review": {
+        "status": "partial",
+        "criticalIssuesResolved": false,
+        "date": "2026-09-18"
+      },
+      "honor_score": null,
+      "adherence_score": null,
+      "business_model_source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "fiscal_label": "FY2026",
+      "investment_evidence": [
+        {
+          "claim": "Compras de investimentos de US$58.351 milhões; vencimentos US$34.605 milhões e vendas US$21.798 milhões. Aplicações de curto prazo totalizavam US$55.908 milhões no encerramento. Ganhos de investimento podem alterar o lucro sem equivaler a caixa livre.",
+          "text": null,
+          "period": "2025-07-01/2026-06-30",
+          "source": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast",
+          "verification": "Documento da empresa; escopo de verificação consultar fonte",
+          "limitation": null
+        }
+      ],
+      "cases": [
+        {
+          "claim": "Microsoft Teams — AT.40721 e AT.40873",
+          "text": "Compromissos tornados vinculantes para endereçar preocupações concorrenciais sobre venda conjunta e interoperabilidade.",
+          "period": "2025-09-12",
+          "source": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C_202506579",
+          "verification": "Comissão Europeia",
+          "limitation": "Decisão de compromissos sobre preocupações concorrenciais; não apresentar como condenação criminal nem como prova de corrupção."
+        }
+      ]
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon.com, Inc.",
+      "sector": "Varejo e nuvem",
+      "country": "Estados Unidos",
+      "tickers": [
+        {
+          "exchange": "NASDAQ",
+          "symbol": "AMZN",
+          "source": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/"
+        }
+      ],
+      "ceo": {
+        "name": "Andy Jassy",
+        "as_of": "2026-02-05",
+        "source": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/"
+      },
+      "business_model": "Venda de produtos; comissões, logística e serviços a vendedores; assinaturas; publicidade; infraestrutura AWS. Lucro operacional segmentado difere do lucro líquido consolidado.",
+      "revenue": {
+        "value": 716924,
+        "period": "2025-01-01/2025-12-31",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/",
+        "definition": "Vendas líquidas anuais"
+      },
+      "net_income": {
+        "value": 77670,
+        "period": "2025-01-01/2025-12-31",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/",
+        "definition": "Lucro líquido GAAP"
+      },
+      "capex": {
+        "value": 131819,
+        "period": "2025-01-01/2025-12-31",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/",
+        "definition": "Compras brutas de imobilizado em caixa",
+        "net_of_sales_and_incentives": 128320,
+        "net_definition": "131819 menos 3499 de vendas e incentivos; não inclui amortização de arrendamentos financeiros"
+      },
+      "research": {
+        "value": null,
+        "period": "2025-01-01/2025-12-31",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://s2.q4cdn.com/299287126/files/doc_financials/2026/ar/Amazon-2025-Annual-Report.pdf",
+        "definition": "P&D puro não segregado nesta coleta",
+        "proxy": {
+          "value": 108521,
+          "currency": "USD",
+          "unit": "million",
+          "definition": "Technology and infrastructure",
+          "warning": "Rubrica ampla inclui infraestrutura, depreciação, manutenção, pessoal e P&D. Não usar como P&D puro.",
+          "source": "https://s2.q4cdn.com/299287126/files/doc_financials/2026/ar/Amazon-2025-Annual-Report.pdf"
+        }
+      },
+      "dividends": {
+        "value": 0,
+        "period": "2025-01-01/2025-12-31",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://s2.q4cdn.com/299287126/files/doc_financials/2026/ar/Amazon-2025-Annual-Report.pdf",
+        "definition": "Dividendos em dinheiro no exercício",
+        "evidence_note": "Nenhum dividendo consta da demonstração anual de fluxos de financiamento; rubricas reconciliam ao total.",
+        "evidence_type": "extração das demonstrações financeiras"
+      },
+      "buybacks": {
+        "value": 0,
+        "period": "2025-01-01/2025-12-31",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://s2.q4cdn.com/299287126/files/doc_financials/2026/ar/Amazon-2025-Annual-Report.pdf",
+        "definition": "Recompras de ações próprias",
+        "evidence_note": "Nota Stock Repurchase Activity declara inexistência em 2023, 2024 e 2025."
+      },
+      "employees": {
+        "value": 1576000,
+        "period": "2025-12-31",
+        "currency": null,
+        "unit": "pessoas",
+        "source": "https://s2.q4cdn.com/299287126/files/doc_financials/2026/ar/Amazon-2025-Annual-Report.pdf",
+        "definition": "Empregados em tempo integral e parcial, aproximadamente; não inclui integralmente contratados independentes"
+      },
+      "operating_cash_flow": {
+        "value": 139514,
+        "period": "2025-01-01/2025-12-31",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/",
+        "definition": "Fluxo de caixa operacional"
+      },
+      "financial_investments": {
+        "evidence": [
+          {
+            "claim": "Compras de títulos negociáveis: US$54.770 milhões; vendas/vencimentos: US$44.386 milhões; fluxo líquido calculado: US$10.384 milhões.",
+            "period": "2025",
+            "source": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/",
+            "verification": "demonstração financeira",
+            "limitations": null
+          },
+          {
+            "claim": "Investimento em notas conversíveis Anthropic de US$2.700 milhões em 2025; existe também vínculo comercial com AWS.",
+            "period": "2025",
+            "source": "https://s2.q4cdn.com/299287126/files/doc_financials/2026/ar/Amazon-2025-Annual-Report.pdf",
+            "verification": "relatório anual",
+            "limitations": null
+          },
+          {
+            "claim": "Receita de juros US$4.381 milhões; outros resultados líquidos US$15.229 milhões, com efeitos relevantes de reavaliação/conversão Anthropic.",
+            "period": "2025",
+            "source": "https://s2.q4cdn.com/299287126/files/doc_financials/2026/ar/Amazon-2025-Annual-Report.pdf",
+            "verification": "demonstração financeira",
+            "limitations": null
+          }
+        ],
+        "speculative_profit_allocation_pct": null,
+        "classification": "Tesouraria e participações com vínculo estratégico identificado; fração puramente especulativa não demonstrada.",
+        "contradictory_review": "A presença de títulos e ganhos financeiros não prova abandono de produtos: também há investimento operacional substancial. Reavaliação contábil não é caixa distribuível. Compra bruta de títulos não pode ser tratada como percentual do lucro desviado."
+      },
+      "social_environment": [
+        {
+          "claim": "Relata correspondência de 100% do consumo de eletricidade com fontes renováveis em 2025; emissões absolutas aumentaram 16% frente a 2024.",
+          "text": null,
+          "period": "2025",
+          "source": "https://sustainability.aboutamazon.com/2025-report",
+          "verification": "autorrelato empresarial",
+          "limitation": "Correspondência anual contratual não prova operação física sem carbono 24 horas/dia; asseguração de cada métrica não conferida."
+        },
+        {
+          "claim": "Relata US$11,3 bilhões de benefícios a empregados em 61 países, US$1,2 bilhão de aumento incremental de remuneração na operação dos EUA e US$500 milhões de reajustes internacionais.",
+          "text": null,
+          "period": "2025",
+          "source": "https://sustainability.aboutamazon.com/2025-report",
+          "verification": "autorrelato empresarial",
+          "limitation": "Não corresponde automaticamente a despesas extras pós-lucro; evitar dupla contagem com folha e custos."
+        }
+      ],
+      "worker": [
+        {
+          "claim": "Relata melhora de 14% anual na taxa global de lesões registráveis e de afastamento; mais de US$2,5 bilhões em segurança desde 2019.",
+          "text": null,
+          "period": "2025 e acumulado desde 2019",
+          "source": "https://www.aboutamazon.com/news/workplace/amazon-workplace-safety-2025-injury-reduction",
+          "verification": "autorrelato empresarial",
+          "limitation": "Montante acumulado não deve ser dividido pelo lucro de apenas 2025; comparação exige denominadores e cobertura equivalentes."
+        },
+        {
+          "claim": "Acordo OSHA de dezembro de 2024 exige programa corporativo de ergonomia e prevê penalidade de US$145 mil.",
+          "text": null,
+          "period": "2024-12-19",
+          "source": "https://www.dol.gov/newsroom/releases/osha/osha20241219",
+          "verification": "regulador público",
+          "limitation": "Obrigação contratual não demonstra implementação integral; verificar acompanhamento."
+        },
+        {
+          "claim": "Pesquisa representativa independente, metodologia e resultado não localizados nesta coleta.",
+          "text": null,
+          "period": null,
+          "source": null,
+          "verification": "Documento da empresa; escopo de verificação consultar fonte",
+          "limitation": null
+        },
+        {
+          "claim": "Taxa consolidada comparável não localizada.",
+          "text": null,
+          "period": null,
+          "source": null,
+          "verification": "Documento da empresa; escopo de verificação consultar fonte",
+          "limitation": null
+        }
+      ],
+      "legal_cases": [
+        {
+          "case": "FTC — inscrição/cancelamento Amazon Prime",
+          "regulator": "Federal Trade Commission (EUA)",
+          "event_date": "2025-09-25",
+          "status": "Acordo judicial anunciado: US$1 bilhão de penalidade civil e US$1,5 bilhão para restituição; obrigações sobre adesão/cancelamento.",
+          "source": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-secures-historic-25-billion-settlement-against-amazon",
+          "classification": "acordo",
+          "caution": "Não descrever como condenação criminal nem supor admissão de todas as alegações; execução de pagamentos não verificada integralmente até a data-corte."
+        },
+        {
+          "case": "OSHA — ergonomia",
+          "regulator": "Occupational Safety and Health Administration / Department of Labor (EUA)",
+          "event_date": "2024-12-19",
+          "status": "Acordo corporativo para resolver múltiplos casos de ergonomia; programa, inspeções e penalidade previstos.",
+          "source": "https://www.dol.gov/newsroom/releases/osha/osha20241219",
+          "classification": "acordo",
+          "caution": "Não equivale a comprovação de cumprimento integral."
+        }
+      ],
+      "improvements": [
+        "Publicar painel de segurança por unidade e vínculo, com denominadores, lesões musculoesqueléticas, auditoria independente, acompanhamento do acordo OSHA e participação de trabalhadores.",
+        "Separar publicamente despesas recorrentes, reinvestimento adicional, reparação, doações e tesouraria; conciliar cada rubrica às demonstrações anuais.",
+        "Ampliar simplificação de cancelamento/assinaturas e atendimento humano; ligar expansão de IA e logística a metas de emissões absolutas, água local e requalificação com manutenção da renda."
+      ],
+      "public_contact": {
+        "email": "amazon-ir@amazon.com",
+        "type": "Relações com investidores",
+        "source": "https://ir.aboutamazon.com/contact-us-and-request-documents/",
+        "is_ceo_direct": false,
+        "sending_note": "Canal público institucional; solicitar encaminhamento a sustentabilidade, pessoas e diretoria. Entrega ao CEO não garantida."
+      },
+      "sources": [
+        {
+          "id": "amazonAnnual",
+          "url": "https://s2.q4cdn.com/299287126/files/doc_financials/2026/ar/Amazon-2025-Annual-Report.pdf",
+          "accessed_at": "2026-09-18",
+          "title": "Relatório anual — Amazon"
+        },
+        {
+          "id": "amazonEarnings",
+          "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/",
+          "accessed_at": "2026-09-18",
+          "title": "Resultados financeiros — Amazon"
+        },
+        {
+          "id": "amazonSust",
+          "url": "https://sustainability.aboutamazon.com/2025-report",
+          "accessed_at": "2026-09-18",
+          "title": "Sustentabilidade — Amazon"
+        },
+        {
+          "id": "amazonSafety",
+          "url": "https://www.aboutamazon.com/news/workplace/amazon-workplace-safety-2025-injury-reduction",
+          "accessed_at": "2026-09-18",
+          "title": "Segurança no trabalho — Amazon"
+        },
+        {
+          "id": "amazonFTC",
+          "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-secures-historic-25-billion-settlement-against-amazon",
+          "accessed_at": "2026-09-18",
+          "title": "Documento da FTC — Amazon"
+        },
+        {
+          "id": "amazonOSHA",
+          "url": "https://www.dol.gov/newsroom/releases/osha/osha20241219",
+          "accessed_at": "2026-09-18",
+          "title": "Documento de segurança ocupacional — Amazon"
+        },
+        {
+          "id": "amazonContact",
+          "url": "https://ir.aboutamazon.com/contact-us-and-request-documents/",
+          "accessed_at": "2026-09-18",
+          "title": "Contato institucional — Amazon"
+        }
+      ],
+      "assessment": {
+        "status": "Dossiê preliminar; sem pontuação de índole",
+        "ranking": null,
+        "confidence": "Alta nos valores financeiros extraídos; parcial nas narrativas e resultados sociais",
+        "remaining_gaps": [
+          "Destinação exata do lucro",
+          "Satisfação dos empregados",
+          "Promoções internas",
+          "Resultado independente dos projetos sociais",
+          "Verificação completa de cumprimento dos acordos",
+          "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+          "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+        ]
+      },
+      "short_name": "Amazon",
+      "market_rank": 5,
+      "market_cap_trillion": 2.709,
+      "assessment_summary": "O exercício não apresentou dividendos nem recompras, mas isso não demonstra por si boa conduta. Segurança no trabalho, consumo, emissões absolutas e cumprimento de acordos são pontos essenciais da avaliação.",
+      "ratings": {},
+      "review": {
+        "status": "partial",
+        "criticalIssuesResolved": false,
+        "date": "2026-09-18"
+      },
+      "honor_score": null,
+      "adherence_score": null,
+      "fiscal_label": "FY2025",
+      "investment_evidence": [
+        {
+          "claim": "Compras de títulos negociáveis: US$54.770 milhões; vendas/vencimentos: US$44.386 milhões; fluxo líquido calculado: US$10.384 milhões.",
+          "text": null,
+          "period": "2025",
+          "source": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/",
+          "verification": "demonstração financeira",
+          "limitation": null
+        },
+        {
+          "claim": "Investimento em notas conversíveis Anthropic de US$2.700 milhões em 2025; existe também vínculo comercial com AWS.",
+          "text": null,
+          "period": "2025",
+          "source": "https://s2.q4cdn.com/299287126/files/doc_financials/2026/ar/Amazon-2025-Annual-Report.pdf",
+          "verification": "relatório anual",
+          "limitation": null
+        },
+        {
+          "claim": "Receita de juros US$4.381 milhões; outros resultados líquidos US$15.229 milhões, com efeitos relevantes de reavaliação/conversão Anthropic.",
+          "text": null,
+          "period": "2025",
+          "source": "https://s2.q4cdn.com/299287126/files/doc_financials/2026/ar/Amazon-2025-Annual-Report.pdf",
+          "verification": "demonstração financeira",
+          "limitation": null
+        },
+        {
+          "claim": "Tesouraria e participações com vínculo estratégico identificado; fração puramente especulativa não demonstrada.",
+          "text": null,
+          "period": null,
+          "source": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/",
+          "verification": "Interpretação documental",
+          "limitation": null
+        },
+        {
+          "claim": "A presença de títulos e ganhos financeiros não prova abandono de produtos: também há investimento operacional substancial. Reavaliação contábil não é caixa distribuível. Compra bruta de títulos não pode ser tratada como percentual do lucro desviado.",
+          "text": null,
+          "period": null,
+          "source": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/",
+          "verification": "Interpretação documental",
+          "limitation": null
+        }
+      ],
+      "cases": [
+        {
+          "claim": "FTC — inscrição/cancelamento Amazon Prime",
+          "text": "Acordo judicial anunciado: US$1 bilhão de penalidade civil e US$1,5 bilhão para restituição; obrigações sobre adesão/cancelamento.",
+          "period": "2025-09-25",
+          "source": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-secures-historic-25-billion-settlement-against-amazon",
+          "verification": "Federal Trade Commission (EUA)",
+          "limitation": "Não descrever como condenação criminal nem supor admissão de todas as alegações; execução de pagamentos não verificada integralmente até a data-corte."
+        },
+        {
+          "claim": "OSHA — ergonomia",
+          "text": "Acordo corporativo para resolver múltiplos casos de ergonomia; programa, inspeções e penalidade previstos.",
+          "period": "2024-12-19",
+          "source": "https://www.dol.gov/newsroom/releases/osha/osha20241219",
+          "verification": "Occupational Safety and Health Administration / Department of Labor (EUA)",
+          "limitation": "Não equivale a comprovação de cumprimento integral."
+        }
+      ],
+      "gaps": [
+        "Destinação exata do lucro",
+        "Satisfação dos empregados",
+        "Promoções internas",
+        "Resultado independente dos projetos sociais",
+        "Verificação completa de cumprimento dos acordos",
+        "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+        "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+      ]
+    },
+    {
+      "id": "tsmc",
+      "name": "Taiwan Semiconductor Manufacturing Company Limited (TSMC)",
+      "sector": "Semicondutores",
+      "country": "Taiwan",
+      "tickers": [
+        {
+          "exchange": "TWSE",
+          "symbol": "2330",
+          "url": "https://investor.tsmc.com/static/annualReports/2025/english/index.html",
+          "source": "https://investor.tsmc.com/static/annualReports/2025/english/index.html"
+        },
+        {
+          "exchange": "NYSE",
+          "symbol": "TSM",
+          "instrument": "ADS",
+          "url": "https://investor.tsmc.com/static/annualReports/2025/english/index.html",
+          "source": "https://investor.tsmc.com/static/annualReports/2025/english/index.html"
+        }
+      ],
+      "ceo": {
+        "name": "C. C. Wei",
+        "role": "Chairman e CEO",
+        "url": "https://investor.tsmc.com/static/annualReports/2025/english/index.html",
+        "source": "https://investor.tsmc.com/static/annualReports/2025/english/index.html",
+        "as_of": "2026-09-17"
+      },
+      "business_model": "Fabricação e encapsulamento de chips concebidos por clientes; receita por serviços de foundry. A proposta comercial é a produção sob encomenda, sem marca própria de chips concorrentes dos clientes.",
+      "revenue": {
+        "value": 3809054.272,
+        "currency": "TWD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+        "note": "Receita líquida consolidada; documento original em milhares de TWD.",
+        "source": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf"
+      },
+      "net_income": {
+        "value": 1715396.78,
+        "currency": "TWD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+        "note": "Lucro líquido CONSOLIDADO. Atribuível aos acionistas da controladora: TWD 1.717.882,627 milhões. Não trocar os denominadores silenciosamente.",
+        "source": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf"
+      },
+      "capex": {
+        "value": 1272410.529,
+        "currency": "TWD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+        "note": "Aquisição de imobilizado paga em caixa; não igual a adições contábeis.",
+        "source": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf"
+      },
+      "research": {
+        "value": 246427.264,
+        "currency": "TWD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+        "note": "Despesa de pesquisa e desenvolvimento, deduzida antes do lucro líquido.",
+        "source": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf"
+      },
+      "dividends": {
+        "value": 466779.199,
+        "currency": "TWD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+        "note": "Dividendos pagos em caixa no exercício; podem decorrer de lucros de períodos anteriores.",
+        "source": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf"
+      },
+      "buybacks": {
+        "value": 0,
+        "currency": "TWD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+        "note": "Nenhuma aquisição de ações em tesouraria na demonstração de fluxo de caixa de 2025.",
+        "source": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf"
+      },
+      "employees": {
+        "value": 90557,
+        "currency": null,
+        "unit": "people",
+        "period": "2025-12-31",
+        "url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20Annual%20Report.E.pdf",
+        "note": "Quadro global; dado de pessoas autorrelatado, não confundir com auditoria das demonstrações financeiras.",
+        "source": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20Annual%20Report.E.pdf"
+      },
+      "financial_investments": {
+        "evidence": [
+          {
+            "value": 260.086,
+            "currency": "TWD",
+            "unit": "million",
+            "period": "2025-01-01/2025-12-31",
+            "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+            "note": "Aquisições de instrumentos a valor justo no resultado."
+          },
+          {
+            "value": 66823.227,
+            "currency": "TWD",
+            "unit": "million",
+            "period": "2025-01-01/2025-12-31",
+            "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+            "note": "Aquisições de ativos a valor justo em outros resultados abrangentes."
+          },
+          {
+            "value": 188288.632,
+            "currency": "TWD",
+            "unit": "million",
+            "period": "2025-01-01/2025-12-31",
+            "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+            "note": "Aquisições de ativos ao custo amortizado."
+          },
+          {
+            "value": 218256.133,
+            "currency": "TWD",
+            "unit": "million",
+            "period": "2025-01-01/2025-12-31",
+            "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+            "note": "Resgates/vendas das duas categorias anteriores; soma derivada de 80.052,393 e 138.203,740."
+          }
+        ],
+        "interpretation": "Há aplicações financeiras relevantes. A política declarada prioriza principal, liquidez e grau de investimento; hedges são apresentados separadamente. O registro contábil não demonstra que toda aplicação visa especulação, nem que foi financiada exclusivamente pelo lucro de 2025.",
+        "policy_url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20Annual%20Report.E.pdf",
+        "profit_allocation_percentage": null
+      },
+      "worker": [
+        {
+          "claim": "Benefícios de empregados reconhecidos em custos/despesas; não soma adicional ao destino do lucro. Valor: TWD 396.114,889 milhões.",
+          "text": null,
+          "period": "2025-01-01/2025-12-31",
+          "source": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+          "verification": "Documento da empresa; escopo de verificação consultar fonte",
+          "limitation": null
+        },
+        {
+          "claim": "Participação de empregados no resultado de 2025 aprovada em fevereiro de 2026, com pagamento previsto em julho de 2026; não afirmar desembolso em 2025. Valor: TWD 103.072,958 milhões.",
+          "text": null,
+          "period": "2025-01-01/2025-12-31",
+          "source": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20Annual%20Report.E.pdf",
+          "verification": "Documento da empresa; escopo de verificação consultar fonte",
+          "limitation": null
+        },
+        {
+          "claim": "Bônus de desempenho de negócio pago trimestralmente em 2025. Valor: TWD 103.072,958 milhões.",
+          "text": null,
+          "period": "2025-01-01/2025-12-31",
+          "source": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20Annual%20Report.E.pdf",
+          "verification": "Documento da empresa; escopo de verificação consultar fonte",
+          "limitation": null
+        },
+        {
+          "claim": "Taxa de RESPOSTA da pesquisa de experiência de 2025. Não é índice de satisfação. Valor:  88 %.",
+          "text": null,
+          "period": "2025-01-01/2025-12-31",
+          "source": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20Annual%20Report.E.pdf",
+          "verification": "Documento da empresa; escopo de verificação consultar fonte",
+          "limitation": null
+        }
+      ],
+      "social_environment": [
+        {
+          "claim": "Relata iniciativas de água de reúso, biodiversidade, segurança de contratados, educação científica e políticas parentais.",
+          "text": null,
+          "period": null,
+          "source": "https://esg.tsmc.com.tw/robots.txt/articles/414",
+          "verification": "autorrelato",
+          "limitation": null
+        },
+        {
+          "claim": "Meta RE100 em 2040 e emissões líquidas zero em 2050 são compromissos futuros, não resultados já atingidos.",
+          "text": null,
+          "period": null,
+          "source": "https://pr.tsmc.com/english/news/3227",
+          "verification": "compromisso",
+          "limitation": null
+        }
+      ],
+      "legal_cases": [
+        {
+          "agency": "USITC",
+          "case": "337-TA-1443",
+          "subject": "Alegações de infração de patentes em dispositivos semicondutores.",
+          "status": "Encerrada integralmente por acordo; decisão da Comissão de 03/09/2026 não revisar a Order 77. Não é condenação de mérito por corrupção ou prova de culpa.",
+          "status_date": "2026-09-03",
+          "url": "https://www.usitc.gov/secretary/fed_reg_notices/337/337_1443_notice09032026sgl.pdf",
+          "penalty": null,
+          "limits": "Esta fonte encerra a investigação USITC. Não pressupõe o estado de todo processo judicial correlato."
+        }
+      ],
+      "improvements": [
+        "Publicar orçamento adicional de qualificação e bem-estar, satisfação anonimizada, promoção interna e resultados de realocação após automação.",
+        "Vincular gastos ambientais a bacias hídricas e comunidades afetadas, com resultados absolutos e verificação externa.",
+        "Conciliar anualmente custos operacionais, investimento produtivo, dividendos, caixa e aplicações financeiras, separando sua finalidade e período."
+      ],
+      "public_contact": {
+        "email": "invest@tsmc.com",
+        "channel": "Relações com investidores; solicitar encaminhamento à liderança de sustentabilidade e pessoas.",
+        "url": "https://investor.tsmc.com/english",
+        "ceo_direct_email": null,
+        "source": "https://investor.tsmc.com/english",
+        "type": "Relações com investidores; solicitar encaminhamento à liderança de sustentabilidade e pessoas."
+      },
+      "critical_limits": [
+        "Moeda TWD: não comparar números brutos com USD.",
+        "Pesquisa de experiência: 88% é participação, não satisfação.",
+        "Não há percentual comprovado de lucro destinado ao modelo 30/30/30/10.",
+        "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+        "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+      ],
+      "sources": [
+        {
+          "id": "T1",
+          "title": "Demonstrações financeiras consolidadas 2025",
+          "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+          "type": "demonstração financeira auditada",
+          "accessed": "2026-09-17",
+          "accessed_at": "2026-09-18"
+        },
+        {
+          "id": "T2",
+          "title": "Relatório anual 2025",
+          "url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20Annual%20Report.E.pdf",
+          "type": "relatório corporativo",
+          "accessed": "2026-09-17",
+          "accessed_at": "2026-09-18"
+        },
+        {
+          "id": "T3",
+          "title": "Relatório de sustentabilidade 2025 — anúncio de 20/08/2026",
+          "url": "https://esg.tsmc.com.tw/robots.txt/articles/414",
+          "type": "autorrelato",
+          "accessed": "2026-09-17",
+          "accessed_at": "2026-09-18"
+        },
+        {
+          "id": "T4",
+          "title": "USITC: encerramento por acordo em 03/09/2026",
+          "url": "https://www.usitc.gov/secretary/fed_reg_notices/337/337_1443_notice09032026sgl.pdf",
+          "type": "regulador",
+          "accessed": "2026-09-17",
+          "accessed_at": "2026-09-18"
+        },
+        {
+          "id": "T5",
+          "title": "Investor Relations TSMC",
+          "url": "https://investor.tsmc.com/english",
+          "type": "contato oficial",
+          "accessed": "2026-09-17",
+          "accessed_at": "2026-09-18"
+        }
+      ],
+      "short_name": "TSMC",
+      "market_rank": 6,
+      "market_cap_trillion": 2.231,
+      "assessment_summary": "O negócio intensivo em fabricação apresenta investimento em ativos e remuneração variável documentados. O percentual de respostas à pesquisa de pessoal não é satisfação; água, cadeia e execução dos projetos ainda precisam de verificação.",
+      "ratings": {},
+      "review": {
+        "status": "partial",
+        "criticalIssuesResolved": false,
+        "date": "2026-09-18"
+      },
+      "honor_score": null,
+      "adherence_score": null,
+      "fiscal_label": "FY2025",
+      "investment_evidence": [
+        {
+          "claim": "Aquisições de instrumentos a valor justo no resultado. Valor: TWD 260,086 milhões.",
+          "text": null,
+          "period": "2025-01-01/2025-12-31",
+          "source": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+          "verification": "Documento da empresa; escopo de verificação consultar fonte",
+          "limitation": null
+        },
+        {
+          "claim": "Aquisições de ativos a valor justo em outros resultados abrangentes. Valor: TWD 66.823,227 milhões.",
+          "text": null,
+          "period": "2025-01-01/2025-12-31",
+          "source": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+          "verification": "Documento da empresa; escopo de verificação consultar fonte",
+          "limitation": null
+        },
+        {
+          "claim": "Aquisições de ativos ao custo amortizado. Valor: TWD 188.288,632 milhões.",
+          "text": null,
+          "period": "2025-01-01/2025-12-31",
+          "source": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+          "verification": "Documento da empresa; escopo de verificação consultar fonte",
+          "limitation": null
+        },
+        {
+          "claim": "Resgates/vendas das duas categorias anteriores; soma derivada de 80.052,393 e 138.203,740. Valor: TWD 218.256,133 milhões.",
+          "text": null,
+          "period": "2025-01-01/2025-12-31",
+          "source": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+          "verification": "Documento da empresa; escopo de verificação consultar fonte",
+          "limitation": null
+        },
+        {
+          "claim": "Há aplicações financeiras relevantes. A política declarada prioriza principal, liquidez e grau de investimento; hedges são apresentados separadamente. O registro contábil não demonstra que toda aplicação visa especulação, nem que foi financiada exclusivamente pelo lucro de 2025.",
+          "text": null,
+          "period": null,
+          "source": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20Annual%20Report.E.pdf",
+          "verification": "Interpretação documental",
+          "limitation": null
+        }
+      ],
+      "cases": [
+        {
+          "claim": "337-TA-1443",
+          "text": "Encerrada integralmente por acordo; decisão da Comissão de 03/09/2026 não revisar a Order 77. Não é condenação de mérito por corrupção ou prova de culpa.",
+          "period": "2026-09-03",
+          "source": "https://www.usitc.gov/secretary/fed_reg_notices/337/337_1443_notice09032026sgl.pdf",
+          "verification": "USITC",
+          "limitation": "Esta fonte encerra a investigação USITC. Não pressupõe o estado de todo processo judicial correlato."
+        }
+      ],
+      "gaps": [
+        "Moeda TWD: não comparar números brutos com USD.",
+        "Pesquisa de experiência: 88% é participação, não satisfação.",
+        "Não há percentual comprovado de lucro destinado ao modelo 30/30/30/10.",
+        "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+        "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+      ]
+    },
+    {
+      "id": "spacex",
+      "name": "Space Exploration Technologies Corp. (SpaceX)",
+      "sector": "Espaço conectividade e IA",
+      "country": "Estados Unidos",
+      "tickers": [
+        {
+          "exchange": "Nasdaq Global Select Market / Nasdaq Texas",
+          "symbol": "SPCX",
+          "url": "https://ir.spacex.com/updates/releases-details/2026/Space-Exploration-Technologies-Corp--Announces-Pricing-of-Initial-Public-Offering/default.aspx",
+          "listing_date": "2026-06-12",
+          "source": "https://ir.spacex.com/updates/releases-details/2026/Space-Exploration-Technologies-Corp--Announces-Pricing-of-Initial-Public-Offering/default.aspx"
+        }
+      ],
+      "ceo": {
+        "name": "Elon Musk",
+        "role": "Chairman, CEO e CTO",
+        "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+        "source": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+        "as_of": "2026-09-17"
+      },
+      "business_model": "Lançamentos e serviços espaciais públicos/privados, assinaturas e terminais Starlink, e, após a aquisição de xAI/X, serviços de IA e publicidade/plataforma social.",
+      "revenue": {
+        "value": 18674,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+        "note": "Consolidado histórico reexpresso após combinação sob controle comum com xAI/X.",
+        "source": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf"
+      },
+      "net_income": {
+        "value": -4937,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+        "note": "PREJUÍZO líquido: percentuais sobre lucro positivo e modelo 30/30/30/10 não são aplicáveis a este exercício.",
+        "source": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf"
+      },
+      "capex": {
+        "value": 20737,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+        "note": "Aquisições de imobilizado pagas em caixa.",
+        "source": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf"
+      },
+      "research": {
+        "value": 8643,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+        "note": "Despesa de pesquisa e desenvolvimento; anterior ao lucro líquido.",
+        "source": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf"
+      },
+      "dividends": {
+        "value": 0,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+        "note": "Prospecto informa que nunca declarou/pagou dividendos em dinheiro sobre ações ordinárias.",
+        "source": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf"
+      },
+      "buybacks": {
+        "value": 1125,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+        "note": "Recompra de ações ordinárias E preferenciais conversíveis resgatáveis; não é exclusivamente recompra em mercado aberto.",
+        "source": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf"
+      },
+      "employees": {
+        "value": 18087,
+        "currency": null,
+        "unit": "people",
+        "period": "2025-12-31",
+        "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+        "note": "SOMENTE SpaceX antes de xAI; perímetro NÃO acompanha demonstrações financeiras históricas combinadas.",
+        "source": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf"
+      },
+      "latest_consolidated_employees": {
+        "value": 22621,
+        "currency": null,
+        "unit": "people",
+        "period": "2026-04-30",
+        "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+        "note": "Primeiro quadro combinado de Espaço, Conectividade, IA e corporativo publicado após a aquisição; fotografia de 2026, separada das finanças anuais de 2025."
+      },
+      "financial_investments": {
+        "evidence": [
+          {
+            "value": 611,
+            "currency": "USD",
+            "unit": "million",
+            "period": "2025-01-01/2025-12-31",
+            "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+            "note": "Compras brutas de títulos negociáveis."
+          },
+          {
+            "value": 548,
+            "currency": "USD",
+            "unit": "million",
+            "period": "2025-01-01/2025-12-31",
+            "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+            "note": "Vencimentos de títulos negociáveis."
+          },
+          {
+            "value": 1457,
+            "currency": "USD",
+            "unit": "million",
+            "period": "2025-01-01/2025-12-31",
+            "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+            "note": "Vendas de títulos negociáveis."
+          },
+          {
+            "value": 86,
+            "currency": "USD",
+            "unit": "million",
+            "period": "2025-01-01/2025-12-31",
+            "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+            "note": "Investimentos em afiliadas não consolidadas."
+          }
+        ],
+        "interpretation": "Vendas mais vencimentos excederam compras de títulos em USD 1.394 milhões. Isso é liberação líquida, não alocação líquida de lucro em títulos. Investimentos estratégicos precisam de análise separada. O grupo teve prejuízo.",
+        "profit_allocation_percentage": null
+      },
+      "worker": [
+        {
+          "claim": "Quadros de pessoal do prospecto são divulgação corporativa, não pesquisa independente. Sem índice comparável de satisfação, progressão ou orçamento social para empregados verificado.",
+          "text": null,
+          "period": null,
+          "source": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+          "verification": "Lacuna de dados comparáveis",
+          "limitation": null
+        }
+      ],
+      "social_environment": [
+        {
+          "claim": "Starlink relata doação de terminais e serviço temporário em respostas a desastres, incluindo o Caribe em 2025.",
+          "text": null,
+          "period": null,
+          "source": "https://starlink.com/public-files/starlinkProgressReport_2025.pdf",
+          "verification": "autorrelato",
+          "limitation": null
+        },
+        {
+          "claim": "FAA publicou avaliação ambiental e conclusão mitigada para operações Falcon em SLC-40 em 2025. É avaliação com mitigação, não declaração de ausência de impacto.",
+          "text": null,
+          "period": null,
+          "source": "https://www.faa.gov/space/stakeholder_engagement/SpaceX_Falcon_SLC_40_EA",
+          "verification": "ato regulatório",
+          "limitation": null
+        }
+      ],
+      "legal_cases": [
+        {
+          "agency": "EPA",
+          "case": "CWA-06-2024-1768",
+          "subject": "Alegações relacionadas a descargas em áreas úmidas sob o Clean Water Act.",
+          "status": "Acordo e ordem final protocolados em 15/01/2025; penalidade administrativa de USD 148.378. A empresa não admite nem nega alegações factuais. Pagamento não confirmado.",
+          "status_date": "2025-01-15",
+          "penalty": {
+            "value": 148378,
+            "currency": "USD",
+            "unit": "dollars",
+            "status": "acordada/ordenada; pagamento não verificado"
+          },
+          "url": "https://yosemite.epa.gov/oa/rhc/epaadmin.nsf/Filings/51FC75AF032DEC4B85258C14000B521C/%24File/2024-1768.pdf"
+        },
+        {
+          "agency": "FAA",
+          "case": null,
+          "subject": "Alegadas violações de licenças em dois lançamentos de 2023.",
+          "status": "Proposta de penalidades de USD 633.009 anunciada em 17/09/2024; não foi confirmado desfecho final nesta pesquisa.",
+          "status_date": "2024-09-17",
+          "penalty": {
+            "value": 633009,
+            "currency": "USD",
+            "unit": "dollars",
+            "status": "proposta, não tratar como multa definitiva paga"
+          },
+          "url": "https://www.faa.gov/newsroom/faa-proposes-633009-civil-penalties-against-spacex"
+        },
+        {
+          "agency": "NLRB",
+          "case": "19-CA-309274",
+          "subject": "Alegações trabalhistas, incluindo retaliação e dispensas.",
+          "status": "Cadastro oficial consultado está Closed. Não foi estabelecida nesta pesquisa decisão final sobre o mérito; encerramento não equivale a condenação ou absolvição.",
+          "status_date": null,
+          "observed_at": "2026-09-17",
+          "url": "https://www.nlrb.gov/case/19-CA-309274",
+          "penalty": null
+        }
+      ],
+      "improvements": [
+        "Publicar indicadores anuais de trabalhadores e contratados por segmento, com ponte entre o perímetro antigo e xAI/X, segurança, progressão e escuta independente.",
+        "Publicar plano verificável de mitigação e reparação ambiental, água, ruído, biodiversidade e detritos orbitais, além do cumprimento dos acordos regulatórios.",
+        "Separar capital produtivo de aplicações financeiras e divulgar custos adicionais e resultados das ações humanitárias, com métricas de preço, acessibilidade e continuidade do serviço."
+      ],
+      "public_contact": {
+        "email": "corporatesecretary@spacex.com",
+        "channel": "Corporate Secretary / contato oficial para companhia e conselho; não é e-mail direto do CEO e não implica condição de acionista.",
+        "url": "https://ir.spacex.com/faqs-and-contact/default.aspx",
+        "ceo_direct_email": null,
+        "source": "https://ir.spacex.com/faqs-and-contact/default.aspx",
+        "type": "Corporate Secretary / contato oficial para companhia e conselho; não é e-mail direto do CEO e não implica condição de acionista."
+      },
+      "critical_limits": [
+        "SPCX confirmado por fonte oficial: não é empresa fechada na data de corte.",
+        "Aquisição de xAI em 02/02/2026 sob controle comum reexpressa demonstrações históricas; dados de 2025 incluem xAI/X.",
+        "Funcionários de 31/12/2025 excluem xAI; não dividir finanças consolidadas por esse quadro sem ressalva.",
+        "Prejuízo anual impede razão de destinação de lucro positivo.",
+        "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+        "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+      ],
+      "sources": [
+        {
+          "id": "S1",
+          "title": "Prospecto europeu aprovado em 05/06/2026; demonstrações anuais 2025",
+          "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+          "type": "prospecto com demonstrações auditadas",
+          "accessed": "2026-09-17",
+          "accessed_at": "2026-09-18"
+        },
+        {
+          "id": "S2",
+          "title": "Precificação da oferta pública e ticker SPCX",
+          "url": "https://ir.spacex.com/updates/releases-details/2026/Space-Exploration-Technologies-Corp--Announces-Pricing-of-Initial-Public-Offering/default.aspx",
+          "type": "comunicado oficial",
+          "accessed": "2026-09-17",
+          "accessed_at": "2026-09-18"
+        },
+        {
+          "id": "S3",
+          "title": "EPA: acordo e ordem final",
+          "url": "https://yosemite.epa.gov/oa/rhc/epaadmin.nsf/Filings/51FC75AF032DEC4B85258C14000B521C/%24File/2024-1768.pdf",
+          "type": "regulador",
+          "accessed": "2026-09-17",
+          "accessed_at": "2026-09-18"
+        },
+        {
+          "id": "S4",
+          "title": "FAA: proposta de penalidades",
+          "url": "https://www.faa.gov/newsroom/faa-proposes-633009-civil-penalties-against-spacex",
+          "type": "regulador",
+          "accessed": "2026-09-17",
+          "accessed_at": "2026-09-18"
+        },
+        {
+          "id": "S5",
+          "title": "NLRB: registro do caso trabalhista",
+          "url": "https://www.nlrb.gov/case/19-CA-309274",
+          "type": "regulador",
+          "accessed": "2026-09-17",
+          "accessed_at": "2026-09-18"
+        },
+        {
+          "id": "S6",
+          "title": "Perguntas e contato oficial",
+          "url": "https://ir.spacex.com/faqs-and-contact/default.aspx",
+          "type": "contato oficial",
+          "accessed": "2026-09-17",
+          "accessed_at": "2026-09-18"
+        },
+        {
+          "id": "S7",
+          "title": "Starlink Progress Report 2025",
+          "url": "https://starlink.com/public-files/starlinkProgressReport_2025.pdf",
+          "type": "autorrelato",
+          "accessed": "2026-09-17",
+          "accessed_at": "2026-09-18"
+        }
+      ],
+      "short_name": "SpaceX",
+      "market_rank": 7,
+      "market_cap_trillion": 2.04,
+      "assessment_summary": "O perímetro financeiro ampliado teve prejuízo, tornando inaplicável a alocação sobre lucro positivo no exercício. Resultados tecnológicos não dispensam avaliação de segurança, impactos locais, condições de trabalho e reparações.",
+      "ratings": {},
+      "review": {
+        "status": "partial",
+        "criticalIssuesResolved": false,
+        "date": "2026-09-18"
+      },
+      "honor_score": null,
+      "adherence_score": null,
+      "fiscal_label": "FY2025",
+      "investment_evidence": [
+        {
+          "claim": "Compras brutas de títulos negociáveis. Valor: USD 611 milhões.",
+          "text": null,
+          "period": "2025-01-01/2025-12-31",
+          "source": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+          "verification": "Documento da empresa; escopo de verificação consultar fonte",
+          "limitation": null
+        },
+        {
+          "claim": "Vencimentos de títulos negociáveis. Valor: USD 548 milhões.",
+          "text": null,
+          "period": "2025-01-01/2025-12-31",
+          "source": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+          "verification": "Documento da empresa; escopo de verificação consultar fonte",
+          "limitation": null
+        },
+        {
+          "claim": "Vendas de títulos negociáveis. Valor: USD 1.457 milhões.",
+          "text": null,
+          "period": "2025-01-01/2025-12-31",
+          "source": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+          "verification": "Documento da empresa; escopo de verificação consultar fonte",
+          "limitation": null
+        },
+        {
+          "claim": "Investimentos em afiliadas não consolidadas. Valor: USD 86 milhões.",
+          "text": null,
+          "period": "2025-01-01/2025-12-31",
+          "source": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+          "verification": "Documento da empresa; escopo de verificação consultar fonte",
+          "limitation": null
+        },
+        {
+          "claim": "Vendas mais vencimentos excederam compras de títulos em USD 1.394 milhões. Isso é liberação líquida, não alocação líquida de lucro em títulos. Investimentos estratégicos precisam de análise separada. O grupo teve prejuízo.",
+          "text": null,
+          "period": null,
+          "source": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+          "verification": "Interpretação documental",
+          "limitation": null
+        }
+      ],
+      "cases": [
+        {
+          "claim": "CWA-06-2024-1768",
+          "text": "Acordo e ordem final protocolados em 15/01/2025; penalidade administrativa de USD 148.378. A empresa não admite nem nega alegações factuais. Pagamento não confirmado.",
+          "period": "2025-01-15",
+          "source": "https://yosemite.epa.gov/oa/rhc/epaadmin.nsf/Filings/51FC75AF032DEC4B85258C14000B521C/%24File/2024-1768.pdf",
+          "verification": "EPA",
+          "limitation": null
+        },
+        {
+          "claim": "Alegadas violações de licenças em dois lançamentos de 2023.",
+          "text": "Proposta de penalidades de USD 633.009 anunciada em 17/09/2024; não foi confirmado desfecho final nesta pesquisa.",
+          "period": "2024-09-17",
+          "source": "https://www.faa.gov/newsroom/faa-proposes-633009-civil-penalties-against-spacex",
+          "verification": "FAA",
+          "limitation": null
+        },
+        {
+          "claim": "19-CA-309274",
+          "text": "Cadastro oficial consultado está Closed. Não foi estabelecida nesta pesquisa decisão final sobre o mérito; encerramento não equivale a condenação ou absolvição.",
+          "period": null,
+          "source": "https://www.nlrb.gov/case/19-CA-309274",
+          "verification": "NLRB",
+          "limitation": null
+        }
+      ],
+      "gaps": [
+        "SPCX confirmado por fonte oficial: não é empresa fechada na data de corte.",
+        "Aquisição de xAI em 02/02/2026 sob controle comum reexpressa demonstrações históricas; dados de 2025 incluem xAI/X.",
+        "Funcionários de 31/12/2025 excluem xAI; não dividir finanças consolidadas por esse quadro sem ressalva.",
+        "Prejuízo anual impede razão de destinação de lucro positivo.",
+        "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+        "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+      ]
+    },
+    {
+      "id": "meta",
+      "name": "Meta Platforms, Inc.",
+      "sector": "Plataformas e publicidade",
+      "country": "Estados Unidos",
+      "tickers": [
+        {
+          "exchange": "NASDAQ",
+          "symbol": "META",
+          "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/"
+        }
+      ],
+      "ceo": {
+        "name": "Mark Zuckerberg",
+        "as_of": "2026-01-28",
+        "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm"
+      },
+      "business_model": "Receita principalmente com publicidade em Facebook e Instagram; outros serviços e dispositivos/tecnologia Reality Labs. Incentivos ligados ao desempenho publicitário requerem avaliação própria de proteção de usuários.",
+      "revenue": {
+        "value": 200966,
+        "period": "2025-01-01/2025-12-31",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+        "definition": "Receita anual GAAP"
+      },
+      "net_income": {
+        "value": 60458,
+        "period": "2025-01-01/2025-12-31",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+        "definition": "Lucro líquido GAAP"
+      },
+      "capex": {
+        "value": 69691,
+        "period": "2025-01-01/2025-12-31",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+        "definition": "Compras de imobilizado em caixa",
+        "including_finance_lease_principal": 72215,
+        "finance_lease_principal": 2524,
+        "company_headline_rounded_billion": 72.22
+      },
+      "research": {
+        "value": 57372,
+        "period": "2025-01-01/2025-12-31",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+        "definition": "Despesa de P&D; já deduzida na apuração do lucro"
+      },
+      "dividends": {
+        "value": 5324,
+        "period": "2025-01-01/2025-12-31",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+        "definition": "Pagamentos de dividendos e equivalentes"
+      },
+      "buybacks": {
+        "value": 26248,
+        "period": "2025-01-01/2025-12-31",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+        "definition": "Recompras de ações classe A em caixa",
+        "equity_statement_amount": 26264,
+        "equity_statement_note": "Demonstração patrimonial registra 26.264 milhões, incluindo tributos; não confundir com desembolso de 26.248 milhões."
+      },
+      "employees": {
+        "value": 78865,
+        "period": "2025-12-31",
+        "currency": null,
+        "unit": "pessoas",
+        "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+        "definition": "Quadro consolidado de empregados"
+      },
+      "operating_cash_flow": {
+        "value": 115800,
+        "period": "2025-01-01/2025-12-31",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+        "definition": "Fluxo de caixa operacional"
+      },
+      "financial_investments": {
+        "evidence": [
+          {
+            "claim": "Compras de títulos negociáveis US$36.929 milhões; vendas/vencimentos US$26.874 milhões; aplicação líquida calculada US$10.055 milhões.",
+            "period": "2025",
+            "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+            "verification": "demonstração financeira",
+            "limitations": null
+          },
+          {
+            "claim": "Compras de participações não negociáveis US$18.330 milhões; entre as participações destaca-se Scale AI de US$13.800 milhões.",
+            "period": "2025",
+            "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+            "verification": "relatório anual",
+            "limitations": null
+          }
+        ],
+        "speculative_profit_allocation_pct": null,
+        "classification": "Tesouraria e participações empresariais; propósito exclusivamente especulativo não comprovado.",
+        "contradictory_review": "Tesouraria diversificada e investimento estratégico não são equivalentes a ausência de reinvestimento. P&D, folha, capex e investimentos financeiros podem se sobrepor economicamente; não são fatias exclusivas do lucro."
+      },
+      "social_environment": [
+        {
+          "claim": "Relatório publicado em 2025 informa restituição de mais de 1,6 bilhão de galões de água em regiões de estresse hídrico alto/médio em 2024.",
+          "text": null,
+          "period": "2024",
+          "source": "https://sustainability.atmeta.com/asset/2025-sustainability-report",
+          "verification": "autorrelato empresarial",
+          "limitation": "Ano de publicação não é ano da métrica; não usar como indicador de 2025."
+        },
+        {
+          "claim": "Ernst & Young revisou indicadores selecionados de sustentabilidade do exercício 2024 com asseguração limitada; restante do relatório excluído do escopo.",
+          "text": null,
+          "period": "2024",
+          "source": "https://sustainability.atmeta.com/asset/2025-independent-accountants-review-report/",
+          "verification": "asseguração limitada independente",
+          "limitation": "Não é auditoria integral nem atestado geral de sustentabilidade."
+        }
+      ],
+      "worker": [
+        {
+          "claim": "Relata alcançar mais de 60 mil trabalhadores da manufatura com ações de capacitação sobre direitos humanos e conformidade ambiental.",
+          "text": null,
+          "period": "2024",
+          "source": "https://sustainability.atmeta.com/asset/2025-sustainability-report",
+          "verification": "autorrelato empresarial",
+          "limitation": "Alcance não mede satisfação, melhoria salarial ou remediação efetiva."
+        },
+        {
+          "claim": "Declara avaliações semestrais de desempenho e acesso a treinamento/ferramentas de IA; descreve apoio rescisório aos desligados.",
+          "text": null,
+          "period": "2025",
+          "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+          "verification": "autorrelato empresarial",
+          "limitation": "Não há garantia de estabilidade nem resultado independente de bem-estar."
+        },
+        {
+          "claim": "Índice independente representativo e metodologia não localizados.",
+          "text": null,
+          "period": null,
+          "source": null,
+          "verification": "Documento da empresa; escopo de verificação consultar fonte",
+          "limitation": null
+        },
+        {
+          "claim": "Taxa consolidada comparável não localizada.",
+          "text": null,
+          "period": null,
+          "source": null,
+          "verification": "Documento da empresa; escopo de verificação consultar fonte",
+          "limitation": null
+        }
+      ],
+      "legal_cases": [
+        {
+          "case": "FTC — monopolização / Instagram e WhatsApp",
+          "regulator": "Federal Trade Commission (EUA)",
+          "event_date": "2026-01-20",
+          "status": "Tribunal decidiu favoravelmente à Meta em novembro de 2025; FTC apresentou aviso de recurso em janeiro de 2026.",
+          "source": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-appeals-ruling-meta-monopolization-case",
+          "classification": "decisão favorável à empresa e recurso anunciado",
+          "caution": "Não chamar Meta de condenada por monopolização neste caso. Desfecho posterior do recurso não confirmado nesta coleta."
+        },
+        {
+          "case": "Comissão Europeia — modelo consentir ou pagar / DMA",
+          "regulator": "Comissão Europeia",
+          "event_date": "2025-04-23",
+          "status": "Decisão administrativa por descumprimento com multa de EUR 200 milhões.",
+          "source": "https://digital-strategy.ec.europa.eu/en/news/commission-finds-apple-and-meta-breach-digital-markets-act",
+          "classification": "decisão administrativa",
+          "caution": "Não afirmar trânsito em julgado; recurso e conformidade posterior exigem atualização."
+        }
+      ],
+      "improvements": [
+        "Publicar métricas auditáveis de segurança, fraudes e recursos de usuários, com tempo de resposta humana, resultados por faixa etária e acessibilidade.",
+        "Apresentar plano de humanização da IA com requalificação, mobilidade interna e indicadores de qualidade do emprego incluindo terceirizados.",
+        "Conciliar orçamento socioambiental aos impactos próprios e publicar resultados por bacia hidrográfica e emissões absolutas, com escopo de asseguração e anos claramente identificados."
+      ],
+      "public_contact": {
+        "email": "investor@meta.com",
+        "type": "Relações com investidores",
+        "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+        "is_ceo_direct": false,
+        "sending_note": "Canal institucional publicado; solicitar encaminhamento à diretoria responsável."
+      },
+      "sources": [
+        {
+          "id": "metaAnnual",
+          "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+          "accessed_at": "2026-09-18",
+          "title": "Relatório anual — Meta"
+        },
+        {
+          "id": "metaEarnings",
+          "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+          "accessed_at": "2026-09-18",
+          "title": "Resultados financeiros — Meta"
+        },
+        {
+          "id": "metaSust",
+          "url": "https://sustainability.atmeta.com/asset/2025-sustainability-report",
+          "accessed_at": "2026-09-18",
+          "title": "Sustentabilidade — Meta"
+        },
+        {
+          "id": "metaAssurance",
+          "url": "https://sustainability.atmeta.com/asset/2025-independent-accountants-review-report/",
+          "accessed_at": "2026-09-18",
+          "title": "Relatório de asseguração independente — Meta"
+        },
+        {
+          "id": "metaFTC",
+          "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-appeals-ruling-meta-monopolization-case",
+          "accessed_at": "2026-09-18",
+          "title": "Documento da FTC — Meta"
+        },
+        {
+          "id": "metaEU",
+          "url": "https://digital-strategy.ec.europa.eu/en/news/commission-finds-apple-and-meta-breach-digital-markets-act",
+          "accessed_at": "2026-09-18",
+          "title": "Decisão da Comissão Europeia — Meta"
+        }
+      ],
+      "assessment": {
+        "status": "Dossiê preliminar; sem pontuação de índole",
+        "ranking": null,
+        "confidence": "Alta para demonstrações financeiras; asseguração ambiental limitada e de 2024",
+        "remaining_gaps": [
+          "Destinação exata do lucro",
+          "Dados socioambientais de 2025 comparáveis",
+          "Satisfação e promoção interna",
+          "Eficácia independente de segurança dos usuários",
+          "Desfecho de recursos regulatórios",
+          "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+          "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+        ]
+      },
+      "short_name": "Meta",
+      "market_rank": 8,
+      "market_cap_trillion": 1.738,
+      "assessment_summary": "Pesquisa e infraestrutura coexistem com retorno a acionistas e investimentos em participações. Segurança de usuários, privacidade, condições de trabalho e impactos locais são indispensáveis; a asseguração ambiental localizada cobre métricas e período limitados.",
+      "ratings": {},
+      "review": {
+        "status": "partial",
+        "criticalIssuesResolved": false,
+        "date": "2026-09-18"
+      },
+      "honor_score": null,
+      "adherence_score": null,
+      "fiscal_label": "FY2025",
+      "investment_evidence": [
+        {
+          "claim": "Compras de títulos negociáveis US$36.929 milhões; vendas/vencimentos US$26.874 milhões; aplicação líquida calculada US$10.055 milhões.",
+          "text": null,
+          "period": "2025",
+          "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+          "verification": "demonstração financeira",
+          "limitation": null
+        },
+        {
+          "claim": "Compras de participações não negociáveis US$18.330 milhões; entre as participações destaca-se Scale AI de US$13.800 milhões.",
+          "text": null,
+          "period": "2025",
+          "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+          "verification": "relatório anual",
+          "limitation": null
+        },
+        {
+          "claim": "Tesouraria e participações empresariais; propósito exclusivamente especulativo não comprovado.",
+          "text": null,
+          "period": null,
+          "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+          "verification": "Interpretação documental",
+          "limitation": null
+        },
+        {
+          "claim": "Tesouraria diversificada e investimento estratégico não são equivalentes a ausência de reinvestimento. P&D, folha, capex e investimentos financeiros podem se sobrepor economicamente; não são fatias exclusivas do lucro.",
+          "text": null,
+          "period": null,
+          "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+          "verification": "Interpretação documental",
+          "limitation": null
+        }
+      ],
+      "cases": [
+        {
+          "claim": "FTC — monopolização / Instagram e WhatsApp",
+          "text": "Tribunal decidiu favoravelmente à Meta em novembro de 2025; FTC apresentou aviso de recurso em janeiro de 2026.",
+          "period": "2026-01-20",
+          "source": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-appeals-ruling-meta-monopolization-case",
+          "verification": "Federal Trade Commission (EUA)",
+          "limitation": "Não chamar Meta de condenada por monopolização neste caso. Desfecho posterior do recurso não confirmado nesta coleta."
+        },
+        {
+          "claim": "Comissão Europeia — modelo consentir ou pagar / DMA",
+          "text": "Decisão administrativa por descumprimento com multa de EUR 200 milhões.",
+          "period": "2025-04-23",
+          "source": "https://digital-strategy.ec.europa.eu/en/news/commission-finds-apple-and-meta-breach-digital-markets-act",
+          "verification": "Comissão Europeia",
+          "limitation": "Não afirmar trânsito em julgado; recurso e conformidade posterior exigem atualização."
+        }
+      ],
+      "gaps": [
+        "Destinação exata do lucro",
+        "Dados socioambientais de 2025 comparáveis",
+        "Satisfação e promoção interna",
+        "Eficácia independente de segurança dos usuários",
+        "Desfecho de recursos regulatórios",
+        "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+        "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+      ]
+    },
+    {
+      "id": "broadcom",
+      "name": "Broadcom Inc.",
+      "sector": "Semicondutores",
+      "country": "Estados Unidos",
+      "tickers": [
+        {
+          "exchange": "NASDAQ",
+          "symbol": "AVGO",
+          "source": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025"
+        }
+      ],
+      "ceo": {
+        "name": "Hock Tan",
+        "as_of": "2025-12-11",
+        "source": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025"
+      },
+      "business_model": "Venda de semicondutores; licenciamento, assinaturas e serviços de software de infraestrutura, incluindo VMware. Estrutura produtiva e intensidade de ativos diferem de varejo e nuvem.",
+      "revenue": {
+        "value": 63887,
+        "period": "FY2025 encerrado em 2025-11-02",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025",
+        "definition": "Receita anual GAAP"
+      },
+      "net_income": {
+        "value": 23126,
+        "period": "FY2025 encerrado em 2025-11-02",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025",
+        "definition": "Lucro líquido GAAP"
+      },
+      "capex": {
+        "value": 623,
+        "period": "FY2025 encerrado em 2025-11-02",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+        "definition": "Compras de imobilizado em caixa"
+      },
+      "research": {
+        "value": 10977,
+        "period": "FY2025 encerrado em 2025-11-02",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+        "definition": "Despesa de P&D GAAP; pré-lucro"
+      },
+      "dividends": {
+        "value": 11142,
+        "period": "FY2025 encerrado em 2025-11-02",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+        "definition": "Pagamentos de dividendos"
+      },
+      "buybacks": {
+        "value": 2450,
+        "period": "FY2025 encerrado em 2025-11-02",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+        "definition": "Programa de recompra de ações próprias",
+        "excluded_tax_withholding": 3860,
+        "excluded_note": "Retenção de ações para tributos na aquisição de direitos por empregados é rubrica separada, não recompra discricionária comparável."
+      },
+      "employees": {
+        "value": 33000,
+        "period": "2025-11-02",
+        "currency": null,
+        "unit": "pessoas",
+        "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+        "definition": "Aproximadamente; 57% em funções de P&D"
+      },
+      "operating_cash_flow": {
+        "value": 27537,
+        "period": "FY2025 encerrado em 2025-11-02",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+        "definition": "Fluxo de caixa operacional"
+      },
+      "financial_investments": {
+        "evidence": [
+          {
+            "claim": "Compras de investimentos US$597 milhões; vendas US$248 milhões; fluxo líquido calculado US$349 milhões.",
+            "period": "FY2025",
+            "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+            "verification": "demonstração financeira",
+            "limitations": null
+          },
+          {
+            "claim": "Receita de juros US$347 milhões; resultado de investimentos negativo em US$17 milhões.",
+            "period": "FY2025",
+            "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+            "verification": "demonstração financeira",
+            "limitations": null
+          }
+        ],
+        "speculative_profit_allocation_pct": null,
+        "classification": "Aplicações financeiras identificadas; separação estratégica/especulativa incompleta.",
+        "contradictory_review": "Baixo capex próprio é compatível com desenho fabless/terceirização; não prova falta de inovação. P&D US$10.977 milhões é despesa pré-lucro, enquanto dividendos e recompras são fluxos de financiamento."
+      },
+      "social_environment": [
+        {
+          "claim": "Declara US$7,6 milhões em contrapartida a doações de empregados a organizações beneficentes.",
+          "text": null,
+          "period": "2025",
+          "source": "https://www.broadcom.com/company/corporate-responsibility/communities",
+          "verification": "autorrelato empresarial",
+          "limitation": "Valor cobre este programa, não total social; não há avaliação de impacto independente localizada."
+        },
+        {
+          "claim": "Informa asseguração limitada independente sobre emissões de gases de efeito estufa dos escopos 1 e 2 do FY2025.",
+          "text": null,
+          "period": "FY2025",
+          "source": "https://www.broadcom.com/company/corporate-responsibility",
+          "verification": "informação empresarial sobre asseguração",
+          "limitation": "Parecer integral não examinado nesta coleta; não estender a escopo 3 ou projetos sociais."
+        },
+        {
+          "claim": "Meta corporativa de reduzir emissões dos escopos 1 e 2 em 38% até 2030, frente a 2021.",
+          "text": null,
+          "period": "meta 2030/base 2021",
+          "source": "https://www.broadcom.com/company/corporate-responsibility/environment",
+          "verification": "autorrelato empresarial",
+          "limitation": "Compromisso não equivale a resultado alcançado."
+        }
+      ],
+      "worker": [
+        {
+          "claim": "Taxa voluntária de saída relatada de 4,1% no FY2025.",
+          "text": null,
+          "period": "FY2025",
+          "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+          "verification": "autorrelato empresarial",
+          "limitation": "Retenção não equivale a satisfação e exclui desligamentos involuntários."
+        },
+        {
+          "claim": "Índice independente representativo e metodologia não localizados.",
+          "text": null,
+          "period": null,
+          "source": null,
+          "verification": "Documento da empresa; escopo de verificação consultar fonte",
+          "limitation": null
+        },
+        {
+          "claim": "Taxa consolidada comparável não localizada.",
+          "text": null,
+          "period": null,
+          "source": null,
+          "verification": "Documento da empresa; escopo de verificação consultar fonte",
+          "limitation": null
+        }
+      ],
+      "legal_cases": [
+        {
+          "case": "FTC — exclusividade em chips para banda larga e televisão",
+          "regulator": "Federal Trade Commission (EUA)",
+          "event_date": "2021-11-04",
+          "status": "Ordem final por consentimento emitida em 2021 com restrições a exclusividade; ordem prevê término em 2031. Página cadastral da FTC ainda exibe Pending.",
+          "source": "https://www.ftc.gov/legal-library/browse/cases-proceedings/181-0205-broadcom-incorporated-matter",
+          "order_source": "https://www.ftc.gov/system/files/documents/cases/1810205c4750broadcomfinalorder.pdf",
+          "classification": "ordem administrativa por consentimento",
+          "caution": "Explicitar discrepância do rótulo cadastral; não chamar de condenação criminal nem inferir cumprimento integral."
+        }
+      ],
+      "improvements": [
+        "Divulgar indicadores de acessibilidade de licenciamento, previsibilidade contratual, interoperabilidade e suporte, incluindo clientes menores e serviços essenciais.",
+        "Publicar quadro de mobilidade, desligamentos, capacitação e satisfação independente, especialmente em integrações de aquisições.",
+        "Conciliar contribuições comunitárias e gastos reparatórios aos resultados; ampliar verificação da cadeia de suprimentos, escopo 3 e resultados educacionais."
+      ],
+      "public_contact": {
+        "email": "investor.relations@broadcom.com",
+        "type": "Relações com investidores",
+        "source": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025",
+        "is_ceo_direct": false,
+        "sending_note": "Canal público institucional publicado; encaminhamento ao CEO não garantido."
+      },
+      "sources": [
+        {
+          "id": "broadcomAnnual",
+          "url": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+          "accessed_at": "2026-09-18",
+          "title": "Relatório anual — Broadcom"
+        },
+        {
+          "id": "broadcomEarnings",
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025",
+          "accessed_at": "2026-09-18",
+          "title": "Resultados financeiros — Broadcom"
+        },
+        {
+          "id": "broadcomSust",
+          "url": "https://www.broadcom.com/company/corporate-responsibility",
+          "accessed_at": "2026-09-18",
+          "title": "Sustentabilidade — Broadcom"
+        },
+        {
+          "id": "broadcomCommunity",
+          "url": "https://www.broadcom.com/company/corporate-responsibility/communities",
+          "accessed_at": "2026-09-18",
+          "title": "Comunidades — Broadcom"
+        },
+        {
+          "id": "broadcomEnvironment",
+          "url": "https://www.broadcom.com/company/corporate-responsibility/environment",
+          "accessed_at": "2026-09-18",
+          "title": "Ambiente — Broadcom"
+        },
+        {
+          "id": "broadcomFTC",
+          "url": "https://www.ftc.gov/legal-library/browse/cases-proceedings/181-0205-broadcom-incorporated-matter",
+          "accessed_at": "2026-09-18",
+          "title": "Documento da FTC — Broadcom"
+        },
+        {
+          "id": "broadcomFTCOrder",
+          "url": "https://www.ftc.gov/system/files/documents/cases/1810205c4750broadcomfinalorder.pdf",
+          "accessed_at": "2026-09-18",
+          "title": "Ordem final da FTC — Broadcom"
+        }
+      ],
+      "assessment": {
+        "status": "Dossiê preliminar; sem pontuação de índole",
+        "ranking": null,
+        "confidence": "Alta nas demonstrações financeiras; evidência social parcial",
+        "remaining_gaps": [
+          "Total de investimento social e resultados",
+          "Satisfação e promoção interna",
+          "Separação das aplicações financeiras por finalidade",
+          "Parecer completo de asseguração",
+          "Cumprimento atual da ordem FTC",
+          "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+          "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+        ]
+      },
+      "short_name": "Broadcom",
+      "market_rank": 9,
+      "market_cap_trillion": 1.657,
+      "assessment_summary": "Pesquisa e modelo de produção terceirizada exigem leitura além do CAPEX. Licenciamento, consumidores, integração de trabalhadores e cumprimento de compromissos concorrenciais devem completar a avaliação.",
+      "ratings": {},
+      "review": {
+        "status": "partial",
+        "criticalIssuesResolved": false,
+        "date": "2026-09-18"
+      },
+      "honor_score": null,
+      "adherence_score": null,
+      "fiscal_label": "FY2025",
+      "investment_evidence": [
+        {
+          "claim": "Compras de investimentos US$597 milhões; vendas US$248 milhões; fluxo líquido calculado US$349 milhões.",
+          "text": null,
+          "period": "FY2025",
+          "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+          "verification": "demonstração financeira",
+          "limitation": null
+        },
+        {
+          "claim": "Receita de juros US$347 milhões; resultado de investimentos negativo em US$17 milhões.",
+          "text": null,
+          "period": "FY2025",
+          "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+          "verification": "demonstração financeira",
+          "limitation": null
+        },
+        {
+          "claim": "Aplicações financeiras identificadas; separação estratégica/especulativa incompleta.",
+          "text": null,
+          "period": null,
+          "source": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025",
+          "verification": "Interpretação documental",
+          "limitation": null
+        },
+        {
+          "claim": "Baixo capex próprio é compatível com desenho fabless/terceirização; não prova falta de inovação. P&D US$10.977 milhões é despesa pré-lucro, enquanto dividendos e recompras são fluxos de financiamento.",
+          "text": null,
+          "period": null,
+          "source": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025",
+          "verification": "Interpretação documental",
+          "limitation": null
+        }
+      ],
+      "cases": [
+        {
+          "claim": "FTC — exclusividade em chips para banda larga e televisão",
+          "text": "Ordem final por consentimento emitida em 2021 com restrições a exclusividade; ordem prevê término em 2031. Página cadastral da FTC ainda exibe Pending.",
+          "period": "2021-11-04",
+          "source": "https://www.ftc.gov/legal-library/browse/cases-proceedings/181-0205-broadcom-incorporated-matter",
+          "verification": "Federal Trade Commission (EUA)",
+          "limitation": "Explicitar discrepância do rótulo cadastral; não chamar de condenação criminal nem inferir cumprimento integral."
+        }
+      ],
+      "gaps": [
+        "Total de investimento social e resultados",
+        "Satisfação e promoção interna",
+        "Separação das aplicações financeiras por finalidade",
+        "Parecer completo de asseguração",
+        "Cumprimento atual da ordem FTC",
+        "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+        "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+      ]
+    },
+    {
+      "id": "saudi-aramco",
+      "name": "Saudi Arabian Oil Company (Saudi Aramco)",
+      "sector": "Energia",
+      "country": "Arábia Saudita",
+      "tickers": [
+        {
+          "exchange": "Saudi Exchange / Tadawul",
+          "symbol": "2222",
+          "url": "https://www.saudiexchange.sa/wps/portal/saudiexchange/newsandreports/issuer-news/issuer-announcements/issuer-announcements-details/?anCat=1&anId=93575&cs=2222&csrt=15247565148337270244&locale=ar",
+          "source": "https://www.saudiexchange.sa/wps/portal/saudiexchange/newsandreports/issuer-news/issuer-announcements/issuer-announcements-details/?anCat=1&anId=93575&cs=2222&csrt=15247565148337270244&locale=ar"
+        }
+      ],
+      "ceo": {
+        "name": "Amin H. Nasser",
+        "role": "President e CEO",
+        "url": "https://www.aramco.com/en/news-media/news/2026/fourth-quarter-and-full-year-press-release",
+        "source": "https://www.aramco.com/en/news-media/news/2026/fourth-quarter-and-full-year-press-release",
+        "as_of": "2026-09-17"
+      },
+      "business_model": "Exploração e produção de petróleo e gás, refino, comercialização e petroquímica. Receitas dependem de volumes e preços de hidrocarbonetos e derivados.",
+      "revenue": {
+        "value": 415824,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+        "note": "Receita IFRS. Não confundir com receita mais outros rendimentos ligados a vendas: USD 445.654 milhões. Tradução suplementar a 3,75 SAR/USD.",
+        "source": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf"
+      },
+      "net_income": {
+        "value": 93389,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+        "note": "Lucro IFRS consolidado; atribuível aos acionistas USD 92.811 milhões. NÃO usar lucro ajustado de USD 104,7 bilhões como se fosse IFRS.",
+        "source": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf"
+      },
+      "capex": {
+        "value": 50785,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+        "note": "Capex em caixa; não confundir com capital investment ampliado de USD 52,2 bilhões.",
+        "source": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf"
+      },
+      "research": {
+        "value": 1451,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+        "note": "Despesa consolidada de P&D; distinta dos USD 974 milhões de pesquisa no perímetro Company in-Kingdom do relatório de sustentabilidade.",
+        "source": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf"
+      },
+      "dividends": {
+        "value": 85453,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+        "note": "Pagos a acionistas da companhia; exclui USD 3.255 milhões pagos a participações não controladoras.",
+        "source": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf"
+      },
+      "buybacks": {
+        "value": 0,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+        "note": "Aquisição de ações em tesouraria: zero no fluxo de 2025. Programa de até USD 3 bilhões anunciado em março/2026 não é desembolso de 2025.",
+        "source": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf"
+      },
+      "employees": {
+        "value": 76664,
+        "currency": null,
+        "unit": "people",
+        "period": "2025-12-31",
+        "url": "https://www.aramco.com/-/media/publications/corporate-reports/sustainability-reports/report-2025/english/2025-saudi-aramco-sustainability-report-full-en.pdf",
+        "note": "PERÍMETRO Company in-Kingdom: não é todo o grupo global consolidado.",
+        "source": "https://www.aramco.com/-/media/publications/corporate-reports/sustainability-reports/report-2025/english/2025-saudi-aramco-sustainability-report-full-en.pdf"
+      },
+      "financial_investments": {
+        "evidence": [
+          {
+            "value": 6575,
+            "currency": "USD",
+            "unit": "million",
+            "period": "2025-01-01/2025-12-31",
+            "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+            "note": "Compras líquidas de investimentos em títulos."
+          },
+          {
+            "value": 389,
+            "currency": "USD",
+            "unit": "million",
+            "period": "2025-01-01/2025-12-31",
+            "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+            "note": "Compras líquidas de investimentos de curto prazo."
+          },
+          {
+            "value": 18513,
+            "currency": "USD",
+            "unit": "million",
+            "period": "2025-12-31",
+            "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+            "note": "Estoque de investimentos em títulos correntes e não correntes."
+          }
+        ],
+        "interpretation": "Há títulos, depósitos e participações estratégicas. Separar liquidez de tesouraria, gestão de risco e investimentos industriais/inovação; o agregado não comprova finalidade especulativa. Fluxo líquido não equivale a percentual exclusivamente financiado com lucro.",
+        "profit_allocation_percentage": null
+      },
+      "worker": [
+        {
+          "claim": "Média de treinamento divulgada no perímetro do relatório; não é orçamento nem prova de satisfação. Valor:  167 horas por empregado.",
+          "text": null,
+          "period": "2025-01-01/2025-12-31",
+          "source": "https://www.aramco.com/-/media/publications/corporate-reports/sustainability-reports/report-2025/english/2025-saudi-aramco-sustainability-report-full-en.pdf",
+          "verification": "Documento da empresa; escopo de verificação consultar fonte",
+          "limitation": null
+        },
+        {
+          "claim": "Fatalidades de contratados relatadas pela companhia em 2025. Valor:  4 deaths.",
+          "text": null,
+          "period": "2025-01-01/2025-12-31",
+          "source": "https://www.aramco.com/-/media/publications/corporate-reports/sustainability-reports/report-2025/english/2025-saudi-aramco-sustainability-report-full-en.pdf",
+          "verification": "Documento da empresa; escopo de verificação consultar fonte",
+          "limitation": null
+        }
+      ],
+      "social_environment": [
+        {
+          "claim": "Relata projetos de educação, biodiversidade, saúde e energia para comunidades.",
+          "text": null,
+          "period": null,
+          "source": "https://www.aramco.com/en/sustainability/sustainability-report/growing-societal-value",
+          "verification": "autorrelato",
+          "limitation": null
+        },
+        {
+          "claim": "Emissões operacionais divulgadas de escopo 1: 58,0 MtCO2e; escopo 2: 14,0 MtCO2e. Esses escopos não cobrem todo o uso dos produtos vendidos.",
+          "text": null,
+          "period": null,
+          "source": "https://www.aramco.com/en/about-us/at-a-glance",
+          "verification": "indicadores corporativos selecionados com asseguração limitada",
+          "limitation": null
+        }
+      ],
+      "legal_cases": [],
+      "legal_review": "Busca inicial não exaustiva: nenhum caso específico da entidade com fonte regulatória e desfecho atual suficiente foi selecionado. Campo vazio não significa inexistência de processos ou irregularidades.",
+      "improvements": [
+        "Vincular desembolsos a remediação e transição ambiental verificáveis, com emissões da cadeia de valor e resultados locais além dos escopos operacionais.",
+        "Divulgar quadro e indicadores do grupo global e de contratados, orçamento de desenvolvimento, satisfação, progressão e prevenção de fatalidades.",
+        "Conciliar destinação anual de capital, dividendos, tesouraria, P&D e contribuições voluntárias, distinguindo remediação obrigatória de impacto adicional."
+      ],
+      "public_contact": {
+        "email": "investor.relations@aramco.com",
+        "channel": "Relações com investidores; solicitar encaminhamento à liderança de sustentabilidade/pessoas. E-mail publicado no relatório oficial de novembro/2025; canal atual também disponibiliza formulário.",
+        "url": "https://www.saudiexchange.sa/Resources/fsPdf/11974_1541_2025-11-04_07-44-51_en.pdf",
+        "form_url": "https://www.aramco.com/en/investors/investor-contact-form",
+        "ceo_direct_email": null,
+        "source": "https://www.saudiexchange.sa/Resources/fsPdf/11974_1541_2025-11-04_07-44-51_en.pdf",
+        "type": "Relações com investidores; solicitar encaminhamento à liderança de sustentabilidade/pessoas. E-mail publicado no relatório oficial de novembro/2025; canal atual também disponibiliza formulário."
+      },
+      "critical_limits": [
+        "USD é tradução suplementar dos valores-base em SAR; não usar câmbio de mercado para reconverter esses números.",
+        "Lucro ajustado e lucro IFRS são diferentes.",
+        "Quadro de 76.664 é Company in-Kingdom, diferente do perímetro financeiro consolidado.",
+        "Contribuição social publicada não basta para certificar a adesão a 30% do lucro.",
+        "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+        "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+      ],
+      "sources": [
+        {
+          "id": "A1",
+          "title": "Demonstrações financeiras consolidadas 2025",
+          "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+          "type": "demonstração auditada",
+          "accessed": "2026-09-17",
+          "accessed_at": "2026-09-18"
+        },
+        {
+          "id": "A2",
+          "title": "Relatório de sustentabilidade 2025",
+          "url": "https://www.aramco.com/-/media/publications/corporate-reports/sustainability-reports/report-2025/english/2025-saudi-aramco-sustainability-report-full-en.pdf",
+          "type": "autorrelato e asseguração limitada de métricas selecionadas",
+          "accessed": "2026-09-17",
+          "accessed_at": "2026-09-18"
+        },
+        {
+          "id": "A3",
+          "title": "Resultados anuais publicados em 10/03/2026",
+          "url": "https://www.aramco.com/en/news-media/news/2026/fourth-quarter-and-full-year-press-release",
+          "type": "comunicado oficial",
+          "accessed": "2026-09-17",
+          "accessed_at": "2026-09-18"
+        },
+        {
+          "id": "A4",
+          "title": "Sociedade: contribuições sociais 2025",
+          "url": "https://www.aramco.com/en/sustainability/society",
+          "type": "autorrelato",
+          "accessed": "2026-09-17",
+          "accessed_at": "2026-09-18"
+        },
+        {
+          "id": "A5",
+          "title": "Relatório oficial com contato IR",
+          "url": "https://www.saudiexchange.sa/Resources/fsPdf/11974_1541_2025-11-04_07-44-51_en.pdf",
+          "type": "contato institucional",
+          "accessed": "2026-09-17",
+          "accessed_at": "2026-09-18"
+        },
+        {
+          "id": "A6",
+          "title": "Saudi Exchange: símbolo 2222 e anúncio de 2026",
+          "url": "https://www.saudiexchange.sa/wps/portal/saudiexchange/newsandreports/issuer-news/issuer-announcements/issuer-announcements-details/?anCat=1&anId=93575&cs=2222&csrt=15247565148337270244&locale=ar",
+          "type": "bolsa oficial",
+          "accessed": "2026-09-17",
+          "accessed_at": "2026-09-18"
+        }
+      ],
+      "short_name": "Saudi Aramco",
+      "market_rank": 10,
+      "market_cap_trillion": 1.646,
+      "assessment_summary": "Lucro e dividendos elevados exigem análise proporcional dos impactos, inclusive climáticos. Indicadores de pessoas e sustentabilidade têm perímetro diferente do consolidado; não é possível inferir uma nota global a partir deles.",
+      "ratings": {},
+      "review": {
+        "status": "partial",
+        "criticalIssuesResolved": false,
+        "date": "2026-09-18"
+      },
+      "honor_score": null,
+      "adherence_score": null,
+      "fiscal_label": "FY2025",
+      "investment_evidence": [
+        {
+          "claim": "Compras líquidas de investimentos em títulos. Valor: USD 6.575 milhões.",
+          "text": null,
+          "period": "2025-01-01/2025-12-31",
+          "source": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+          "verification": "Documento da empresa; escopo de verificação consultar fonte",
+          "limitation": null
+        },
+        {
+          "claim": "Compras líquidas de investimentos de curto prazo. Valor: USD 389 milhões.",
+          "text": null,
+          "period": "2025-01-01/2025-12-31",
+          "source": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+          "verification": "Documento da empresa; escopo de verificação consultar fonte",
+          "limitation": null
+        },
+        {
+          "claim": "Estoque de investimentos em títulos correntes e não correntes. Valor: USD 18.513 milhões.",
+          "text": null,
+          "period": "2025-12-31",
+          "source": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+          "verification": "Documento da empresa; escopo de verificação consultar fonte",
+          "limitation": null
+        },
+        {
+          "claim": "Há títulos, depósitos e participações estratégicas. Separar liquidez de tesouraria, gestão de risco e investimentos industriais/inovação; o agregado não comprova finalidade especulativa. Fluxo líquido não equivale a percentual exclusivamente financiado com lucro.",
+          "text": null,
+          "period": null,
+          "source": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+          "verification": "Interpretação documental",
+          "limitation": null
+        }
+      ],
+      "cases": [],
+      "gaps": [
+        "USD é tradução suplementar dos valores-base em SAR; não usar câmbio de mercado para reconverter esses números.",
+        "Lucro ajustado e lucro IFRS são diferentes.",
+        "Quadro de 76.664 é Company in-Kingdom, diferente do perímetro financeiro consolidado.",
+        "Contribuição social publicada não basta para certificar a adesão a 30% do lucro.",
+        "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+        "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+      ]
+    }
+  ]
+}

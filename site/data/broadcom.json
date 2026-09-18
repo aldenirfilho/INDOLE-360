@@ -1,0 +1,522 @@
+{
+  "normalized": {
+    "id": "broadcom",
+    "name": "Broadcom Inc.",
+    "sector": "Semicondutores",
+    "country": "Estados Unidos",
+    "tickers": [
+      {
+        "exchange": "NASDAQ",
+        "symbol": "AVGO",
+        "source": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025"
+      }
+    ],
+    "ceo": {
+      "name": "Hock Tan",
+      "as_of": "2025-12-11",
+      "source": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025"
+    },
+    "business_model": "Venda de semicondutores; licenciamento, assinaturas e serviços de software de infraestrutura, incluindo VMware. Estrutura produtiva e intensidade de ativos diferem de varejo e nuvem.",
+    "revenue": {
+      "value": 63887,
+      "period": "FY2025 encerrado em 2025-11-02",
+      "currency": "USD",
+      "unit": "million",
+      "source": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025",
+      "definition": "Receita anual GAAP"
+    },
+    "net_income": {
+      "value": 23126,
+      "period": "FY2025 encerrado em 2025-11-02",
+      "currency": "USD",
+      "unit": "million",
+      "source": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025",
+      "definition": "Lucro líquido GAAP"
+    },
+    "capex": {
+      "value": 623,
+      "period": "FY2025 encerrado em 2025-11-02",
+      "currency": "USD",
+      "unit": "million",
+      "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+      "definition": "Compras de imobilizado em caixa"
+    },
+    "research": {
+      "value": 10977,
+      "period": "FY2025 encerrado em 2025-11-02",
+      "currency": "USD",
+      "unit": "million",
+      "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+      "definition": "Despesa de P&D GAAP; pré-lucro"
+    },
+    "dividends": {
+      "value": 11142,
+      "period": "FY2025 encerrado em 2025-11-02",
+      "currency": "USD",
+      "unit": "million",
+      "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+      "definition": "Pagamentos de dividendos"
+    },
+    "buybacks": {
+      "value": 2450,
+      "period": "FY2025 encerrado em 2025-11-02",
+      "currency": "USD",
+      "unit": "million",
+      "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+      "definition": "Programa de recompra de ações próprias",
+      "excluded_tax_withholding": 3860,
+      "excluded_note": "Retenção de ações para tributos na aquisição de direitos por empregados é rubrica separada, não recompra discricionária comparável."
+    },
+    "employees": {
+      "value": 33000,
+      "period": "2025-11-02",
+      "currency": null,
+      "unit": "pessoas",
+      "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+      "definition": "Aproximadamente; 57% em funções de P&D"
+    },
+    "operating_cash_flow": {
+      "value": 27537,
+      "period": "FY2025 encerrado em 2025-11-02",
+      "currency": "USD",
+      "unit": "million",
+      "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+      "definition": "Fluxo de caixa operacional"
+    },
+    "financial_investments": {
+      "evidence": [
+        {
+          "claim": "Compras de investimentos US$597 milhões; vendas US$248 milhões; fluxo líquido calculado US$349 milhões.",
+          "period": "FY2025",
+          "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+          "verification": "demonstração financeira",
+          "limitations": null
+        },
+        {
+          "claim": "Receita de juros US$347 milhões; resultado de investimentos negativo em US$17 milhões.",
+          "period": "FY2025",
+          "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+          "verification": "demonstração financeira",
+          "limitations": null
+        }
+      ],
+      "speculative_profit_allocation_pct": null,
+      "classification": "Aplicações financeiras identificadas; separação estratégica/especulativa incompleta.",
+      "contradictory_review": "Baixo capex próprio é compatível com desenho fabless/terceirização; não prova falta de inovação. P&D US$10.977 milhões é despesa pré-lucro, enquanto dividendos e recompras são fluxos de financiamento."
+    },
+    "social_environment": [
+      {
+        "claim": "Declara US$7,6 milhões em contrapartida a doações de empregados a organizações beneficentes.",
+        "text": null,
+        "period": "2025",
+        "source": "https://www.broadcom.com/company/corporate-responsibility/communities",
+        "verification": "autorrelato empresarial",
+        "limitation": "Valor cobre este programa, não total social; não há avaliação de impacto independente localizada."
+      },
+      {
+        "claim": "Informa asseguração limitada independente sobre emissões de gases de efeito estufa dos escopos 1 e 2 do FY2025.",
+        "text": null,
+        "period": "FY2025",
+        "source": "https://www.broadcom.com/company/corporate-responsibility",
+        "verification": "informação empresarial sobre asseguração",
+        "limitation": "Parecer integral não examinado nesta coleta; não estender a escopo 3 ou projetos sociais."
+      },
+      {
+        "claim": "Meta corporativa de reduzir emissões dos escopos 1 e 2 em 38% até 2030, frente a 2021.",
+        "text": null,
+        "period": "meta 2030/base 2021",
+        "source": "https://www.broadcom.com/company/corporate-responsibility/environment",
+        "verification": "autorrelato empresarial",
+        "limitation": "Compromisso não equivale a resultado alcançado."
+      }
+    ],
+    "worker": [
+      {
+        "claim": "Taxa voluntária de saída relatada de 4,1% no FY2025.",
+        "text": null,
+        "period": "FY2025",
+        "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+        "verification": "autorrelato empresarial",
+        "limitation": "Retenção não equivale a satisfação e exclui desligamentos involuntários."
+      },
+      {
+        "claim": "Índice independente representativo e metodologia não localizados.",
+        "text": null,
+        "period": null,
+        "source": null,
+        "verification": "Documento da empresa; escopo de verificação consultar fonte",
+        "limitation": null
+      },
+      {
+        "claim": "Taxa consolidada comparável não localizada.",
+        "text": null,
+        "period": null,
+        "source": null,
+        "verification": "Documento da empresa; escopo de verificação consultar fonte",
+        "limitation": null
+      }
+    ],
+    "legal_cases": [
+      {
+        "case": "FTC — exclusividade em chips para banda larga e televisão",
+        "regulator": "Federal Trade Commission (EUA)",
+        "event_date": "2021-11-04",
+        "status": "Ordem final por consentimento emitida em 2021 com restrições a exclusividade; ordem prevê término em 2031. Página cadastral da FTC ainda exibe Pending.",
+        "source": "https://www.ftc.gov/legal-library/browse/cases-proceedings/181-0205-broadcom-incorporated-matter",
+        "order_source": "https://www.ftc.gov/system/files/documents/cases/1810205c4750broadcomfinalorder.pdf",
+        "classification": "ordem administrativa por consentimento",
+        "caution": "Explicitar discrepância do rótulo cadastral; não chamar de condenação criminal nem inferir cumprimento integral."
+      }
+    ],
+    "improvements": [
+      "Divulgar indicadores de acessibilidade de licenciamento, previsibilidade contratual, interoperabilidade e suporte, incluindo clientes menores e serviços essenciais.",
+      "Publicar quadro de mobilidade, desligamentos, capacitação e satisfação independente, especialmente em integrações de aquisições.",
+      "Conciliar contribuições comunitárias e gastos reparatórios aos resultados; ampliar verificação da cadeia de suprimentos, escopo 3 e resultados educacionais."
+    ],
+    "public_contact": {
+      "email": "investor.relations@broadcom.com",
+      "type": "Relações com investidores",
+      "source": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025",
+      "is_ceo_direct": false,
+      "sending_note": "Canal público institucional publicado; encaminhamento ao CEO não garantido."
+    },
+    "sources": [
+      {
+        "id": "broadcomAnnual",
+        "url": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+        "accessed_at": "2026-09-18",
+        "title": "Relatório anual — Broadcom"
+      },
+      {
+        "id": "broadcomEarnings",
+        "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025",
+        "accessed_at": "2026-09-18",
+        "title": "Resultados financeiros — Broadcom"
+      },
+      {
+        "id": "broadcomSust",
+        "url": "https://www.broadcom.com/company/corporate-responsibility",
+        "accessed_at": "2026-09-18",
+        "title": "Sustentabilidade — Broadcom"
+      },
+      {
+        "id": "broadcomCommunity",
+        "url": "https://www.broadcom.com/company/corporate-responsibility/communities",
+        "accessed_at": "2026-09-18",
+        "title": "Comunidades — Broadcom"
+      },
+      {
+        "id": "broadcomEnvironment",
+        "url": "https://www.broadcom.com/company/corporate-responsibility/environment",
+        "accessed_at": "2026-09-18",
+        "title": "Ambiente — Broadcom"
+      },
+      {
+        "id": "broadcomFTC",
+        "url": "https://www.ftc.gov/legal-library/browse/cases-proceedings/181-0205-broadcom-incorporated-matter",
+        "accessed_at": "2026-09-18",
+        "title": "Documento da FTC — Broadcom"
+      },
+      {
+        "id": "broadcomFTCOrder",
+        "url": "https://www.ftc.gov/system/files/documents/cases/1810205c4750broadcomfinalorder.pdf",
+        "accessed_at": "2026-09-18",
+        "title": "Ordem final da FTC — Broadcom"
+      }
+    ],
+    "assessment": {
+      "status": "Dossiê preliminar; sem pontuação de índole",
+      "ranking": null,
+      "confidence": "Alta nas demonstrações financeiras; evidência social parcial",
+      "remaining_gaps": [
+        "Total de investimento social e resultados",
+        "Satisfação e promoção interna",
+        "Separação das aplicações financeiras por finalidade",
+        "Parecer completo de asseguração",
+        "Cumprimento atual da ordem FTC",
+        "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+        "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+      ]
+    },
+    "short_name": "Broadcom",
+    "market_rank": 9,
+    "market_cap_trillion": 1.657,
+    "assessment_summary": "Pesquisa e modelo de produção terceirizada exigem leitura além do CAPEX. Licenciamento, consumidores, integração de trabalhadores e cumprimento de compromissos concorrenciais devem completar a avaliação.",
+    "ratings": {},
+    "review": {
+      "status": "partial",
+      "criticalIssuesResolved": false,
+      "date": "2026-09-18"
+    },
+    "honor_score": null,
+    "adherence_score": null,
+    "fiscal_label": "FY2025",
+    "investment_evidence": [
+      {
+        "claim": "Compras de investimentos US$597 milhões; vendas US$248 milhões; fluxo líquido calculado US$349 milhões.",
+        "text": null,
+        "period": "FY2025",
+        "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+        "verification": "demonstração financeira",
+        "limitation": null
+      },
+      {
+        "claim": "Receita de juros US$347 milhões; resultado de investimentos negativo em US$17 milhões.",
+        "text": null,
+        "period": "FY2025",
+        "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+        "verification": "demonstração financeira",
+        "limitation": null
+      },
+      {
+        "claim": "Aplicações financeiras identificadas; separação estratégica/especulativa incompleta.",
+        "text": null,
+        "period": null,
+        "source": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025",
+        "verification": "Interpretação documental",
+        "limitation": null
+      },
+      {
+        "claim": "Baixo capex próprio é compatível com desenho fabless/terceirização; não prova falta de inovação. P&D US$10.977 milhões é despesa pré-lucro, enquanto dividendos e recompras são fluxos de financiamento.",
+        "text": null,
+        "period": null,
+        "source": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025",
+        "verification": "Interpretação documental",
+        "limitation": null
+      }
+    ],
+    "cases": [
+      {
+        "claim": "FTC — exclusividade em chips para banda larga e televisão",
+        "text": "Ordem final por consentimento emitida em 2021 com restrições a exclusividade; ordem prevê término em 2031. Página cadastral da FTC ainda exibe Pending.",
+        "period": "2021-11-04",
+        "source": "https://www.ftc.gov/legal-library/browse/cases-proceedings/181-0205-broadcom-incorporated-matter",
+        "verification": "Federal Trade Commission (EUA)",
+        "limitation": "Explicitar discrepância do rótulo cadastral; não chamar de condenação criminal nem inferir cumprimento integral."
+      }
+    ],
+    "gaps": [
+      "Total de investimento social e resultados",
+      "Satisfação e promoção interna",
+      "Separação das aplicações financeiras por finalidade",
+      "Parecer completo de asseguração",
+      "Cumprimento atual da ordem FTC",
+      "Série financeira de cinco a dez anos e avaliações histórica e atual completas.",
+      "Onze dimensões e aderência 30/30/30/10 ainda sem conciliação e revisão integral."
+    ]
+  },
+  "research_original": {
+    "id": "broadcom",
+    "name": "Broadcom Inc.",
+    "sector": "Semicondutores e software de infraestrutura",
+    "country": "Estados Unidos",
+    "tickers": [
+      {
+        "exchange": "NASDAQ",
+        "symbol": "AVGO",
+        "source": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025"
+      }
+    ],
+    "ceo": {
+      "name": "Hock Tan",
+      "as_of": "2025-12-11",
+      "source": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025"
+    },
+    "business_model": "Venda de semicondutores; licenciamento, assinaturas e serviços de software de infraestrutura, incluindo VMware. Estrutura produtiva e intensidade de ativos diferem de varejo e nuvem.",
+    "revenue": {
+      "value": 63887,
+      "period": "FY2025 encerrado em 2025-11-02",
+      "currency": "USD",
+      "unit": "million",
+      "source": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025",
+      "definition": "Receita anual GAAP"
+    },
+    "net_income": {
+      "value": 23126,
+      "period": "FY2025 encerrado em 2025-11-02",
+      "currency": "USD",
+      "unit": "million",
+      "source": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025",
+      "definition": "Lucro líquido GAAP"
+    },
+    "capex": {
+      "value": 623,
+      "period": "FY2025 encerrado em 2025-11-02",
+      "currency": "USD",
+      "unit": "million",
+      "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+      "definition": "Compras de imobilizado em caixa"
+    },
+    "research": {
+      "value": 10977,
+      "period": "FY2025 encerrado em 2025-11-02",
+      "currency": "USD",
+      "unit": "million",
+      "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+      "definition": "Despesa de P&D GAAP; pré-lucro"
+    },
+    "dividends": {
+      "value": 11142,
+      "period": "FY2025 encerrado em 2025-11-02",
+      "currency": "USD",
+      "unit": "million",
+      "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+      "definition": "Pagamentos de dividendos"
+    },
+    "buybacks": {
+      "value": 2450,
+      "period": "FY2025 encerrado em 2025-11-02",
+      "currency": "USD",
+      "unit": "million",
+      "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+      "definition": "Programa de recompra de ações próprias",
+      "excluded_tax_withholding": 3860,
+      "excluded_note": "Retenção de ações para tributos na aquisição de direitos por empregados é rubrica separada, não recompra discricionária comparável."
+    },
+    "employees": {
+      "value": 33000,
+      "period": "2025-11-02",
+      "currency": null,
+      "unit": "pessoas",
+      "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+      "definition": "Aproximadamente; 57% em funções de P&D"
+    },
+    "operating_cash_flow": {
+      "value": 27537,
+      "period": "FY2025 encerrado em 2025-11-02",
+      "currency": "USD",
+      "unit": "million",
+      "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+      "definition": "Fluxo de caixa operacional"
+    },
+    "financial_investments": {
+      "evidence": [
+        {
+          "claim": "Compras de investimentos US$597 milhões; vendas US$248 milhões; fluxo líquido calculado US$349 milhões.",
+          "period": "FY2025",
+          "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+          "verification": "demonstração financeira",
+          "limitations": null
+        },
+        {
+          "claim": "Receita de juros US$347 milhões; resultado de investimentos negativo em US$17 milhões.",
+          "period": "FY2025",
+          "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+          "verification": "demonstração financeira",
+          "limitations": null
+        }
+      ],
+      "speculative_profit_allocation_pct": null,
+      "classification": "Aplicações financeiras identificadas; separação estratégica/especulativa incompleta.",
+      "contradictory_review": "Baixo capex próprio é compatível com desenho fabless/terceirização; não prova falta de inovação. P&D US$10.977 milhões é despesa pré-lucro, enquanto dividendos e recompras são fluxos de financiamento."
+    },
+    "social_environment": [
+      {
+        "claim": "Declara US$7,6 milhões em contrapartida a doações de empregados a organizações beneficentes.",
+        "period": "2025",
+        "source": "https://www.broadcom.com/company/corporate-responsibility/communities",
+        "verification": "autorrelato empresarial",
+        "limitations": "Valor cobre este programa, não total social; não há avaliação de impacto independente localizada."
+      },
+      {
+        "claim": "Informa asseguração limitada independente sobre emissões de gases de efeito estufa dos escopos 1 e 2 do FY2025.",
+        "period": "FY2025",
+        "source": "https://www.broadcom.com/company/corporate-responsibility",
+        "verification": "informação empresarial sobre asseguração",
+        "limitations": "Parecer integral não examinado nesta coleta; não estender a escopo 3 ou projetos sociais."
+      },
+      {
+        "claim": "Meta corporativa de reduzir emissões dos escopos 1 e 2 em 38% até 2030, frente a 2021.",
+        "period": "meta 2030/base 2021",
+        "source": "https://www.broadcom.com/company/corporate-responsibility/environment",
+        "verification": "autorrelato empresarial",
+        "limitations": "Compromisso não equivale a resultado alcançado."
+      }
+    ],
+    "worker": [
+      {
+        "claim": "Taxa voluntária de saída relatada de 4,1% no FY2025.",
+        "period": "FY2025",
+        "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+        "verification": "autorrelato empresarial",
+        "limitations": "Retenção não equivale a satisfação e exclui desligamentos involuntários."
+      },
+      {
+        "metric": "employee_satisfaction",
+        "value": null,
+        "reason": "Índice independente representativo e metodologia não localizados."
+      },
+      {
+        "metric": "internal_promotion_rate",
+        "value": null,
+        "reason": "Taxa consolidada comparável não localizada."
+      }
+    ],
+    "legal_cases": [
+      {
+        "case": "FTC — exclusividade em chips para banda larga e televisão",
+        "regulator": "Federal Trade Commission (EUA)",
+        "event_date": "2021-11-04",
+        "status": "Ordem final por consentimento emitida em 2021 com restrições a exclusividade; ordem prevê término em 2031. Página cadastral da FTC ainda exibe Pending.",
+        "source": "https://www.ftc.gov/legal-library/browse/cases-proceedings/181-0205-broadcom-incorporated-matter",
+        "order_source": "https://www.ftc.gov/system/files/documents/cases/1810205c4750broadcomfinalorder.pdf",
+        "classification": "ordem administrativa por consentimento",
+        "caution": "Explicitar discrepância do rótulo cadastral; não chamar de condenação criminal nem inferir cumprimento integral."
+      }
+    ],
+    "improvements": [
+      "Divulgar indicadores de acessibilidade de licenciamento, previsibilidade contratual, interoperabilidade e suporte, incluindo clientes menores e serviços essenciais.",
+      "Publicar quadro de mobilidade, desligamentos, capacitação e satisfação independente, especialmente em integrações de aquisições.",
+      "Conciliar contribuições comunitárias e gastos reparatórios aos resultados; ampliar verificação da cadeia de suprimentos, escopo 3 e resultados educacionais."
+    ],
+    "public_contact": {
+      "email": "investor.relations@broadcom.com",
+      "type": "Relações com investidores",
+      "source": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025",
+      "is_ceo_direct": false,
+      "sending_note": "Canal público institucional publicado; encaminhamento ao CEO não garantido."
+    },
+    "sources": [
+      {
+        "id": "broadcomAnnual",
+        "url": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf"
+      },
+      {
+        "id": "broadcomEarnings",
+        "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025"
+      },
+      {
+        "id": "broadcomSust",
+        "url": "https://www.broadcom.com/company/corporate-responsibility"
+      },
+      {
+        "id": "broadcomCommunity",
+        "url": "https://www.broadcom.com/company/corporate-responsibility/communities"
+      },
+      {
+        "id": "broadcomEnvironment",
+        "url": "https://www.broadcom.com/company/corporate-responsibility/environment"
+      },
+      {
+        "id": "broadcomFTC",
+        "url": "https://www.ftc.gov/legal-library/browse/cases-proceedings/181-0205-broadcom-incorporated-matter"
+      },
+      {
+        "id": "broadcomFTCOrder",
+        "url": "https://www.ftc.gov/system/files/documents/cases/1810205c4750broadcomfinalorder.pdf"
+      }
+    ],
+    "assessment": {
+      "status": "Dossiê preliminar; sem pontuação de índole",
+      "ranking": null,
+      "confidence": "Alta nas demonstrações financeiras; evidência social parcial",
+      "remaining_gaps": [
+        "Total de investimento social e resultados",
+        "Satisfação e promoção interna",
+        "Separação das aplicações financeiras por finalidade",
+        "Parecer completo de asseguração",
+        "Cumprimento atual da ordem FTC"
+      ]
+    }
+  }
+}

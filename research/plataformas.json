@@ -1,0 +1,693 @@
+{
+  "schema_version": "1.0",
+  "project": "ÍNDOLE 360°",
+  "research_cutoff": "2026-09-17",
+  "scope": "Amazon, Meta e Broadcom; demonstrações anuais 2025; casos regulatórios selecionados, não busca exaustiva.",
+  "accounting_caveats": [
+    "P&D e benefícios de empregados normalmente são despesas anteriores ao lucro líquido; não representam automaticamente destinação do lucro após sua apuração.",
+    "Capex é fluxo de investimento; inclui ativos que serão depreciados. Somá-lo integralmente ao P&D e dividir pelo lucro não gera partição 30:30:30:10.",
+    "Compras de títulos brutas incluem rolagem de aplicações. Subtrair vendas/vencimentos identifica fluxo líquido, mas não demonstra origem no lucro do ano nem motivação especulativa.",
+    "Caixa, fluxo operacional e lucro não são a mesma grandeza. Investimentos podem ser financiados por dívida, capital anterior ou emissões.",
+    "Recompras de ações próprias, aplicações em ações de terceiros, aquisição estratégica e retenção de tributos de ações de empregados são itens distintos.",
+    "Ausência de dado equivale a desconhecido; não equivale a zero, ausência de ação social ou desonestidade.",
+    "Relatório financeiro auditado não torna todas as narrativas sociais auditadas. Asseguração limitada tem escopo e período específicos.",
+    "Não é possível acreditar a índole total nem ordenar estas empresas moralmente com este recorte. O modelo 30:30:30:10 é proposta normativa, não obrigação legal universal."
+  ],
+  "companies": [
+    {
+      "id": "amazon",
+      "name": "Amazon.com, Inc.",
+      "sector": "Comércio eletrônico, logística, computação em nuvem e publicidade",
+      "country": "Estados Unidos",
+      "tickers": [
+        {
+          "exchange": "NASDAQ",
+          "symbol": "AMZN",
+          "source": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/"
+        }
+      ],
+      "ceo": {
+        "name": "Andy Jassy",
+        "as_of": "2026-02-05",
+        "source": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/"
+      },
+      "business_model": "Venda de produtos; comissões, logística e serviços a vendedores; assinaturas; publicidade; infraestrutura AWS. Lucro operacional segmentado difere do lucro líquido consolidado.",
+      "revenue": {
+        "value": 716924,
+        "period": "2025-01-01/2025-12-31",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/",
+        "definition": "Vendas líquidas anuais"
+      },
+      "net_income": {
+        "value": 77670,
+        "period": "2025-01-01/2025-12-31",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/",
+        "definition": "Lucro líquido GAAP"
+      },
+      "capex": {
+        "value": 131819,
+        "period": "2025-01-01/2025-12-31",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/",
+        "definition": "Compras brutas de imobilizado em caixa",
+        "net_of_sales_and_incentives": 128320,
+        "net_definition": "131819 menos 3499 de vendas e incentivos; não inclui amortização de arrendamentos financeiros"
+      },
+      "research": {
+        "value": null,
+        "period": "2025-01-01/2025-12-31",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://s2.q4cdn.com/299287126/files/doc_financials/2026/ar/Amazon-2025-Annual-Report.pdf",
+        "definition": "P&D puro não segregado nesta coleta",
+        "proxy": {
+          "value": 108521,
+          "currency": "USD",
+          "unit": "million",
+          "definition": "Technology and infrastructure",
+          "warning": "Rubrica ampla inclui infraestrutura, depreciação, manutenção, pessoal e P&D. Não usar como P&D puro.",
+          "source": "https://s2.q4cdn.com/299287126/files/doc_financials/2026/ar/Amazon-2025-Annual-Report.pdf"
+        }
+      },
+      "dividends": {
+        "value": 0,
+        "period": "2025-01-01/2025-12-31",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://s2.q4cdn.com/299287126/files/doc_financials/2026/ar/Amazon-2025-Annual-Report.pdf",
+        "definition": "Dividendos em dinheiro no exercício",
+        "evidence_note": "Nenhum dividendo consta da demonstração anual de fluxos de financiamento; rubricas reconciliam ao total.",
+        "evidence_type": "extração das demonstrações financeiras"
+      },
+      "buybacks": {
+        "value": 0,
+        "period": "2025-01-01/2025-12-31",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://s2.q4cdn.com/299287126/files/doc_financials/2026/ar/Amazon-2025-Annual-Report.pdf",
+        "definition": "Recompras de ações próprias",
+        "evidence_note": "Nota Stock Repurchase Activity declara inexistência em 2023, 2024 e 2025."
+      },
+      "employees": {
+        "value": 1576000,
+        "period": "2025-12-31",
+        "currency": null,
+        "unit": "pessoas",
+        "source": "https://s2.q4cdn.com/299287126/files/doc_financials/2026/ar/Amazon-2025-Annual-Report.pdf",
+        "definition": "Empregados em tempo integral e parcial, aproximadamente; não inclui integralmente contratados independentes"
+      },
+      "operating_cash_flow": {
+        "value": 139514,
+        "period": "2025-01-01/2025-12-31",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/",
+        "definition": "Fluxo de caixa operacional"
+      },
+      "financial_investments": {
+        "evidence": [
+          {
+            "claim": "Compras de títulos negociáveis: US$54.770 milhões; vendas/vencimentos: US$44.386 milhões; fluxo líquido calculado: US$10.384 milhões.",
+            "period": "2025",
+            "source": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/",
+            "verification": "demonstração financeira",
+            "limitations": null
+          },
+          {
+            "claim": "Investimento em notas conversíveis Anthropic de US$2.700 milhões em 2025; existe também vínculo comercial com AWS.",
+            "period": "2025",
+            "source": "https://s2.q4cdn.com/299287126/files/doc_financials/2026/ar/Amazon-2025-Annual-Report.pdf",
+            "verification": "relatório anual",
+            "limitations": null
+          },
+          {
+            "claim": "Receita de juros US$4.381 milhões; outros resultados líquidos US$15.229 milhões, com efeitos relevantes de reavaliação/conversão Anthropic.",
+            "period": "2025",
+            "source": "https://s2.q4cdn.com/299287126/files/doc_financials/2026/ar/Amazon-2025-Annual-Report.pdf",
+            "verification": "demonstração financeira",
+            "limitations": null
+          }
+        ],
+        "speculative_profit_allocation_pct": null,
+        "classification": "Tesouraria e participações com vínculo estratégico identificado; fração puramente especulativa não demonstrada.",
+        "contradictory_review": "A presença de títulos e ganhos financeiros não prova abandono de produtos: também há investimento operacional substancial. Reavaliação contábil não é caixa distribuível. Compra bruta de títulos não pode ser tratada como percentual do lucro desviado."
+      },
+      "social_environment": [
+        {
+          "claim": "Relata correspondência de 100% do consumo de eletricidade com fontes renováveis em 2025; emissões absolutas aumentaram 16% frente a 2024.",
+          "period": "2025",
+          "source": "https://sustainability.aboutamazon.com/2025-report",
+          "verification": "autorrelato empresarial",
+          "limitations": "Correspondência anual contratual não prova operação física sem carbono 24 horas/dia; asseguração de cada métrica não conferida."
+        },
+        {
+          "claim": "Relata US$11,3 bilhões de benefícios a empregados em 61 países, US$1,2 bilhão de aumento incremental de remuneração na operação dos EUA e US$500 milhões de reajustes internacionais.",
+          "period": "2025",
+          "source": "https://sustainability.aboutamazon.com/2025-report",
+          "verification": "autorrelato empresarial",
+          "limitations": "Não corresponde automaticamente a despesas extras pós-lucro; evitar dupla contagem com folha e custos."
+        }
+      ],
+      "worker": [
+        {
+          "claim": "Relata melhora de 14% anual na taxa global de lesões registráveis e de afastamento; mais de US$2,5 bilhões em segurança desde 2019.",
+          "period": "2025 e acumulado desde 2019",
+          "source": "https://www.aboutamazon.com/news/workplace/amazon-workplace-safety-2025-injury-reduction",
+          "verification": "autorrelato empresarial",
+          "limitations": "Montante acumulado não deve ser dividido pelo lucro de apenas 2025; comparação exige denominadores e cobertura equivalentes."
+        },
+        {
+          "claim": "Acordo OSHA de dezembro de 2024 exige programa corporativo de ergonomia e prevê penalidade de US$145 mil.",
+          "period": "2024-12-19",
+          "source": "https://www.dol.gov/newsroom/releases/osha/osha20241219",
+          "verification": "regulador público",
+          "limitations": "Obrigação contratual não demonstra implementação integral; verificar acompanhamento."
+        },
+        {
+          "metric": "employee_satisfaction",
+          "value": null,
+          "reason": "Pesquisa representativa independente, metodologia e resultado não localizados nesta coleta."
+        },
+        {
+          "metric": "internal_promotion_rate",
+          "value": null,
+          "reason": "Taxa consolidada comparável não localizada."
+        }
+      ],
+      "legal_cases": [
+        {
+          "case": "FTC — inscrição/cancelamento Amazon Prime",
+          "regulator": "Federal Trade Commission (EUA)",
+          "event_date": "2025-09-25",
+          "status": "Acordo judicial anunciado: US$1 bilhão de penalidade civil e US$1,5 bilhão para restituição; obrigações sobre adesão/cancelamento.",
+          "source": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-secures-historic-25-billion-settlement-against-amazon",
+          "classification": "acordo",
+          "caution": "Não descrever como condenação criminal nem supor admissão de todas as alegações; execução de pagamentos não verificada integralmente até a data-corte."
+        },
+        {
+          "case": "OSHA — ergonomia",
+          "regulator": "Occupational Safety and Health Administration / Department of Labor (EUA)",
+          "event_date": "2024-12-19",
+          "status": "Acordo corporativo para resolver múltiplos casos de ergonomia; programa, inspeções e penalidade previstos.",
+          "source": "https://www.dol.gov/newsroom/releases/osha/osha20241219",
+          "classification": "acordo",
+          "caution": "Não equivale a comprovação de cumprimento integral."
+        }
+      ],
+      "improvements": [
+        "Publicar painel de segurança por unidade e vínculo, com denominadores, lesões musculoesqueléticas, auditoria independente, acompanhamento do acordo OSHA e participação de trabalhadores.",
+        "Separar publicamente despesas recorrentes, reinvestimento adicional, reparação, doações e tesouraria; conciliar cada rubrica às demonstrações anuais.",
+        "Ampliar simplificação de cancelamento/assinaturas e atendimento humano; ligar expansão de IA e logística a metas de emissões absolutas, água local e requalificação com manutenção da renda."
+      ],
+      "public_contact": {
+        "email": "amazon-ir@amazon.com",
+        "type": "Relações com investidores",
+        "source": "https://ir.aboutamazon.com/contact-us-and-request-documents/",
+        "is_ceo_direct": false,
+        "sending_note": "Canal público institucional; solicitar encaminhamento a sustentabilidade, pessoas e diretoria. Entrega ao CEO não garantida."
+      },
+      "sources": [
+        {
+          "id": "amazonAnnual",
+          "url": "https://s2.q4cdn.com/299287126/files/doc_financials/2026/ar/Amazon-2025-Annual-Report.pdf"
+        },
+        {
+          "id": "amazonEarnings",
+          "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/"
+        },
+        {
+          "id": "amazonSust",
+          "url": "https://sustainability.aboutamazon.com/2025-report"
+        },
+        {
+          "id": "amazonSafety",
+          "url": "https://www.aboutamazon.com/news/workplace/amazon-workplace-safety-2025-injury-reduction"
+        },
+        {
+          "id": "amazonFTC",
+          "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-secures-historic-25-billion-settlement-against-amazon"
+        },
+        {
+          "id": "amazonOSHA",
+          "url": "https://www.dol.gov/newsroom/releases/osha/osha20241219"
+        },
+        {
+          "id": "amazonContact",
+          "url": "https://ir.aboutamazon.com/contact-us-and-request-documents/"
+        }
+      ],
+      "assessment": {
+        "status": "Dossiê preliminar; sem pontuação de índole",
+        "ranking": null,
+        "confidence": "Alta nos valores financeiros extraídos; parcial nas narrativas e resultados sociais",
+        "remaining_gaps": [
+          "Destinação exata do lucro",
+          "Satisfação dos empregados",
+          "Promoções internas",
+          "Resultado independente dos projetos sociais",
+          "Verificação completa de cumprimento dos acordos"
+        ]
+      }
+    },
+    {
+      "id": "meta",
+      "name": "Meta Platforms, Inc.",
+      "sector": "Plataformas sociais, publicidade digital e tecnologias imersivas",
+      "country": "Estados Unidos",
+      "tickers": [
+        {
+          "exchange": "NASDAQ",
+          "symbol": "META",
+          "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/"
+        }
+      ],
+      "ceo": {
+        "name": "Mark Zuckerberg",
+        "as_of": "2026-01-28",
+        "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm"
+      },
+      "business_model": "Receita principalmente com publicidade em Facebook e Instagram; outros serviços e dispositivos/tecnologia Reality Labs. Incentivos ligados ao desempenho publicitário requerem avaliação própria de proteção de usuários.",
+      "revenue": {
+        "value": 200966,
+        "period": "2025-01-01/2025-12-31",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+        "definition": "Receita anual GAAP"
+      },
+      "net_income": {
+        "value": 60458,
+        "period": "2025-01-01/2025-12-31",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+        "definition": "Lucro líquido GAAP"
+      },
+      "capex": {
+        "value": 69691,
+        "period": "2025-01-01/2025-12-31",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+        "definition": "Compras de imobilizado em caixa",
+        "including_finance_lease_principal": 72215,
+        "finance_lease_principal": 2524,
+        "company_headline_rounded_billion": 72.22
+      },
+      "research": {
+        "value": 57372,
+        "period": "2025-01-01/2025-12-31",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+        "definition": "Despesa de P&D; já deduzida na apuração do lucro"
+      },
+      "dividends": {
+        "value": 5324,
+        "period": "2025-01-01/2025-12-31",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+        "definition": "Pagamentos de dividendos e equivalentes"
+      },
+      "buybacks": {
+        "value": 26248,
+        "period": "2025-01-01/2025-12-31",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+        "definition": "Recompras de ações classe A em caixa",
+        "equity_statement_amount": 26264,
+        "equity_statement_note": "Demonstração patrimonial registra 26.264 milhões, incluindo tributos; não confundir com desembolso de 26.248 milhões."
+      },
+      "employees": {
+        "value": 78865,
+        "period": "2025-12-31",
+        "currency": null,
+        "unit": "pessoas",
+        "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+        "definition": "Quadro consolidado de empregados"
+      },
+      "operating_cash_flow": {
+        "value": 115800,
+        "period": "2025-01-01/2025-12-31",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+        "definition": "Fluxo de caixa operacional"
+      },
+      "financial_investments": {
+        "evidence": [
+          {
+            "claim": "Compras de títulos negociáveis US$36.929 milhões; vendas/vencimentos US$26.874 milhões; aplicação líquida calculada US$10.055 milhões.",
+            "period": "2025",
+            "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+            "verification": "demonstração financeira",
+            "limitations": null
+          },
+          {
+            "claim": "Compras de participações não negociáveis US$18.330 milhões; entre as participações destaca-se Scale AI de US$13.800 milhões.",
+            "period": "2025",
+            "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+            "verification": "relatório anual",
+            "limitations": null
+          }
+        ],
+        "speculative_profit_allocation_pct": null,
+        "classification": "Tesouraria e participações empresariais; propósito exclusivamente especulativo não comprovado.",
+        "contradictory_review": "Tesouraria diversificada e investimento estratégico não são equivalentes a ausência de reinvestimento. P&D, folha, capex e investimentos financeiros podem se sobrepor economicamente; não são fatias exclusivas do lucro."
+      },
+      "social_environment": [
+        {
+          "claim": "Relatório publicado em 2025 informa restituição de mais de 1,6 bilhão de galões de água em regiões de estresse hídrico alto/médio em 2024.",
+          "period": "2024",
+          "source": "https://sustainability.atmeta.com/asset/2025-sustainability-report",
+          "verification": "autorrelato empresarial",
+          "limitations": "Ano de publicação não é ano da métrica; não usar como indicador de 2025."
+        },
+        {
+          "claim": "Ernst & Young revisou indicadores selecionados de sustentabilidade do exercício 2024 com asseguração limitada; restante do relatório excluído do escopo.",
+          "period": "2024",
+          "source": "https://sustainability.atmeta.com/asset/2025-independent-accountants-review-report/",
+          "verification": "asseguração limitada independente",
+          "limitations": "Não é auditoria integral nem atestado geral de sustentabilidade."
+        }
+      ],
+      "worker": [
+        {
+          "claim": "Relata alcançar mais de 60 mil trabalhadores da manufatura com ações de capacitação sobre direitos humanos e conformidade ambiental.",
+          "period": "2024",
+          "source": "https://sustainability.atmeta.com/asset/2025-sustainability-report",
+          "verification": "autorrelato empresarial",
+          "limitations": "Alcance não mede satisfação, melhoria salarial ou remediação efetiva."
+        },
+        {
+          "claim": "Declara avaliações semestrais de desempenho e acesso a treinamento/ferramentas de IA; descreve apoio rescisório aos desligados.",
+          "period": "2025",
+          "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+          "verification": "autorrelato empresarial",
+          "limitations": "Não há garantia de estabilidade nem resultado independente de bem-estar."
+        },
+        {
+          "metric": "employee_satisfaction",
+          "value": null,
+          "reason": "Índice independente representativo e metodologia não localizados."
+        },
+        {
+          "metric": "internal_promotion_rate",
+          "value": null,
+          "reason": "Taxa consolidada comparável não localizada."
+        }
+      ],
+      "legal_cases": [
+        {
+          "case": "FTC — monopolização / Instagram e WhatsApp",
+          "regulator": "Federal Trade Commission (EUA)",
+          "event_date": "2026-01-20",
+          "status": "Tribunal decidiu favoravelmente à Meta em novembro de 2025; FTC apresentou aviso de recurso em janeiro de 2026.",
+          "source": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-appeals-ruling-meta-monopolization-case",
+          "classification": "decisão favorável à empresa e recurso anunciado",
+          "caution": "Não chamar Meta de condenada por monopolização neste caso. Desfecho posterior do recurso não confirmado nesta coleta."
+        },
+        {
+          "case": "Comissão Europeia — modelo consentir ou pagar / DMA",
+          "regulator": "Comissão Europeia",
+          "event_date": "2025-04-23",
+          "status": "Decisão administrativa por descumprimento com multa de EUR 200 milhões.",
+          "source": "https://digital-strategy.ec.europa.eu/en/news/commission-finds-apple-and-meta-breach-digital-markets-act",
+          "classification": "decisão administrativa",
+          "caution": "Não afirmar trânsito em julgado; recurso e conformidade posterior exigem atualização."
+        }
+      ],
+      "improvements": [
+        "Publicar métricas auditáveis de segurança, fraudes e recursos de usuários, com tempo de resposta humana, resultados por faixa etária e acessibilidade.",
+        "Apresentar plano de humanização da IA com requalificação, mobilidade interna e indicadores de qualidade do emprego incluindo terceirizados.",
+        "Conciliar orçamento socioambiental aos impactos próprios e publicar resultados por bacia hidrográfica e emissões absolutas, com escopo de asseguração e anos claramente identificados."
+      ],
+      "public_contact": {
+        "email": "investor@meta.com",
+        "type": "Relações com investidores",
+        "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+        "is_ceo_direct": false,
+        "sending_note": "Canal institucional publicado; solicitar encaminhamento à diretoria responsável."
+      },
+      "sources": [
+        {
+          "id": "metaAnnual",
+          "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm"
+        },
+        {
+          "id": "metaEarnings",
+          "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/"
+        },
+        {
+          "id": "metaSust",
+          "url": "https://sustainability.atmeta.com/asset/2025-sustainability-report"
+        },
+        {
+          "id": "metaAssurance",
+          "url": "https://sustainability.atmeta.com/asset/2025-independent-accountants-review-report/"
+        },
+        {
+          "id": "metaFTC",
+          "url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-appeals-ruling-meta-monopolization-case"
+        },
+        {
+          "id": "metaEU",
+          "url": "https://digital-strategy.ec.europa.eu/en/news/commission-finds-apple-and-meta-breach-digital-markets-act"
+        }
+      ],
+      "assessment": {
+        "status": "Dossiê preliminar; sem pontuação de índole",
+        "ranking": null,
+        "confidence": "Alta para demonstrações financeiras; asseguração ambiental limitada e de 2024",
+        "remaining_gaps": [
+          "Destinação exata do lucro",
+          "Dados socioambientais de 2025 comparáveis",
+          "Satisfação e promoção interna",
+          "Eficácia independente de segurança dos usuários",
+          "Desfecho de recursos regulatórios"
+        ]
+      }
+    },
+    {
+      "id": "broadcom",
+      "name": "Broadcom Inc.",
+      "sector": "Semicondutores e software de infraestrutura",
+      "country": "Estados Unidos",
+      "tickers": [
+        {
+          "exchange": "NASDAQ",
+          "symbol": "AVGO",
+          "source": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025"
+        }
+      ],
+      "ceo": {
+        "name": "Hock Tan",
+        "as_of": "2025-12-11",
+        "source": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025"
+      },
+      "business_model": "Venda de semicondutores; licenciamento, assinaturas e serviços de software de infraestrutura, incluindo VMware. Estrutura produtiva e intensidade de ativos diferem de varejo e nuvem.",
+      "revenue": {
+        "value": 63887,
+        "period": "FY2025 encerrado em 2025-11-02",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025",
+        "definition": "Receita anual GAAP"
+      },
+      "net_income": {
+        "value": 23126,
+        "period": "FY2025 encerrado em 2025-11-02",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025",
+        "definition": "Lucro líquido GAAP"
+      },
+      "capex": {
+        "value": 623,
+        "period": "FY2025 encerrado em 2025-11-02",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+        "definition": "Compras de imobilizado em caixa"
+      },
+      "research": {
+        "value": 10977,
+        "period": "FY2025 encerrado em 2025-11-02",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+        "definition": "Despesa de P&D GAAP; pré-lucro"
+      },
+      "dividends": {
+        "value": 11142,
+        "period": "FY2025 encerrado em 2025-11-02",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+        "definition": "Pagamentos de dividendos"
+      },
+      "buybacks": {
+        "value": 2450,
+        "period": "FY2025 encerrado em 2025-11-02",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+        "definition": "Programa de recompra de ações próprias",
+        "excluded_tax_withholding": 3860,
+        "excluded_note": "Retenção de ações para tributos na aquisição de direitos por empregados é rubrica separada, não recompra discricionária comparável."
+      },
+      "employees": {
+        "value": 33000,
+        "period": "2025-11-02",
+        "currency": null,
+        "unit": "pessoas",
+        "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+        "definition": "Aproximadamente; 57% em funções de P&D"
+      },
+      "operating_cash_flow": {
+        "value": 27537,
+        "period": "FY2025 encerrado em 2025-11-02",
+        "currency": "USD",
+        "unit": "million",
+        "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+        "definition": "Fluxo de caixa operacional"
+      },
+      "financial_investments": {
+        "evidence": [
+          {
+            "claim": "Compras de investimentos US$597 milhões; vendas US$248 milhões; fluxo líquido calculado US$349 milhões.",
+            "period": "FY2025",
+            "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+            "verification": "demonstração financeira",
+            "limitations": null
+          },
+          {
+            "claim": "Receita de juros US$347 milhões; resultado de investimentos negativo em US$17 milhões.",
+            "period": "FY2025",
+            "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+            "verification": "demonstração financeira",
+            "limitations": null
+          }
+        ],
+        "speculative_profit_allocation_pct": null,
+        "classification": "Aplicações financeiras identificadas; separação estratégica/especulativa incompleta.",
+        "contradictory_review": "Baixo capex próprio é compatível com desenho fabless/terceirização; não prova falta de inovação. P&D US$10.977 milhões é despesa pré-lucro, enquanto dividendos e recompras são fluxos de financiamento."
+      },
+      "social_environment": [
+        {
+          "claim": "Declara US$7,6 milhões em contrapartida a doações de empregados a organizações beneficentes.",
+          "period": "2025",
+          "source": "https://www.broadcom.com/company/corporate-responsibility/communities",
+          "verification": "autorrelato empresarial",
+          "limitations": "Valor cobre este programa, não total social; não há avaliação de impacto independente localizada."
+        },
+        {
+          "claim": "Informa asseguração limitada independente sobre emissões de gases de efeito estufa dos escopos 1 e 2 do FY2025.",
+          "period": "FY2025",
+          "source": "https://www.broadcom.com/company/corporate-responsibility",
+          "verification": "informação empresarial sobre asseguração",
+          "limitations": "Parecer integral não examinado nesta coleta; não estender a escopo 3 ou projetos sociais."
+        },
+        {
+          "claim": "Meta corporativa de reduzir emissões dos escopos 1 e 2 em 38% até 2030, frente a 2021.",
+          "period": "meta 2030/base 2021",
+          "source": "https://www.broadcom.com/company/corporate-responsibility/environment",
+          "verification": "autorrelato empresarial",
+          "limitations": "Compromisso não equivale a resultado alcançado."
+        }
+      ],
+      "worker": [
+        {
+          "claim": "Taxa voluntária de saída relatada de 4,1% no FY2025.",
+          "period": "FY2025",
+          "source": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf",
+          "verification": "autorrelato empresarial",
+          "limitations": "Retenção não equivale a satisfação e exclui desligamentos involuntários."
+        },
+        {
+          "metric": "employee_satisfaction",
+          "value": null,
+          "reason": "Índice independente representativo e metodologia não localizados."
+        },
+        {
+          "metric": "internal_promotion_rate",
+          "value": null,
+          "reason": "Taxa consolidada comparável não localizada."
+        }
+      ],
+      "legal_cases": [
+        {
+          "case": "FTC — exclusividade em chips para banda larga e televisão",
+          "regulator": "Federal Trade Commission (EUA)",
+          "event_date": "2021-11-04",
+          "status": "Ordem final por consentimento emitida em 2021 com restrições a exclusividade; ordem prevê término em 2031. Página cadastral da FTC ainda exibe Pending.",
+          "source": "https://www.ftc.gov/legal-library/browse/cases-proceedings/181-0205-broadcom-incorporated-matter",
+          "order_source": "https://www.ftc.gov/system/files/documents/cases/1810205c4750broadcomfinalorder.pdf",
+          "classification": "ordem administrativa por consentimento",
+          "caution": "Explicitar discrepância do rótulo cadastral; não chamar de condenação criminal nem inferir cumprimento integral."
+        }
+      ],
+      "improvements": [
+        "Divulgar indicadores de acessibilidade de licenciamento, previsibilidade contratual, interoperabilidade e suporte, incluindo clientes menores e serviços essenciais.",
+        "Publicar quadro de mobilidade, desligamentos, capacitação e satisfação independente, especialmente em integrações de aquisições.",
+        "Conciliar contribuições comunitárias e gastos reparatórios aos resultados; ampliar verificação da cadeia de suprimentos, escopo 3 e resultados educacionais."
+      ],
+      "public_contact": {
+        "email": "investor.relations@broadcom.com",
+        "type": "Relações com investidores",
+        "source": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025",
+        "is_ceo_direct": false,
+        "sending_note": "Canal público institucional publicado; encaminhamento ao CEO não garantido."
+      },
+      "sources": [
+        {
+          "id": "broadcomAnnual",
+          "url": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085733/d46845dars.pdf"
+        },
+        {
+          "id": "broadcomEarnings",
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025"
+        },
+        {
+          "id": "broadcomSust",
+          "url": "https://www.broadcom.com/company/corporate-responsibility"
+        },
+        {
+          "id": "broadcomCommunity",
+          "url": "https://www.broadcom.com/company/corporate-responsibility/communities"
+        },
+        {
+          "id": "broadcomEnvironment",
+          "url": "https://www.broadcom.com/company/corporate-responsibility/environment"
+        },
+        {
+          "id": "broadcomFTC",
+          "url": "https://www.ftc.gov/legal-library/browse/cases-proceedings/181-0205-broadcom-incorporated-matter"
+        },
+        {
+          "id": "broadcomFTCOrder",
+          "url": "https://www.ftc.gov/system/files/documents/cases/1810205c4750broadcomfinalorder.pdf"
+        }
+      ],
+      "assessment": {
+        "status": "Dossiê preliminar; sem pontuação de índole",
+        "ranking": null,
+        "confidence": "Alta nas demonstrações financeiras; evidência social parcial",
+        "remaining_gaps": [
+          "Total de investimento social e resultados",
+          "Satisfação e promoção interna",
+          "Separação das aplicações financeiras por finalidade",
+          "Parecer completo de asseguração",
+          "Cumprimento atual da ordem FTC"
+        ]
+      }
+    }
+  ]
+}

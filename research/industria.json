@@ -1,0 +1,724 @@
+{
+  "schema_version": "1.0",
+  "project": "ÍNDOLE 360",
+  "research_cutoff": "2026-09-17",
+  "annual_period": "2025-01-01/2025-12-31",
+  "currency_policy": "TSMC em TWD; SpaceX e Aramco em USD. Não comparar valores monetários sem normalização.",
+  "methodology": [
+    "O modelo 30/30/30/10 é proposta normativa do projeto, não lei vigente ou certificação existente.",
+    "Despesas de pesquisa e pessoal são deduzidas antes do lucro. Somá-las com capex e dividendos não produz uma distribuição contábil mutuamente exclusiva de 100% do lucro.",
+    "Lucro contábil não é caixa disponível. Períodos, capital de giro, dívidas e financiamento devem ser conciliados.",
+    "Aplicações financeiras precisam de classificação por finalidade e risco; sua mera existência não comprova desonra, corrupção ou enriquecimento indevido.",
+    "Null significa não verificado, nunca zero. Processos, alegações, acordos e condenações têm estados distintos.",
+    "Perímetros de empregados e emissões podem divergir da consolidação financeira. Não calcular produtividade ou impacto por empregado sem reconciliação.",
+    "Nenhuma nota moral ou ranking conclusivo foi gerado. Dados permitem organizar perguntas, comparações parciais e direito de resposta."
+  ],
+  "companies": [
+    {
+      "id": "tsmc",
+      "name": "Taiwan Semiconductor Manufacturing Company Limited (TSMC)",
+      "sector": "Fabricação de semicondutores sob encomenda",
+      "country": "Taiwan",
+      "tickers": [
+        {
+          "exchange": "TWSE",
+          "symbol": "2330",
+          "url": "https://investor.tsmc.com/static/annualReports/2025/english/index.html"
+        },
+        {
+          "exchange": "NYSE",
+          "symbol": "TSM",
+          "instrument": "ADS",
+          "url": "https://investor.tsmc.com/static/annualReports/2025/english/index.html"
+        }
+      ],
+      "ceo": {
+        "name": "C. C. Wei",
+        "role": "Chairman e CEO",
+        "url": "https://investor.tsmc.com/static/annualReports/2025/english/index.html"
+      },
+      "business_model": "Fabricação e encapsulamento de chips concebidos por clientes; receita por serviços de foundry. A proposta comercial é a produção sob encomenda, sem marca própria de chips concorrentes dos clientes.",
+      "revenue": {
+        "value": 3809054.272,
+        "currency": "TWD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+        "note": "Receita líquida consolidada; documento original em milhares de TWD."
+      },
+      "net_income": {
+        "value": 1715396.78,
+        "currency": "TWD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+        "note": "Lucro líquido CONSOLIDADO. Atribuível aos acionistas da controladora: TWD 1.717.882,627 milhões. Não trocar os denominadores silenciosamente."
+      },
+      "capex": {
+        "value": 1272410.529,
+        "currency": "TWD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+        "note": "Aquisição de imobilizado paga em caixa; não igual a adições contábeis."
+      },
+      "research": {
+        "value": 246427.264,
+        "currency": "TWD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+        "note": "Despesa de pesquisa e desenvolvimento, deduzida antes do lucro líquido."
+      },
+      "dividends": {
+        "value": 466779.199,
+        "currency": "TWD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+        "note": "Dividendos pagos em caixa no exercício; podem decorrer de lucros de períodos anteriores."
+      },
+      "buybacks": {
+        "value": 0,
+        "currency": "TWD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+        "note": "Nenhuma aquisição de ações em tesouraria na demonstração de fluxo de caixa de 2025."
+      },
+      "employees": {
+        "value": 90557,
+        "currency": null,
+        "unit": "people",
+        "period": "2025-12-31",
+        "url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20Annual%20Report.E.pdf",
+        "note": "Quadro global; dado de pessoas autorrelatado, não confundir com auditoria das demonstrações financeiras."
+      },
+      "financial_investments": {
+        "evidence": [
+          {
+            "value": 260.086,
+            "currency": "TWD",
+            "unit": "million",
+            "period": "2025-01-01/2025-12-31",
+            "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+            "note": "Aquisições de instrumentos a valor justo no resultado."
+          },
+          {
+            "value": 66823.227,
+            "currency": "TWD",
+            "unit": "million",
+            "period": "2025-01-01/2025-12-31",
+            "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+            "note": "Aquisições de ativos a valor justo em outros resultados abrangentes."
+          },
+          {
+            "value": 188288.632,
+            "currency": "TWD",
+            "unit": "million",
+            "period": "2025-01-01/2025-12-31",
+            "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+            "note": "Aquisições de ativos ao custo amortizado."
+          },
+          {
+            "value": 218256.133,
+            "currency": "TWD",
+            "unit": "million",
+            "period": "2025-01-01/2025-12-31",
+            "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+            "note": "Resgates/vendas das duas categorias anteriores; soma derivada de 80.052,393 e 138.203,740."
+          }
+        ],
+        "interpretation": "Há aplicações financeiras relevantes. A política declarada prioriza principal, liquidez e grau de investimento; hedges são apresentados separadamente. O registro contábil não demonstra que toda aplicação visa especulação, nem que foi financiada exclusivamente pelo lucro de 2025.",
+        "policy_url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20Annual%20Report.E.pdf",
+        "profit_allocation_percentage": null
+      },
+      "worker": {
+        "employee_benefit_expense": {
+          "value": 396114.889,
+          "currency": "TWD",
+          "unit": "million",
+          "period": "2025-01-01/2025-12-31",
+          "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+          "note": "Benefícios de empregados reconhecidos em custos/despesas; não soma adicional ao destino do lucro."
+        },
+        "profit_sharing": {
+          "value": 103072.958,
+          "currency": "TWD",
+          "unit": "million",
+          "period": "2025-01-01/2025-12-31",
+          "url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20Annual%20Report.E.pdf",
+          "note": "Participação de empregados no resultado de 2025 aprovada em fevereiro de 2026, com pagamento previsto em julho de 2026; não afirmar desembolso em 2025."
+        },
+        "performance_bonus": {
+          "value": 103072.958,
+          "currency": "TWD",
+          "unit": "million",
+          "period": "2025-01-01/2025-12-31",
+          "url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20Annual%20Report.E.pdf",
+          "note": "Bônus de desempenho de negócio pago trimestralmente em 2025."
+        },
+        "survey_response_rate": {
+          "value": 88,
+          "currency": null,
+          "unit": "percent",
+          "period": "2025-01-01/2025-12-31",
+          "url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20Annual%20Report.E.pdf",
+          "note": "Taxa de RESPOSTA da pesquisa de experiência de 2025. Não é índice de satisfação."
+        },
+        "satisfaction_score": null,
+        "promotion_rate": null,
+        "evidence_status": "Demonstrações financeiras auditadas para custos agregados; indicadores de pessoas e políticas são autorrelato corporativo. Sem validação independente da experiência individual."
+      },
+      "social_environment": {
+        "findings": [
+          {
+            "claim": "Relata iniciativas de água de reúso, biodiversidade, segurança de contratados, educação científica e políticas parentais.",
+            "type": "autorrelato",
+            "url": "https://esg.tsmc.com.tw/robots.txt/articles/414"
+          },
+          {
+            "claim": "Meta RE100 em 2040 e emissões líquidas zero em 2050 são compromissos futuros, não resultados já atingidos.",
+            "type": "compromisso",
+            "url": "https://pr.tsmc.com/english/news/3227"
+          }
+        ],
+        "comparable_annual_social_cash_spend": null,
+        "impact_assurance": "Não foi verificada asseguração integral dos projetos sociais nesta pesquisa."
+      },
+      "legal_cases": [
+        {
+          "agency": "USITC",
+          "case": "337-TA-1443",
+          "subject": "Alegações de infração de patentes em dispositivos semicondutores.",
+          "status": "Encerrada integralmente por acordo; decisão da Comissão de 03/09/2026 não revisar a Order 77. Não é condenação de mérito por corrupção ou prova de culpa.",
+          "status_date": "2026-09-03",
+          "url": "https://www.usitc.gov/secretary/fed_reg_notices/337/337_1443_notice09032026sgl.pdf",
+          "penalty": null,
+          "limits": "Esta fonte encerra a investigação USITC. Não pressupõe o estado de todo processo judicial correlato."
+        }
+      ],
+      "improvements": [
+        "Publicar orçamento adicional de qualificação e bem-estar, satisfação anonimizada, promoção interna e resultados de realocação após automação.",
+        "Vincular gastos ambientais a bacias hídricas e comunidades afetadas, com resultados absolutos e verificação externa.",
+        "Conciliar anualmente custos operacionais, investimento produtivo, dividendos, caixa e aplicações financeiras, separando sua finalidade e período."
+      ],
+      "public_contact": {
+        "email": "invest@tsmc.com",
+        "channel": "Relações com investidores; solicitar encaminhamento à liderança de sustentabilidade e pessoas.",
+        "url": "https://investor.tsmc.com/english",
+        "ceo_direct_email": null
+      },
+      "critical_limits": [
+        "Moeda TWD: não comparar números brutos com USD.",
+        "Pesquisa de experiência: 88% é participação, não satisfação.",
+        "Não há percentual comprovado de lucro destinado ao modelo 30/30/30/10."
+      ],
+      "sources": [
+        {
+          "id": "T1",
+          "title": "Demonstrações financeiras consolidadas 2025",
+          "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q4%20Consolidated%20Financial%20Statements_E.pdf",
+          "type": "demonstração financeira auditada",
+          "accessed": "2026-09-17"
+        },
+        {
+          "id": "T2",
+          "title": "Relatório anual 2025",
+          "url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20Annual%20Report.E.pdf",
+          "type": "relatório corporativo",
+          "accessed": "2026-09-17"
+        },
+        {
+          "id": "T3",
+          "title": "Relatório de sustentabilidade 2025 — anúncio de 20/08/2026",
+          "url": "https://esg.tsmc.com.tw/robots.txt/articles/414",
+          "type": "autorrelato",
+          "accessed": "2026-09-17"
+        },
+        {
+          "id": "T4",
+          "title": "USITC: encerramento por acordo em 03/09/2026",
+          "url": "https://www.usitc.gov/secretary/fed_reg_notices/337/337_1443_notice09032026sgl.pdf",
+          "type": "regulador",
+          "accessed": "2026-09-17"
+        },
+        {
+          "id": "T5",
+          "title": "Investor Relations TSMC",
+          "url": "https://investor.tsmc.com/english",
+          "type": "contato oficial",
+          "accessed": "2026-09-17"
+        }
+      ]
+    },
+    {
+      "id": "spacex",
+      "name": "Space Exploration Technologies Corp. (SpaceX)",
+      "sector": "Espaço, conectividade por satélite e inteligência artificial",
+      "country": "Estados Unidos",
+      "tickers": [
+        {
+          "exchange": "Nasdaq Global Select Market / Nasdaq Texas",
+          "symbol": "SPCX",
+          "url": "https://ir.spacex.com/updates/releases-details/2026/Space-Exploration-Technologies-Corp--Announces-Pricing-of-Initial-Public-Offering/default.aspx",
+          "listing_date": "2026-06-12"
+        }
+      ],
+      "ceo": {
+        "name": "Elon Musk",
+        "role": "Chairman, CEO e CTO",
+        "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf"
+      },
+      "business_model": "Lançamentos e serviços espaciais públicos/privados, assinaturas e terminais Starlink, e, após a aquisição de xAI/X, serviços de IA e publicidade/plataforma social.",
+      "revenue": {
+        "value": 18674,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+        "note": "Consolidado histórico reexpresso após combinação sob controle comum com xAI/X."
+      },
+      "net_income": {
+        "value": -4937,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+        "note": "PREJUÍZO líquido: percentuais sobre lucro positivo e modelo 30/30/30/10 não são aplicáveis a este exercício."
+      },
+      "capex": {
+        "value": 20737,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+        "note": "Aquisições de imobilizado pagas em caixa."
+      },
+      "research": {
+        "value": 8643,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+        "note": "Despesa de pesquisa e desenvolvimento; anterior ao lucro líquido."
+      },
+      "dividends": {
+        "value": 0,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+        "note": "Prospecto informa que nunca declarou/pagou dividendos em dinheiro sobre ações ordinárias."
+      },
+      "buybacks": {
+        "value": 1125,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+        "note": "Recompra de ações ordinárias E preferenciais conversíveis resgatáveis; não é exclusivamente recompra em mercado aberto."
+      },
+      "employees": {
+        "value": 18087,
+        "currency": null,
+        "unit": "people",
+        "period": "2025-12-31",
+        "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+        "note": "SOMENTE SpaceX antes de xAI; perímetro NÃO acompanha demonstrações financeiras históricas combinadas."
+      },
+      "latest_consolidated_employees": {
+        "value": 22621,
+        "currency": null,
+        "unit": "people",
+        "period": "2026-04-30",
+        "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+        "note": "Primeiro quadro combinado de Espaço, Conectividade, IA e corporativo publicado após a aquisição; fotografia de 2026, separada das finanças anuais de 2025."
+      },
+      "financial_investments": {
+        "evidence": [
+          {
+            "value": 611,
+            "currency": "USD",
+            "unit": "million",
+            "period": "2025-01-01/2025-12-31",
+            "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+            "note": "Compras brutas de títulos negociáveis."
+          },
+          {
+            "value": 548,
+            "currency": "USD",
+            "unit": "million",
+            "period": "2025-01-01/2025-12-31",
+            "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+            "note": "Vencimentos de títulos negociáveis."
+          },
+          {
+            "value": 1457,
+            "currency": "USD",
+            "unit": "million",
+            "period": "2025-01-01/2025-12-31",
+            "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+            "note": "Vendas de títulos negociáveis."
+          },
+          {
+            "value": 86,
+            "currency": "USD",
+            "unit": "million",
+            "period": "2025-01-01/2025-12-31",
+            "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+            "note": "Investimentos em afiliadas não consolidadas."
+          }
+        ],
+        "interpretation": "Vendas mais vencimentos excederam compras de títulos em USD 1.394 milhões. Isso é liberação líquida, não alocação líquida de lucro em títulos. Investimentos estratégicos precisam de análise separada. O grupo teve prejuízo.",
+        "profit_allocation_percentage": null
+      },
+      "worker": {
+        "satisfaction_score": null,
+        "promotion_rate": null,
+        "annual_employee_development_budget": null,
+        "evidence_status": "Quadros de pessoal do prospecto são divulgação corporativa, não pesquisa independente. Sem índice comparável de satisfação, progressão ou orçamento social para empregados verificado.",
+        "source_url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf"
+      },
+      "social_environment": {
+        "findings": [
+          {
+            "claim": "Starlink relata doação de terminais e serviço temporário em respostas a desastres, incluindo o Caribe em 2025.",
+            "type": "autorrelato",
+            "url": "https://starlink.com/public-files/starlinkProgressReport_2025.pdf"
+          },
+          {
+            "claim": "FAA publicou avaliação ambiental e conclusão mitigada para operações Falcon em SLC-40 em 2025. É avaliação com mitigação, não declaração de ausência de impacto.",
+            "type": "ato regulatório",
+            "url": "https://www.faa.gov/space/stakeholder_engagement/SpaceX_Falcon_SLC_40_EA"
+          }
+        ],
+        "comparable_annual_social_cash_spend": null,
+        "impact_assurance": "Doações físicas e serviço gratuito não foram convertidos em valor financeiro nem tiveram adicionalidade verificada."
+      },
+      "legal_cases": [
+        {
+          "agency": "EPA",
+          "case": "CWA-06-2024-1768",
+          "subject": "Alegações relacionadas a descargas em áreas úmidas sob o Clean Water Act.",
+          "status": "Acordo e ordem final protocolados em 15/01/2025; penalidade administrativa de USD 148.378. A empresa não admite nem nega alegações factuais. Pagamento não confirmado.",
+          "status_date": "2025-01-15",
+          "penalty": {
+            "value": 148378,
+            "currency": "USD",
+            "unit": "dollars",
+            "status": "acordada/ordenada; pagamento não verificado"
+          },
+          "url": "https://yosemite.epa.gov/oa/rhc/epaadmin.nsf/Filings/51FC75AF032DEC4B85258C14000B521C/%24File/2024-1768.pdf"
+        },
+        {
+          "agency": "FAA",
+          "case": null,
+          "subject": "Alegadas violações de licenças em dois lançamentos de 2023.",
+          "status": "Proposta de penalidades de USD 633.009 anunciada em 17/09/2024; não foi confirmado desfecho final nesta pesquisa.",
+          "status_date": "2024-09-17",
+          "penalty": {
+            "value": 633009,
+            "currency": "USD",
+            "unit": "dollars",
+            "status": "proposta, não tratar como multa definitiva paga"
+          },
+          "url": "https://www.faa.gov/newsroom/faa-proposes-633009-civil-penalties-against-spacex"
+        },
+        {
+          "agency": "NLRB",
+          "case": "19-CA-309274",
+          "subject": "Alegações trabalhistas, incluindo retaliação e dispensas.",
+          "status": "Cadastro oficial consultado está Closed. Não foi estabelecida nesta pesquisa decisão final sobre o mérito; encerramento não equivale a condenação ou absolvição.",
+          "status_date": null,
+          "observed_at": "2026-09-17",
+          "url": "https://www.nlrb.gov/case/19-CA-309274",
+          "penalty": null
+        }
+      ],
+      "improvements": [
+        "Publicar indicadores anuais de trabalhadores e contratados por segmento, com ponte entre o perímetro antigo e xAI/X, segurança, progressão e escuta independente.",
+        "Publicar plano verificável de mitigação e reparação ambiental, água, ruído, biodiversidade e detritos orbitais, além do cumprimento dos acordos regulatórios.",
+        "Separar capital produtivo de aplicações financeiras e divulgar custos adicionais e resultados das ações humanitárias, com métricas de preço, acessibilidade e continuidade do serviço."
+      ],
+      "public_contact": {
+        "email": "corporatesecretary@spacex.com",
+        "channel": "Corporate Secretary / contato oficial para companhia e conselho; não é e-mail direto do CEO e não implica condição de acionista.",
+        "url": "https://ir.spacex.com/faqs-and-contact/default.aspx",
+        "ceo_direct_email": null
+      },
+      "critical_limits": [
+        "SPCX confirmado por fonte oficial: não é empresa fechada na data de corte.",
+        "Aquisição de xAI em 02/02/2026 sob controle comum reexpressa demonstrações históricas; dados de 2025 incluem xAI/X.",
+        "Funcionários de 31/12/2025 excluem xAI; não dividir finanças consolidadas por esse quadro sem ressalva.",
+        "Prejuízo anual impede razão de destinação de lucro positivo."
+      ],
+      "sources": [
+        {
+          "id": "S1",
+          "title": "Prospecto europeu aprovado em 05/06/2026; demonstrações anuais 2025",
+          "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+          "type": "prospecto com demonstrações auditadas",
+          "accessed": "2026-09-17"
+        },
+        {
+          "id": "S2",
+          "title": "Precificação da oferta pública e ticker SPCX",
+          "url": "https://ir.spacex.com/updates/releases-details/2026/Space-Exploration-Technologies-Corp--Announces-Pricing-of-Initial-Public-Offering/default.aspx",
+          "type": "comunicado oficial",
+          "accessed": "2026-09-17"
+        },
+        {
+          "id": "S3",
+          "title": "EPA: acordo e ordem final",
+          "url": "https://yosemite.epa.gov/oa/rhc/epaadmin.nsf/Filings/51FC75AF032DEC4B85258C14000B521C/%24File/2024-1768.pdf",
+          "type": "regulador",
+          "accessed": "2026-09-17"
+        },
+        {
+          "id": "S4",
+          "title": "FAA: proposta de penalidades",
+          "url": "https://www.faa.gov/newsroom/faa-proposes-633009-civil-penalties-against-spacex",
+          "type": "regulador",
+          "accessed": "2026-09-17"
+        },
+        {
+          "id": "S5",
+          "title": "NLRB: registro do caso trabalhista",
+          "url": "https://www.nlrb.gov/case/19-CA-309274",
+          "type": "regulador",
+          "accessed": "2026-09-17"
+        },
+        {
+          "id": "S6",
+          "title": "Perguntas e contato oficial",
+          "url": "https://ir.spacex.com/faqs-and-contact/default.aspx",
+          "type": "contato oficial",
+          "accessed": "2026-09-17"
+        },
+        {
+          "id": "S7",
+          "title": "Starlink Progress Report 2025",
+          "url": "https://starlink.com/public-files/starlinkProgressReport_2025.pdf",
+          "type": "autorrelato",
+          "accessed": "2026-09-17"
+        }
+      ]
+    },
+    {
+      "id": "saudi-aramco",
+      "name": "Saudi Arabian Oil Company (Saudi Aramco)",
+      "sector": "Petróleo, gás, refino e produtos químicos",
+      "country": "Arábia Saudita",
+      "tickers": [
+        {
+          "exchange": "Saudi Exchange / Tadawul",
+          "symbol": "2222",
+          "url": "https://www.saudiexchange.sa/wps/portal/saudiexchange/newsandreports/issuer-news/issuer-announcements/issuer-announcements-details/?anCat=1&anId=93575&cs=2222&csrt=15247565148337270244&locale=ar"
+        }
+      ],
+      "ceo": {
+        "name": "Amin H. Nasser",
+        "role": "President e CEO",
+        "url": "https://www.aramco.com/en/news-media/news/2026/fourth-quarter-and-full-year-press-release"
+      },
+      "business_model": "Exploração e produção de petróleo e gás, refino, comercialização e petroquímica. Receitas dependem de volumes e preços de hidrocarbonetos e derivados.",
+      "revenue": {
+        "value": 415824,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+        "note": "Receita IFRS. Não confundir com receita mais outros rendimentos ligados a vendas: USD 445.654 milhões. Tradução suplementar a 3,75 SAR/USD."
+      },
+      "net_income": {
+        "value": 93389,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+        "note": "Lucro IFRS consolidado; atribuível aos acionistas USD 92.811 milhões. NÃO usar lucro ajustado de USD 104,7 bilhões como se fosse IFRS."
+      },
+      "capex": {
+        "value": 50785,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+        "note": "Capex em caixa; não confundir com capital investment ampliado de USD 52,2 bilhões."
+      },
+      "research": {
+        "value": 1451,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+        "note": "Despesa consolidada de P&D; distinta dos USD 974 milhões de pesquisa no perímetro Company in-Kingdom do relatório de sustentabilidade."
+      },
+      "dividends": {
+        "value": 85453,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+        "note": "Pagos a acionistas da companhia; exclui USD 3.255 milhões pagos a participações não controladoras."
+      },
+      "buybacks": {
+        "value": 0,
+        "currency": "USD",
+        "unit": "million",
+        "period": "2025-01-01/2025-12-31",
+        "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+        "note": "Aquisição de ações em tesouraria: zero no fluxo de 2025. Programa de até USD 3 bilhões anunciado em março/2026 não é desembolso de 2025."
+      },
+      "employees": {
+        "value": 76664,
+        "currency": null,
+        "unit": "people",
+        "period": "2025-12-31",
+        "url": "https://www.aramco.com/-/media/publications/corporate-reports/sustainability-reports/report-2025/english/2025-saudi-aramco-sustainability-report-full-en.pdf",
+        "note": "PERÍMETRO Company in-Kingdom: não é todo o grupo global consolidado."
+      },
+      "financial_investments": {
+        "evidence": [
+          {
+            "value": 6575,
+            "currency": "USD",
+            "unit": "million",
+            "period": "2025-01-01/2025-12-31",
+            "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+            "note": "Compras líquidas de investimentos em títulos."
+          },
+          {
+            "value": 389,
+            "currency": "USD",
+            "unit": "million",
+            "period": "2025-01-01/2025-12-31",
+            "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+            "note": "Compras líquidas de investimentos de curto prazo."
+          },
+          {
+            "value": 18513,
+            "currency": "USD",
+            "unit": "million",
+            "period": "2025-12-31",
+            "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+            "note": "Estoque de investimentos em títulos correntes e não correntes."
+          }
+        ],
+        "interpretation": "Há títulos, depósitos e participações estratégicas. Separar liquidez de tesouraria, gestão de risco e investimentos industriais/inovação; o agregado não comprova finalidade especulativa. Fluxo líquido não equivale a percentual exclusivamente financiado com lucro.",
+        "profit_allocation_percentage": null
+      },
+      "worker": {
+        "satisfaction_score": null,
+        "promotion_rate": null,
+        "annual_employee_development_budget": null,
+        "training": {
+          "value": 167,
+          "currency": null,
+          "unit": "hours_per_employee",
+          "period": "2025-01-01/2025-12-31",
+          "url": "https://www.aramco.com/-/media/publications/corporate-reports/sustainability-reports/report-2025/english/2025-saudi-aramco-sustainability-report-full-en.pdf",
+          "note": "Média de treinamento divulgada no perímetro do relatório; não é orçamento nem prova de satisfação."
+        },
+        "contractor_fatalities": {
+          "value": 4,
+          "currency": null,
+          "unit": "deaths",
+          "period": "2025-01-01/2025-12-31",
+          "url": "https://www.aramco.com/-/media/publications/corporate-reports/sustainability-reports/report-2025/english/2025-saudi-aramco-sustainability-report-full-en.pdf",
+          "note": "Fatalidades de contratados relatadas pela companhia em 2025."
+        },
+        "evidence_status": "Relatório corporativo; selecionados indicadores possuem asseguração limitada, não certificação integral da experiência ou das políticas trabalhistas.",
+        "source_url": "https://www.aramco.com/en/sustainability/sustainability-report/safe-operations-and-people-development"
+      },
+      "social_environment": {
+        "comparable_annual_social_cash_spend": {
+          "value": 541,
+          "currency": "USD",
+          "unit": "million",
+          "period": "2025-01-01/2025-12-31",
+          "url": "https://www.aramco.com/en/sustainability/society",
+          "note": "Contribuições globais sociais/ambientais divulgadas; autorrelato. Não comprovada alocação pós-lucro nem equivalência automática a impacto."
+        },
+        "findings": [
+          {
+            "claim": "Relata projetos de educação, biodiversidade, saúde e energia para comunidades.",
+            "type": "autorrelato",
+            "url": "https://www.aramco.com/en/sustainability/sustainability-report/growing-societal-value"
+          },
+          {
+            "claim": "Emissões operacionais divulgadas de escopo 1: 58,0 MtCO2e; escopo 2: 14,0 MtCO2e. Esses escopos não cobrem todo o uso dos produtos vendidos.",
+            "type": "indicadores corporativos selecionados com asseguração limitada",
+            "url": "https://www.aramco.com/en/about-us/at-a-glance"
+          }
+        ],
+        "impact_assurance": "A asseguração limitada alcança métricas identificadas no relatório, não toda a narrativa social nem um selo moral."
+      },
+      "legal_cases": [],
+      "legal_review": "Busca inicial não exaustiva: nenhum caso específico da entidade com fonte regulatória e desfecho atual suficiente foi selecionado. Campo vazio não significa inexistência de processos ou irregularidades.",
+      "improvements": [
+        "Vincular desembolsos a remediação e transição ambiental verificáveis, com emissões da cadeia de valor e resultados locais além dos escopos operacionais.",
+        "Divulgar quadro e indicadores do grupo global e de contratados, orçamento de desenvolvimento, satisfação, progressão e prevenção de fatalidades.",
+        "Conciliar destinação anual de capital, dividendos, tesouraria, P&D e contribuições voluntárias, distinguindo remediação obrigatória de impacto adicional."
+      ],
+      "public_contact": {
+        "email": "investor.relations@aramco.com",
+        "channel": "Relações com investidores; solicitar encaminhamento à liderança de sustentabilidade/pessoas. E-mail publicado no relatório oficial de novembro/2025; canal atual também disponibiliza formulário.",
+        "url": "https://www.saudiexchange.sa/Resources/fsPdf/11974_1541_2025-11-04_07-44-51_en.pdf",
+        "form_url": "https://www.aramco.com/en/investors/investor-contact-form",
+        "ceo_direct_email": null
+      },
+      "critical_limits": [
+        "USD é tradução suplementar dos valores-base em SAR; não usar câmbio de mercado para reconverter esses números.",
+        "Lucro ajustado e lucro IFRS são diferentes.",
+        "Quadro de 76.664 é Company in-Kingdom, diferente do perímetro financeiro consolidado.",
+        "Contribuição social publicada não basta para certificar a adesão a 30% do lucro."
+      ],
+      "sources": [
+        {
+          "id": "A1",
+          "title": "Demonstrações financeiras consolidadas 2025",
+          "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-consolidated-english.pdf",
+          "type": "demonstração auditada",
+          "accessed": "2026-09-17"
+        },
+        {
+          "id": "A2",
+          "title": "Relatório de sustentabilidade 2025",
+          "url": "https://www.aramco.com/-/media/publications/corporate-reports/sustainability-reports/report-2025/english/2025-saudi-aramco-sustainability-report-full-en.pdf",
+          "type": "autorrelato e asseguração limitada de métricas selecionadas",
+          "accessed": "2026-09-17"
+        },
+        {
+          "id": "A3",
+          "title": "Resultados anuais publicados em 10/03/2026",
+          "url": "https://www.aramco.com/en/news-media/news/2026/fourth-quarter-and-full-year-press-release",
+          "type": "comunicado oficial",
+          "accessed": "2026-09-17"
+        },
+        {
+          "id": "A4",
+          "title": "Sociedade: contribuições sociais 2025",
+          "url": "https://www.aramco.com/en/sustainability/society",
+          "type": "autorrelato",
+          "accessed": "2026-09-17"
+        },
+        {
+          "id": "A5",
+          "title": "Relatório oficial com contato IR",
+          "url": "https://www.saudiexchange.sa/Resources/fsPdf/11974_1541_2025-11-04_07-44-51_en.pdf",
+          "type": "contato institucional",
+          "accessed": "2026-09-17"
+        },
+        {
+          "id": "A6",
+          "title": "Saudi Exchange: símbolo 2222 e anúncio de 2026",
+          "url": "https://www.saudiexchange.sa/wps/portal/saudiexchange/newsandreports/issuer-news/issuer-announcements/issuer-announcements-details/?anCat=1&anId=93575&cs=2222&csrt=15247565148337270244&locale=ar",
+          "type": "bolsa oficial",
+          "accessed": "2026-09-17"
+        }
+      ]
+    }
+  ]
+}

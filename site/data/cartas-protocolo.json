@@ -1,0 +1,13 @@
+{
+  "as_of": "2026-09-26",
+  "wave": 1,
+  "note": "Envio não prova leitura. Sem nota geral.",
+  "sent": [
+    {"id": "nvidia", "to": "ir@nvidia.com"},
+    {"id": "apple", "to": "investor_relations@apple.com"},
+    {"id": "microsoft", "to": "msft@microsoft.com"},
+    {"id": "alphabet", "to": "investor-relations@abc.xyz"},
+    {"id": "amazon", "to": "amazon-ir@amazon.com"}
+  ],
+  "pending": ["tsmc", "spacex", "meta", "broadcom", "saudi-aramco"]
+}
